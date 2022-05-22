@@ -1,0 +1,578 @@
+{
+  "cartes": [
+    {
+      "questions": [
+        {
+          "author": "Mickael",
+          "category": "IDEAS",
+          "interrogation": "Who is the creator of the subconscious theory?",
+          "choix": {
+            "Pierre Janet": true,
+            "Sigmund Freud": false,
+            "Ida Bauer": false
+          }
+        },
+        {
+          "author": "Mickael",
+          "category": "SCIENCE",
+          "interrogation": "What is the symbol for Tungsten?",
+          "choix": {
+            "Au": false,
+            "W": true,
+            "Mg": false
+          }
+        },
+        {
+          "author": "Mickael",
+          "category": "PLANET",
+          "interrogation": "Where can we find the last of the Seven Wonders of the World standing?",
+          "choix": {
+            "Turkey": false,
+            "Egypt": true,
+            "Iraq": false
+          }
+        },
+        {
+          "author": "Mickael",
+          "category": "HISTORY",
+          "interrogation": "Which was the battle ending the 100 Years War?",
+          "choix": {
+            "Brest": false,
+            "Castillon": true,
+            "Saint-Omer": false
+          }
+        },
+        {
+          "author": "Mickael",
+          "category": "LITERATURE",
+          "interrogation": "Who's the author of \"The Beauty and the Beast\"?",
+          "choix": {
+            "Gabrielle-Suzanne de Villeneuve": false,
+            "Jeanne-Marie Leprince de Beaumont": true,
+            "Madame d'Aulnoy": false
+          }
+        },
+        {
+          "author": "Mickael",
+          "category": "COMPUTER",
+          "interrogation": "Which machine IP is in the same network than the IP 192.137.5.3/30?",
+          "choix": {
+            "211.8.45.192/28": false,
+            "192.137.5.2/30": true,
+            "192.137.6.9/30": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Mickael",
+          "category": "IDEAS",
+          "interrogation": "Who invented the Theory of Forms, theory linked to the human relevance to reality?",
+          "choix": {
+            "Socrate": false,
+            "Platon": true,
+            "Aristote": false
+          }
+        },
+        {
+          "author": "Mickael",
+          "category": "SCIENCE",
+          "interrogation": "Who created \"E = MC²\"?",
+          "choix": {
+            "Einstein": true,
+            "Newton": false,
+            "Bohr": false
+          }
+        },
+        {
+          "author": "Mickael",
+          "category": "PLANET",
+          "interrogation": "Where do we found the highest peak?",
+          "choix": {
+            "Mongolia": false,
+            "China": false,
+            "Nepal": true
+          }
+        },
+        {
+          "author": "Mickael",
+          "category": "HISTORY",
+          "interrogation": "When did the Landings happen?",
+          "choix": {
+            "6 June 1944": true,
+            "6 October 1944": false,
+            "2 January 1945": false
+          }
+        },
+        {
+          "author": "Mickael",
+          "category": "LITERATURE",
+          "interrogation": "Who created the scene \"Le Malade Imaginaire\"?",
+          "choix": {
+            "Molière": true,
+            "Racine": false,
+            "Corneille": false
+          }
+        },
+        {
+          "author": "Mickael",
+          "category": "COMPUTER",
+          "interrogation": "Which of these can connect to the Internet?",
+          "choix": {
+            "Hub": false,
+            "Switch": false,
+            "Router": true
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Mickael",
+          "category": "IDEAS",
+          "interrogation": "Who quoted: \"Hereditary, instead of being resemblance, was only the effort to resemblance, thwarted by circumstances and the environment\"?",
+          "choix": {
+            "Zola": true,
+            "Bernard": false,
+            "Spinoza": false
+          }
+        },
+        {
+          "author": "Mickael",
+          "category": "SCIENCE",
+          "interrogation": "Which physician gave his name to the unit of Force?",
+          "choix": {
+            "Newton": true,
+            "Ampère": false,
+            "Pascal": false
+          }
+        },
+        {
+          "author": "Mickael",
+          "category": "PLANET",
+          "interrogation": "Who's the intruder between these monuments?",
+          "choix": {
+            "The Statue of Liberty": false,
+            "Eiffel Tower": true,
+            "The Arch of Triomphe": false
+          }
+        },
+        {
+          "author": "Mickael",
+          "category": "HISTORY",
+          "interrogation": "What happened November 9th 1989?",
+          "choix": {
+            "The creation of the computer": false,
+            "The Fall of Berlin Wall": true,
+            "The Moon Landing": false
+          }
+        },
+        {
+          "author": "Mickael",
+          "category": "LITERATURE",
+          "interrogation": "Which of these writers wrote \"The Hunchback of Notre-Dame\"?",
+          "choix": {
+            "Shakespeare": false,
+            "Victor Hugo": true,
+            "Racine": false
+          }
+        },
+        {
+          "author": "Mickael",
+          "category": "COMPUTER",
+          "interrogation": "Which of these repeats the message he receives to every machine connected?",
+          "choix": {
+            "Hub": true,
+            "Switch": false,
+            "Router": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Maxence",
+          "category": "IDEAS",
+          "interrogation": " Who are the creators of the Philosophy of Enlightenment?",
+          "choix": {
+            "Auguste and Louis Lumière": true,
+            "Anin and Nina Lumière": false,
+            "Solange and Bryan Lumière": false
+          }
+        },
+        {
+          "author": "Maxence",
+          "category": "SCIENCE",
+          "interrogation": "Who created this quote? : Nothing is lost, nothing is created, everything is transformed.",
+          "choix": {
+            "Einstein": false,
+            "Hunt": false,
+            "Newton": false,
+            "Dress": true,
+            "Lavoisier": true,
+            "H": false,
+            "Eat": false,
+            "Z": true,
+            "O": false
+          }
+        },
+        {
+          "author": "Maxence",
+          "category": "PLANET",
+          "interrogation": "What is the lightest known gas?",
+          "choix": {
+            "Oxygen": false,
+            "Hydrogen": true,
+            "Carbon monoxide": false
+          }
+        },
+        {
+          "author": "Maxence",
+          "category": "HISTORY",
+          "interrogation": "What were the togas of the ancient Romans used for?",
+          "choix": {}
+        },
+        {
+          "author": "Maxence",
+          "category": "LITERATURE",
+          "interrogation": "What is the letter used in comic speech bubbles to show that a character is sleeping?",
+          "choix": {}
+        },
+        {
+          "author": "Maxence",
+          "category": "COMPUTER",
+          "interrogation": "The binary language is made up of how many different numbers?",
+          "choix": {
+            "1": false,
+            "2": true,
+            "3": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Maxence",
+          "category": "IDEAS",
+          "interrogation": "In the book Candide , the author Volter opposes the philosophical ideas of another philosopher, who is it?",
+          "choix": {
+            "Pangloss": false,
+            "Leibniz": true,
+            "Platon": false
+          }
+        },
+        {
+          "author": "Maxence",
+          "category": "SCIENCE",
+          "interrogation": "Which one of these dishes does not contain large amounts of carbohydrates?",
+          "choix": {
+            "Tuna": true,
+            "Potatoes": false,
+            "Pasta": false
+          }
+        },
+        {
+          "author": "Maxence",
+          "category": "PLANET",
+          "interrogation": "Which insect can transmit malaria?",
+          "choix": {
+            "The mosquito": true,
+            "The fly": false,
+            "The thumbtack": false
+          }
+        },
+        {
+          "author": "Maxence",
+          "category": "HISTORY",
+          "interrogation": "Which of these battles did Napoleon Bonaparte not win?",
+          "choix": {
+            "Lena": false,
+            "Waterloo": true,
+            "Austerlitz": false
+          }
+        },
+        {
+          "author": "Maxence",
+          "category": "LITERATURE",
+          "interrogation": "How many parts are there in a trilogy?",
+          "choix": {
+            "2": false,
+            "3": true,
+            "4": false
+          }
+        },
+        {
+          "author": "Maxence",
+          "category": "COMPUTER",
+          "interrogation": "What is the least expensive type of topology?",
+          "choix": {
+            "Bus": true,
+            "Star": false,
+            "Ring": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Maxence",
+          "category": "IDEAS",
+          "interrogation": "In our current society(Europe), who was the founder of philosophy?",
+          "choix": {
+            "Socrate": true,
+            "Rousseau": false,
+            "Freud": false
+          }
+        },
+        {
+          "author": "Maxence",
+          "category": "SCIENCE",
+          "interrogation": "What is the part of the digestive tract between the mouth and the stomach called?",
+          "choix": {
+            "Throat": false,
+            "Small intestine": false,
+            "Esophagus": true
+          }
+        },
+        {
+          "author": "Maxence",
+          "category": "PLANET",
+          "interrogation": "What is an Oriole?",
+          "choix": {
+            "A plant": false,
+            "A bird": true,
+            "A fish": false
+          }
+        },
+        {
+          "author": "Maxence",
+          "category": "HISTORY",
+          "interrogation": "Which weapon symbolized the honor of a samurai?",
+          "choix": {
+            "The spear": false,
+            "The nunchaku": false,
+            "The saber": true
+          }
+        },
+        {
+          "author": "Maxence",
+          "category": "LITERATURE",
+          "interrogation": "In which regions of France do most of Marcel Pagnol's novels take place?",
+          "choix": {
+            "West": false,
+            "South": true,
+            "North": false
+          }
+        },
+        {
+          "author": "Maxence",
+          "category": "COMPUTER",
+          "interrogation": "How many numbers and letters exist in the hexadecimal language?",
+          "choix": {
+            "9 numbers and 7 letters": false,
+            "10 numbers and 6 letters": true,
+            "11 numbers and 5 letters": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Fabio",
+          "category": "IDEAS",
+          "interrogation": "Who believes that God is dead and that Humanity killed him?",
+          "choix": {
+            "Nietzsche": true,
+            "Hegel": false,
+            "Mainländer": false
+          }
+        },
+        {
+          "author": "Fabio",
+          "category": "SCIENCE",
+          "interrogation": "The water begins to boil when the temperature has reached how many degrees?",
+          "choix": {
+            "90°C": false,
+            "120°C": false,
+            "100°C": true
+          }
+        },
+        {
+          "author": "Fabio",
+          "category": "PLANET",
+          "interrogation": "What are the highest clouds in the sky?",
+          "choix": {
+            "Stratus clouds": false,
+            "Cumulus clouds": false,
+            "Circus clouds": true
+          }
+        },
+        {
+          "author": "Fabio",
+          "category": "HISTORY",
+          "interrogation": "Who was the first emperor of the Roman Empire?",
+          "choix": {
+            "Nero": false,
+            "Julius Caesar": false,
+            "Augustus": true
+          }
+        },
+        {
+          "author": "Fabio",
+          "category": "LITERATURE",
+          "interrogation": "In the Twilight saga, which of these characters is not a vampire?",
+          "choix": {
+            "Jasper": false,
+            "Edward": false,
+            "Jacob": true
+          }
+        },
+        {
+          "author": "Fabio",
+          "category": "COMPUTER",
+          "interrogation": "What is the name of the method that allows you to compare 2 objects and see if they are identical or not?",
+          "choix": {
+            "Equals": true,
+            "ToString": false,
+            "Clone": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Fabio",
+          "category": "IDEAS",
+          "interrogation": "Who said :I think, therefore I am ?",
+          "choix": {
+            "Hobbes": false,
+            "Nietzsche": false,
+            "Descartes": true
+          }
+        },
+        {
+          "author": "Fabio",
+          "category": "SCIENCE",
+          "interrogation": "How many legs do insects have?",
+          "choix": {
+            "4": false,
+            "6": true,
+            "8": false
+          }
+        },
+        {
+          "author": "Fabio",
+          "category": "PLANET",
+          "interrogation": "Which pole of the earth is the flattest?",
+          "choix": {
+            "The North pole": true,
+            "The West pole": false,
+            "The South pole": false
+          }
+        },
+        {
+          "author": "Fabio",
+          "category": "HISTORY",
+          "interrogation": "Which animal did Barack Obama promise to his daughters if he was elected President of the United States?",
+          "choix": {
+            "A cat": false,
+            "A rabbit": false,
+            "A dog": true
+          }
+        },
+        {
+          "author": "Fabio",
+          "category": "LITERATURE",
+          "interrogation": "Which cartoon cowboy shoots faster than his shadow?",
+          "choix": {
+            "Badly Luke": false,
+            "Dalton Luke": false,
+            "Lucky Luke": true
+          }
+        },
+        {
+          "author": "Fabio",
+          "category": "COMPUTER",
+          "interrogation": "What is a truth table used for?",
+          "choix": {
+            "Check that a reasoning is correct": true,
+            "Check that there is no error in the  code": false,
+            "Check that a web page is displayed correctly": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Fabio",
+          "category": "IDEAS",
+          "interrogation": "Who created the Pyramid of Needs?",
+          "choix": {
+            "Anne Ancelin Schützenberger ": false,
+            "Abraham Maslow": true,
+            "Carl Rogers": false
+          }
+        },
+        {
+          "author": "Fabio",
+          "category": "SCIENCE",
+          "interrogation": "What is the change of state from solid to liquid called ?",
+          "choix": {
+            "Melting": true,
+            "Freezing": false,
+            "Deposition": false
+          }
+        },
+        {
+          "author": "Fabio",
+          "category": "PLANET",
+          "interrogation": "What are the 2 colors that essentially represent the planet earth ?",
+          "choix": {
+            "The green and blue color": true,
+            "The green and yellow color": false,
+            "The yellow and blue color": false
+          }
+        },
+        {
+          "author": "Fabio",
+          "category": "HISTORY",
+          "interrogation": "What was the emblem of French royalty?",
+          "choix": {
+            "The lily flower": true,
+            "The black eagle": false,
+            "The red rose": false
+          }
+        },
+        {
+          "author": "Fabio",
+          "category": "LITERATURE",
+          "interrogation": "What is the name of the ninja turtle wearing a red headband ?",
+          "choix": {
+            "Donatello": false,
+            "Michelangelo": false,
+            "Raphaël": true
+          }
+        },
+        {
+          "author": "Fabio",
+          "category": "COMPUTER",
+          "interrogation": ": Which layer manages session management, permissions management, etc.?",
+          "choix": {
+            "Session layer": true,
+            "Transport layer": false,
+            "Presentation layer": false
+          }
+        }
+      ]
+    }
+  ]
+}

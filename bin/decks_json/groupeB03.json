@@ -1,0 +1,581 @@
+{
+  "cards": [
+    {
+      "questions": [
+ 	    {
+	 	  "author": "Quentin",
+		  "category": "IDEAS",
+		  "interrogation": "Who said,\"I have nothing to offer but blood, toil, tears and sweat\"?",
+		  "choices": {
+		 	"Winston Churchill": true,
+			"John F. Kennedy": false,
+			"Angela Merkem": false
+		  }
+	    },
+	    {
+	 	  "author": "Quentin",
+		  "category": "SCIENCE",
+		  "interrogation": "Which is the largest blood vessel in the body ? ",
+		  "choices": {
+		 	"Aorta": true,
+			"Vein": false,
+			"Artery": false
+		 }
+	    },
+	    {
+	 	  "author": "Quentin",
+		  "category": "PLANET",
+		  "interrogation": "How many rivers are there in Belgium ? ",
+		  "choices": {
+		 	"4": false,
+			"1": false,
+			"3": true
+		  }
+	    },
+	    {
+	 	  "author": "Quentin",
+		  "category": "HISTORY",
+		  "interrogation": "Who was president during the Cuban Missile Crisis ? ",
+		  "choices": {
+		 	"George H.W. Bush": false,
+			"Franklin D. Roosevelt": false,
+			"John F. Kennedy": true
+		  }
+	    },
+	    {
+	 	  "author": "Quentin",
+		  "category": "LITERATURE",
+		  "interrogation": "Where was George Simenon born ? ",
+		  "choices": {
+		 	"Paris": false,
+			"Liège": true,
+			"Lausanne": false
+		  }
+	    },
+	    {
+	 	  "author": "Quentin",
+		  "category": "COMPUTER",
+		  "interrogation": "What does MAC mean in Apple computers ? ",
+		  "choices": {
+		 	"MacAlister": false,
+			"MacWay": false,
+			"Macintosh": true
+		  }
+	    }
+	  ]
+	},
+	{
+	  "questions": [
+	    {
+	 	  "author": "Quentin",
+		  "category": "IDEAS",
+		  "interrogation": "What literary current was Jean Paul Sartre part of ?",
+		  "choices": {
+		 	"the Lumieres": false,
+			"the Baroque": false,
+			"the Existentialism": true
+		  }
+	    },
+	    {
+	 	  "author": "Quentin",
+		  "category": "SCIENCE",
+		  "interrogation": "What is needed for rusting to occur ? ",
+		  "choices": {
+		 	"Water and Oxygen": true,
+			"Carbon dioxide": false,
+			"Water": false
+		  }
+	    },
+	    {
+	 	  "author": "Quentin",
+		  "category": "PLANET",
+		  "interrogation": "What is the tropic present in the northern hemisphere ? ",
+		  "choices": {
+		 	"The Tropic of Cancer": true,
+			"The Tropic of Capricorn": false,
+			"The Tropic of the bull": false
+		  }
+	    },
+	    {
+	 	  "author": "Quentin",
+		  "category": "HISTORY",
+		  "interrogation": "When was NATO formed ? ",
+		  "choices": {
+		 	"4 April 1949": true,
+			"16 May 1945": false,
+			"11 September 2001": false
+		  }
+	    },
+	    {
+	 	  "author": "Quentin",
+		  "category": "LITERATURE",
+		  "interrogation": "Who is the author of The Origin of Species ? ",
+		  "choices": {
+		 	"Charles Darwin": true,
+			"Stephen Hawking": false,
+			"Isaac Asimov": false
+		  }
+	    },
+	    {
+	 	  "author": "Quentin",
+		  "category": "COMPUTER",
+		  "interrogation": "What is the First Version of Windows called ? ",
+		  "choices": {
+		 	"Microsoft": false,
+			"Interface Manager": true,
+			"Computer Inteface": false
+		  }
+	    }
+	  ]
+	},
+	{
+	  "questions": [
+	    {
+	 	  "author": "Quentin",
+		  "category": "IDEAS",
+		  "interrogation": "What values did the Lumieres defend ? ",
+		  "choices": {
+		 	"tolerance, freedom and equality": true,
+			"individualism, social class differences and racial class": false,
+			"communism, dictatorship and totalitarian state": false
+		  }
+	    },
+	    {
+	 	  "author": "Quentin",
+		  "category": "SCIENCE",
+		  "interrogation": "What is Saurology ? ",
+		  "choices": {
+		 	"Study of Mosquitoes": false,
+			"Study of Snake": false,
+			"Study of Lizards": true
+		  }
+	    },
+	    {
+	 	  "author": "Quentin",
+		  "category": "PLANET",
+		  "interrogation": "Which planet has approximately the same landmass as Earth ? ",
+		  "choices": {
+		 	"Pluto": false,
+			"Saturn": false,
+			"Mars": true
+		  }
+	    },
+	    {
+	 	  "author": "Quentin",
+		  "category": "HISTORY",
+		  "interrogation": "During which war was a Christmas Truce called ? ",
+		  "choices": {
+		 	"World War II": false,
+			"World War I": true,
+			"Vietnam War": false
+		  }
+	    },
+	    {
+	 	  "author": "Quentin",
+		  "category": "LITERATURE",
+		  "interrogation": "What was the name of the fifth novel in the Harry Potter series by JK Rowling wich came out in June 2003 ? ",
+		  "choices": {
+		 	"Harry Potter and the Half-Blood Prince": false,
+			"Harry Potter and the order the Phoenix": true,
+			"Harry Potter and the Deathly Hallows": false
+		  }
+	    },
+	    {
+	 	  "author": "Quentin",
+		  "category": "COMPUTER",
+		  "interrogation": "What is the address given to a computer connected to a network called ? ",
+		  "choices": {
+		 	"IP address": true,
+			"MAC address": false,
+			"Postal address": false
+		  }
+	    }
+	  ]
+	},
+	{
+      "questions": [
+        {
+	 	  "author": "Yohan Noel-Huls",
+		  "category": "IDEAS",
+		  "interrogation": "Which one of these French president said the famous sentence 'Au revoir.' ?",
+		  "choices": {
+		 	"Jacques Chirac": false,
+			"Nicolas Sarkozy": false,
+			"Valery Giscard D’estaing": true
+		  }
+	    },
+	    {
+	 	  "author": "Yohan Noel-Huls",
+		  "category": "SCIENCE",
+		  "interrogation": "Which pet was compared to a radio signal by Albert Einstein ?",
+		  "choices": {
+		 	"A very long dog": false,
+			"A very long cat": true,
+			"A very long snake": false
+		  }
+	    },
+	    {
+	 	  "author": "Yohan Noel-Huls",
+		  "category": "PLANET",
+		  "interrogation": "How many tonnes of plastics are dumped in the ocean each year ?",
+		  "choices": {
+		 	"8 millions tonnes": false,
+			"14 millions tonnes": true,
+			"16 millions tonnes": false
+		  }
+	    },
+	    {
+	 	  "author": "Yohan Noel-Huls",
+		  "category": "HISTORY",
+		  "interrogation": "When did Christopher Columbus discover America ?",
+		  "choices": {
+		 	"1490": false,
+			"1486": false,
+			"1492": true
+		  }
+	    },
+	    {
+	 	  "author": "Yohan Noel-Huls",
+		  "category": "LITERATURE",
+		  "interrogation": "What is 'Les fleurs du mal' of Charles Baudelaire ?",
+		  "choices": {
+		 	"A volume of poetry": true,
+			"A volume of novel": false,
+			"A volume of song": false
+		  }
+	    },
+	    {
+	 	  "author": "Yohan Noel-Huls",
+		  "category": "COMPUTER",
+		  "interrogation": "What is the most used operating system in the world ?",
+		  "choices": {
+			"Linux": false,
+			"Windows": true,
+			"MacOS": false
+		  }
+	    }
+      ]
+    },
+    {
+      "questions": [
+        {
+	 	  "author": "Yohan Noel-Huls",
+		  "category": "IDEAS",
+		  "interrogation": "How many presidential term can one person act as the president of the USA ?",
+		  "choices": {
+		 	"3": false,
+			"2": true,
+			"4": false
+		  }
+	    },
+	    {
+	 	  "author": "Yohan Noel-Huls",
+		  "category": "SCIENCE",
+		  "interrogation": "What is a black hole ?",
+		  "choices": {
+		 	"The absence of matter": false,
+			"A big ball of black paint chilling in the space": false,
+			"An highly concentrated amount of matter": true
+		  }
+	    },
+	    {
+	 	  "author": "Yohan Noel-Huls",
+		  "category": "PLANET",
+		  "interrogation": "What is the largest ocean on earth ?",
+		  "choices": {
+		 	"Pacific": true,
+			"Atlantic": false,
+			"Indian": false
+		  }
+	    },
+	    {
+	 	  "author": "Yohan Noel-Huls",
+		  "category": "HISTORY",
+		  "interrogation": "When the atom was discovered ?",
+		  "choices": {
+		 	"1808": true,
+			"1756": false,
+			"450 B.C.": false
+		  }
+	    },
+	    {
+	 	  "author": "Yohan Noel-Huls",
+		  "category": "LITERATURE",
+		  "interrogation": "What is the 'Forever 27 club' ?",
+		  "choices": {
+		 	"A club of 27 talented artist": false,
+			"An album with 27 songs known as perfect": false,
+			"A list of artists who died at the age of 27": true
+		  }
+	    },
+	    {
+	 	  "author": "Yohan Noel-Huls",
+		  "category": "COMPUTER",
+		  "interrogation": "How many IPv4 address are available ?",
+		  "choices": {
+		 	"Around 8.6 billion": false,
+			"Around 4.3 billion": true,
+			"Around 2.1 billion": false
+		  }
+	    }
+      ]
+    },
+    {
+      "questions": [
+        {
+	 	  "author": "Yohan Noel-Huls",
+		  "category": "IDEAS",
+		  "interrogation": "In which State of California is there a dog as the mayor of a town ?",
+		  "choices": {
+		 	"California": true,
+			"Florida": false,
+			"Texas": false
+		  }
+	    },
+	    {
+	 	  "author": "Yohan Noel-Huls",
+		  "category": "SCIENCE",
+		  "interrogation": "Which one of these choices is a part of Newton’s first law ?",
+		  "choices": {
+		 	"An object at rest stays at rest as long as no force acts on it": true,
+			"The heavier an object is, the faster it will fall": false,
+			"An object without support will always fall to the ground ": false
+		  }
+	    },
+	    {
+	 	  "author": "Yohan Noel-Huls",
+		  "category": "PLANET",
+		  "interrogation": "Which one of these country has the cleanest energy usage ?",
+		  "choices": {
+		 	"Sweden": false,
+			"Germany": true,
+			"UK": false
+		  }
+	    },
+	    {
+	 	  "author": "Yohan Noel-Huls",
+		  "category": "HISTORY",
+		  "interrogation": "How did JFK died ?",
+		  "choices": {
+		 	"Car accident": false,
+			"Assassination": true,
+			"Cancer": false
+		  }
+	    },
+	    {
+	 	  "author": "Yohan Noel-Huls",
+		  "category": "LITERATURE",
+		  "interrogation": "Who wrote Hamlet ?",
+		  "choices": {
+		 	"Mozart": false,
+			"Shakespeare": true,
+			"Molière": false
+		  }
+	    },
+	    {
+	 	  "author": "Yohan Noel-Huls",
+		  "category": "COMPUTER",
+		  "interrogation": "Why are bugs named bugs ?",
+		  "choices": {
+		 	"Because of the imagery of something undesirable": false,
+			"Because bugs were at first real bugs": true,
+			"Because of a declination of an ancient Greek word": false
+		  }
+	    }
+      ]
+    },
+    {
+      "questions": [
+        {
+	 	  "author": "Alexandre Dujacquier",
+		  "category": "IDEAS",
+		  "interrogation": "Who wrote the bases of communism ?",
+		  "choices": {
+		 	"Henry Ford": false,
+			"Vladimir Putin": false,
+			"Karl Marx": true
+		  }
+	    },
+	    {
+	 	  "author": "Alexandre Dujacquier",
+		  "category": "SCIENCE",
+		  "interrogation": "Where was created the oldest steam engine?",
+		  "choices": {
+		 	"Great Britain": false,
+			"Greece": true,
+			"USA": false
+		  }
+	    },
+	    {
+	 	  "author": "Alexandre Dujacquier",
+		  "category": "PLANET",
+		  "interrogation": "What is the largest forest in the world ?",
+		  "choices": {
+		 	"Amazon forest": true,
+			"The Taiga": false,
+			"Valdivian rainforest": false
+		  }
+	    },
+	    {
+	 	  "author": "Alexandre Dujacquier",
+		  "category": "HISTORY",
+		  "interrogation": "Diogenes, a Greek philosopher who lived in poverty, said to which famous conqueror to stand out of his sunlight when asked if he needs anything ?",
+		  "choices": {
+		 	"Leonidas, King of Sparta": false,
+			"Julius Caesar": false,
+			"Alexander the great": true
+		  }
+	    },
+	    {
+	 	  "author": "Alexandre Dujacquier",
+		  "category": "LITERATURE",
+		  "interrogation": "What is the name of George Orwell's book where a dystopic society supervised by Big Brother is taking place ?",
+		  "choices": {
+		 	"Animal Farm": false,
+			"1984": true,
+			"Keep the Aspidistra Flying": false
+		  }
+	    },
+	    {
+	 	  "author": "Alexandre Dujacquier",
+		  "category": "COMPUTER",
+		  "interrogation": "Who invented Windows ?",
+		  "choices": {
+		 	"Bill Gates": true,
+			"Steve Jobs": false,
+			"Linus Torvalds": false
+		  }
+	    }
+      ]
+    },
+    {
+      "questions": [
+        {
+	 	  "author": "Alexandre Dujacquier",
+		  "category": "IDEAS",
+		  "interrogation": "What famous sentence was said by Martin Luther King?",
+		  "choices": {
+		 	"Make America great again!": false,
+			"The only thing we have to fear is fear itself.": false,
+			"I have a dream!": true
+		  }
+	    },
+	    {
+	 	  "author": "Alexandre Dujacquier",
+		  "category": "SCIENCE",
+		  "interrogation": "Which one of these animals is amphibious?",
+		  "choices": {
+		 	"Dog": false,
+			"Eagle": false,
+			"Frog": true
+		  }
+	    },
+	    {
+	 	  "author": "Alexandre Dujacquier",
+		  "category": "PLANET",
+		  "interrogation": "What is the average distance from the Earth to the sun ?",
+		  "choices": {
+		 	"150 billion kilometers": false,
+			"One astronomical unit": true,
+			"12 742 kilometers": false
+		  }
+	    },
+	    {
+	 	  "author": "Alexandre Dujacquier",
+		  "category": "HISTORY",
+		  "interrogation": "When did the First Crusade start ?",
+		  "choices": {
+		 	"1066": false,
+			"1054": false,
+			"1096": true
+		  }
+	    },
+	    {
+	 	  "author": "Alexandre Dujacquier",
+		  "category": "LITERATURE",
+		  "interrogation": "Which famous Roman emperor wrote 'Meditations' ?",
+		  "choices": {
+		 	"Marcus Aurelius ": true,
+			"Nero": false,
+			"Julius Caesar": false
+		  }
+	    },
+	    {
+	 	  "author": "Alexandre Dujacquier",
+		  "category": "COMPUTER",
+		  "interrogation": "What is the most popular cryptocurrency in 2022 ?",
+		  "choices": {
+		 	"Dogecoin": false,
+			"Bitcoin": true,
+			"Ethereum": false
+		  }
+	    }
+      ]
+    },
+    {
+      "questions": [
+        {
+	 	  "author": "Alexandre Dujacquier",
+		  "category": "IDEAS",
+		  "interrogation": "What was Barack Obama's slogan during his 2008 campaign ?",
+		  "choices": {
+		 	"Yes, we can!": true,
+			"Make America great again!": false,
+			"Stronger together": false
+		  }
+	    },
+	    {
+	 	  "author": "Alexandre Dujacquier",
+		  "category": "SCIENCE",
+		  "interrogation": "How many protons and neutrons are there in the first isotope of the hydrogen atom ?",
+		  "choices": {
+		 	"Zero proton, One neutron": false,
+			"Two proton, Zero neutron": false,
+			"One proton, Zero neutron": true
+		  }
+	    },
+	    {
+	 	  "author": "Alexandre Dujacquier",
+		  "category": "PLANET",
+		  "interrogation": "What is the longest river in the world ?",
+		  "choices": {
+		 	"The Amazon": false,
+			"The Nile": true,
+			"The Yellow River": false
+		  }
+	    },
+	    {
+	 	  "author": "Alexandre Dujacquier",
+		  "category": "HISTORY",
+		  "interrogation": "Which United States president was assassinated in Dallas in 1963 ?",
+		  "choices": {
+		 	"Abraham Lincoln": false,
+			"John Fitzgerald Kennedy": true,
+			"Richard Nixon": false
+		  }
+	    },
+	    {
+	 	  "author": "Alexandre Dujacquier",
+		  "category": "LITERATURE",
+		  "interrogation": "In Harry Potter, which of these characters is nicknamed the Half-Blood Prince ?",
+		  "choices": {
+		 	"Severus Rogue": true,
+			"Albus Dumbledore": false,
+			"Harry Potter": false
+		  }
+	    },
+	    {
+	 	  "author": "Alexandre Dujacquier",
+		  "category": "COMPUTER",
+		  "interrogation": "What is the release date of the FAMICOM ?",
+		  "choices": {
+		 	"1997": false,
+			"1977": false,
+			"1983": true
+		  }
+	    }
+      ]
+    }
+  ]
+}
+   

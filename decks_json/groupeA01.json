@@ -1,0 +1,580 @@
+{
+  "cards": [
+    {
+      "questions": [
+        {
+          "author": "LION Thibaut",
+          "interrogation": "What is the philosophical concept of identity?",
+          "category": "IDEAS",
+          "choices": {
+            "Metaphysics": true,
+            "Materialism": false,
+            "Scepticism": false
+          }
+        },
+        {
+          "author": "LION Thibaut",
+          "interrogation": "What is the chemical symbol of gold?",
+          "category": "SCIENCE",
+          "choices": {
+            "Or": false,
+            "Au": true,
+            "O": false
+          }
+        },
+        {
+          "author": "LION Thibaut",
+          "interrogation": "How many natural satellites revolve around the Earth?",
+          "category": "PLANET",
+          "choices": {
+            "One": true,
+            "Two": false,
+            "Three": false
+          }
+        },
+        {
+          "author": "LION Thibaut",
+          "interrogation": "What event marks the end of Antiquity?",
+          "category": "HISTORY",
+          "choices": {
+            "The birth of Jesus Christ": false,
+            "The eruption of Vesuvius": false,
+            "The fall of the Western Roman Empire": true
+          }
+        },
+        {
+          "author": "LION Thibaut",
+          "interrogation": "There is a famous painting on the ceiling of the Paris Opera. Who made it?",
+          "category": "LITERATURE",
+          "choices": {
+            "Marc Chagall": true,
+            "Pablo Picasso": false,
+            "Salvador Dali": false
+          }
+        },
+        {
+          "author": "LION Thibaut",
+          "interrogation": "When did the first laptop come out?",
+          "category": "COMPUTER",
+          "choices": {
+            "1965": false,
+            "1972": false,
+            "1981": true
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "LION Thibaut",
+          "interrogation": "Each year the Nobel Peace Prize is awarded. In which city?",
+          "category": "IDEAS",
+          "choices": {
+            "Oslo": true,
+            "Paris": false,
+            "Stockholm": false
+          }
+        },
+        {
+          "author": "LION Thibaut",
+          "interrogation": "How much blood is in the human body?",
+          "category": "SCIENCE",
+          "choices": {
+            "5 litres": true,
+            "10 litres": false,
+            "15 litres": false
+          }
+        },
+        {
+          "author": "LION Thibaut",
+          "interrogation": "What is the longest river of France?",
+          "category": "PLANET",
+          "choices": {
+            "The Rhine": true,
+            "The Loire": false,
+            "The Seine": false
+          }
+        },
+        {
+          "author": "LION Thibaut",
+          "interrogation": "Among the gods in Greek mythology, who was the god of war?",
+          "category": "HISTORY",
+          "choices": {
+            "Ares": true,
+            "Hades": false,
+            "Apollon": false
+          }
+        },
+        {
+          "author": "LION Thibaut",
+          "interrogation": "In Tintin comics, who is Tintin's biggest enemy?",
+          "category": "LITERATURE",
+          "choices": {
+            "Red Rackham": false,
+            "Captain Haddock": false,
+            "Roberto Rastapopoulos": true
+          }
+        },
+        {
+          "author": "LION Thibaut",
+          "interrogation": "What is the computer language that most Web pages are written in?",
+          "category": "COMPUTER",
+          "choices": {
+            "Java": false,
+            "HTTP": false,
+            "HTML": true
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "LION Thibaut",
+          "interrogation": "Where was Martin Luther King Jr most famous speech I have a dream's?",
+          "category": "IDEAS",
+          "choices": {
+            "Washington": true,
+            "New York": false,
+            "Chicago": false
+          }
+        },
+        {
+          "author": "LION Thibaut",
+          "interrogation": "How many strands does the DNA molecule have?",
+          "category": "SCIENCE",
+          "choices": {
+            "1": false,
+            "2": true,
+            "3": false
+          }
+        },
+        {
+          "author": "LION Thibaut",
+          "interrogation": "One of the highest mountains in the world is Mount Kilimanjaro. Where is it located?",
+          "category": "PLANET",
+          "choices": {
+            "Tanzania": true,
+            "Japan": false,
+            "Argentina": false
+          }
+        },
+        {
+          "author": "LION Thibaut",
+          "interrogation": "How long was the Hundred Years War?",
+          "category": "HISTORY",
+          "choices": {
+            "97 years": false,
+            "100 years": false,
+            "116 years": true
+          }
+        },
+        {
+          "author": "LION Thibaut",
+          "interrogation": "In which Italian city is the real balcony in Romeo and Juliet located?",
+          "category": "LITERATURE",
+          "choices": {
+            "Venice": false,
+            "Rome": false,
+            "Verona": true
+          }
+        },
+        {
+          "author": "LION Thibaut",
+          "interrogation": "Which network topology exists?",
+          "category": "COMPUTER",
+          "choices": {
+            "Star topology": true,
+            "Moon topology": false,
+            "Circle topology": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "STEKKE Tanguy",
+          "interrogation": "Who wrote: Live as if you were to die tomorrow. Learn as if you were to live forever?",
+          "category": "IDEAS",
+          "choices": {
+            "Gandhi": true,
+            "Mandela": false,
+            "Nietzsche": false
+          }
+        },
+        {
+          "author": "STEKKE Tanguy",
+          "interrogation": "Where is the smallest bone in the body located?",
+          "category": "SCIENCE",
+          "choices": {
+            "In the hand": false,
+            "In the ear": true,
+            "On the spine": false
+          }
+        },
+        {
+          "author": "STEKKE Tanguy",
+          "interrogation": "Which one of these is no longer a planet?",
+          "category": "PLANET",
+          "choices": {
+            "Uranus": false,
+            "Neptune": false,
+            "Pluto": true
+          }
+        },
+        {
+          "author": "STEKKE Tanguy",
+          "interrogation": "When was writing invented?",
+          "category": "HISTORY",
+          "choices": {
+            "800 BCE": false,
+            "3300 BCE": true,
+            "4600 BCE": false
+          }
+        },
+        {
+          "author": "STEKKE Tanguy",
+          "interrogation": "Which book has not sold more than 100 million copies?",
+          "category": "LITERATURE",
+          "choices": {
+            "The little Prince": false,
+            "A tale of Two Cities": false,
+            "The Diary of Anne Frank": true
+          }
+        },
+        {
+          "author": "STEKKE Tanguy",
+          "interrogation": "What is the smallest unit in a digital system?",
+          "category": "COMPUTER",
+          "choices": {
+            "A bit": true,
+            "A character": false,
+            "A byte": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "STEKKE Tanguy",
+          "interrogation": "Who wrote Das Kapital?",
+          "category": "IDEAS",
+          "choices": {
+            "Michael Faraday": false,
+            "Sir Thomas More": false,
+            "Karl Marx": true
+          }
+        },
+        {
+          "author": "STEKKE Tanguy",
+          "interrogation": "What is the speed of sound?",
+          "category": "SCIENCE",
+          "choices": {
+            "43 m/s": false,
+            "125 m/s": false,
+            "343 m/s": true
+          }
+        },
+        {
+          "author": "STEKKE Tanguy",
+          "interrogation": "What is the name of the longest river in the world?",
+          "category": "PLANET",
+          "choices": {
+            "The Amazon River": false,
+            "The Mississippi": false,
+            "The Nile River": true
+          }
+        },
+        {
+          "author": "STEKKE Tanguy",
+          "interrogation": "What record did Usain Bolt break on 16 August 2009?",
+          "category": "HISTORY",
+          "choices": {
+            "400 meters World Record": false,
+            "100 meters World Record": true,
+            "4x400 meters World Record": false
+          }
+        },
+        {
+          "author": "STEKKE Tanguy",
+          "interrogation": "What is the average adult reading speed?",
+          "category": "LITERATURE",
+          "choices": {
+            "170 words per minute": false,
+            "240 words per minute": true,
+            "360 words per minute": false
+          }
+        },
+        {
+          "author": "STEKKE Tanguy",
+          "interrogation": "Which one of these is not an encryption method?",
+          "category": "COMPUTER",
+          "choices": {
+            "Caesar cipher": false,
+            "Advanced Encryption method (AEM)": false,
+            "Advanced Socket Cipher (ASC)": true
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "STEKKE Tanguy",
+          "interrogation": "Who invented the theory that adult personality is made up of three aspects: the id, the ego, and the superego?",
+          "category": "IDEAS",
+          "choices": {
+            "Sigmund Schlomo Freud": false,
+            "Immanuel Kant": false,
+            "René Descartes": true
+          }
+        },
+        {
+          "author": "STEKKE Tanguy",
+          "interrogation": "What is the pH of pure water?",
+          "category": "SCIENCE",
+          "choices": {
+            "1": false,
+            "7": true,
+            "14": false
+          }
+        },
+        {
+          "author": "STEKKE Tanguy",
+          "interrogation": "Which is the hottest planet on our solar system?",
+          "category": "PLANET",
+          "choices": {
+            "Venus": true,
+            "Mercury": false,
+            "Mars": false
+          }
+        },
+        {
+          "author": "STEKKE Tanguy",
+          "interrogation": "Who is the only woman with two Nobel prizes?",
+          "category": "HISTORY",
+          "choices": {
+            "Emmanuelle Charpentier": false,
+            "Mother Teresa": false,
+            "Marie Curie": true
+          }
+        },
+        {
+          "author": "STEKKE Tanguy",
+          "interrogation": "Which country banned Alice in Wonderland?",
+          "category": "LITERATURE",
+          "choices": {
+            "Cuba": false,
+            "Bangladesh": false,
+            "China": true
+          }
+        },
+        {
+          "author": "STEKKE Tanguy",
+          "interrogation": "Which one of these is not an operating system?",
+          "category": "COMPUTER",
+          "choices": {
+            "Debian": false,
+            "OS/2": false,
+            "Linux": true
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "DRUART Dorian",
+          "interrogation": "Who said Violence is the last refuge of the incompetent. ?",
+          "category": "IDEAS",
+          "choices": {
+            "Isaac Asimov": true,
+            "Platon": false,
+            "Julius Caesar": false
+          }
+        },
+        {
+          "author": "DRUART Dorian",
+          "interrogation": "The astronomical unit is a unit of length which measures the distance between two celestial bodies, which ones ?",
+          "category": "SCIENCE",
+          "choices": {
+            "Earth and Moon": false,
+            "Sun and Earth": true,
+            "The center of the Milky Way and the Sun": false
+          }
+        },
+        {
+          "author": "DRUART Dorian",
+          "interrogation": "Which species was located only on Mauritius Island and went extinct during the 17th century ?",
+          "category": "PLANET",
+          "choices": {
+            "The Mauritian Flying Fox": false,
+            "The Dodo": true,
+            "The crab-eating macaque": false
+          }
+        },
+        {
+          "author": "DRUART Dorian",
+          "interrogation": "Who was the first President of the United States of America ?",
+          "category": "HISTORY",
+          "choices": {
+            "Abraham Lincoln": false,
+            "Thomas Jefferson": false,
+            "George Washington": true
+          }
+        },
+        {
+          "author": "DRUART Dorian",
+          "interrogation": "Who wrote The Silmarillion, The Hobbit and The Lords of the ring ?",
+          "category": "LITERATURE",
+          "choices": {
+            "John R.R. Tolkien": true,
+            "Stephen King": false,
+            "Edgar Allan Poe": false
+          }
+        },
+        {
+          "author": "DRUART Dorian",
+          "interrogation": "Who created the machine considered to be the first computer, that helped to decode Enigma during World War II ? ",
+          "category": "COMPUTER",
+          "choices": {
+            "George Boole": false,
+            "John von Neumann": false,
+            "Alan Turing": true
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "DRUART Dorian",
+          "interrogation": "Who said Now I am become Death, the destroyer of worlds after witnessing the first nuclear bomb explosion ?",
+          "category": "IDEAS",
+          "choices": {
+            "Winston Churchill": false,
+            "Robert Oppenheimer": true,
+            "Adolf Hitler": false
+          }
+        },
+        {
+          "author": "DRUART Dorian",
+          "interrogation": "What is the bird with the largest wingspan ?",
+          "category": "SCIENCE",
+          "choices": {
+            "The wandering Albatross": true,
+            "The bald eagle": false,
+            "The turkey vulture": false
+          }
+        },
+        {
+          "author": "DRUART Dorian",
+          "interrogation": "What altitude does the International Space Station fly at ?",
+          "category": "PLANET",
+          "choices": {
+            "40,8 km": false,
+            "408 km": true,
+            "4080 km": false
+          }
+        },
+        {
+          "author": "DRUART Dorian",
+          "interrogation": "How many people have walked on the Moon ?",
+          "category": "HISTORY",
+          "choices": {
+            "0": false,
+            "6": false,
+            "12": true
+          }
+        },
+        {
+          "author": "DRUART Dorian",
+          "interrogation": "Sherlock Holmes is a fictional detective well known for his proficiency with observation, who wrote his adventures ?",
+          "category": "LITERATURE",
+          "choices": {
+            "Edgar Allan Poe": false,
+            "Arthur Conan Doyle": true,
+            "George R. R. Martin": false
+          }
+        },
+        {
+          "author": "DRUART Dorian",
+          "interrogation": "How does data transfer through fibre optics?",
+          "category": "COMPUTER",
+          "choices": {
+            "Data is transmitted through light": true,
+            "Data is transmitted through copper wires": false,
+            "Data is transmitted through radio waves": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "DRUART Dorian",
+          "interrogation": "Which historical figure leaded the Indian independence movement using civil disobedience ?",
+          "category": "IDEAS",
+          "choices": {
+            "Queen Victoria": false,
+            "Gandhi": true,
+            "Dalaï-Lama": false
+          }
+        },
+        {
+          "author": "DRUART Dorian",
+          "interrogation": "What is the lightest element on the periodic table?",
+          "category": "SCIENCE",
+          "choices": {
+            "Hydrogen": true,
+            "Helium": false,
+            "Uranium": false
+          }
+        },
+        {
+          "author": "DRUART Dorian",
+          "interrogation": "What percentage of Earth's water freshwater ?",
+          "category": "PLANET",
+          "choices": {
+            "3%": true,
+            "30%": false,
+            "70%": false
+          }
+        },
+        {
+          "author": "DRUART Dorian",
+          "interrogation": "Who ruled the Persian Empire, was tutored by Aristotle and became one of the biggest conqueror the world has ever known ?",
+          "category": "HISTORY",
+          "choices": {
+            "Genghis Khan": false,
+            "Julius Caesar": false,
+            "Alexander the Great": true
+          }
+        },
+        {
+          "author": "DRUART Dorian",
+          "interrogation": "In which novel of Roald Dahl, the character Willy Wonka can be found?",
+          "category": "LITERATURE",
+          "choices": {
+            "Charlie And The Chocolate Factory": true,
+            "Charlie And The Candy Factory": false,
+            "Charlie's Angels": false
+          }
+        },
+        {
+          "author": "DRUART Dorian",
+          "interrogation": "How many bits is a byte ?",
+          "category": "COMPUTER",
+          "choices": {
+            "4": false,
+            "8": true,
+            "12": false
+          }
+        }
+      ]
+    }
+  ]
+}

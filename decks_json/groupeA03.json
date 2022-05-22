@@ -1,0 +1,581 @@
+{
+  "cards": [
+    {
+      "questions": [
+        {
+          "author": "Shan",
+          "category": "IDEAS",
+          "interrogation": "How many teeth does an adult human have ?",
+          "choices": {
+            "33": false,
+            "30": false,
+            "32": true
+          }
+        },
+        {
+          "author": "Shan",
+          "category": "SCIENCE",
+          "interrogation": "Who invented the reflecting telescope ?",
+          "choices": {
+            "Galilée": false,
+            "Newton": true,
+            "Niels Borh": false
+          }
+        },
+        {
+          "author": "Shan",
+          "category": "PLANET",
+          "interrogation": "The satellites Callisto, Europa, Io and Ganymede are in orbit around a planet. Which one is it? ",
+          "choices": {
+            "Earth": false,
+            "Jupiter": true,
+            "Uranus": false
+          }
+        },
+        {
+          "author": "Shan",
+          "category": "HISTORY",
+          "interrogation": "On which island did they imprison Napoleon after losing the battle of Waterloo?",
+          "choices": {
+            "Sainte-Hélène": true,
+            "Falkland Islands": false,
+            "Sainte-Lucie": false
+          }
+        },
+        {
+          "author": "Shan",
+          "category": "LITERATURE",
+          "interrogation": "What part of speech is \"tranquil\", meaning \"calm\"? ",
+          "choices": {
+            "Adverb": false,
+            "Adjective": true,
+            "Noun": false
+          }
+        },
+        {
+          "author": "Shan",
+          "category": "COMPUTER",
+          "interrogation": "What is the oldest programming language among these 3 languages?",
+          "choices": {
+            "Java": true,
+            "Javascript": false,
+            "Python": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Shan",
+          "category": "IDEAS",
+          "interrogation": "What is \"cynophobia\"?",
+          "choices": {
+            "Fear of cats": false,
+            "Fear of reptiles": false,
+            "Fear of dogs": true
+          }
+        },
+        {
+          "author": "Shan",
+          "category": "SCIENCE",
+          "interrogation": "Which of Newton's Laws states that, for every action, there is an equal and opposite reaction?",
+          "choices": {
+            "The second law of motion": false,
+            "The first law of motion": false,
+            "The third law of motion": true
+          }
+        },
+        {
+          "author": "Shan",
+          "category": "PLANET",
+          "interrogation": "There is a month in which there can be less than four lunar phases. What is it?",
+          "choices": {
+            "October": false,
+            "February": true,
+            "January": false
+          }
+        },
+        {
+          "author": "Shan",
+          "category": "HISTORY",
+          "interrogation": "In what year did mankind first set foot on the Moon aboard the Apollo 11 spacecraft?",
+          "choices": {
+            "1959": false,
+            "1969": true,
+            "1955": false
+          }
+        },
+        {
+          "author": "Shan",
+          "category": "LITERATURE",
+          "interrogation": "What nationality was Robert Louis Stevenson, writer of 'Treasure Island'?",
+          "choices": {
+            "Scottish": true,
+            "French": false,
+            "Irish": false
+          }
+        },
+        {
+          "author": "Shan",
+          "category": "COMPUTER",
+          "interrogation": "The keyboard, mouse, and tower case are examples of?",
+          "choices": {
+            "A computer": false,
+            "Hardware": true,
+            "Software": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Shan",
+          "category": "IDEAS",
+          "interrogation": "How many languages are written from right to left?",
+          "choices": {
+            "12": true,
+            "6": false,
+            "10": false
+          }
+        },
+        {
+          "author": "Shan",
+          "category": "SCIENCE",
+          "interrogation": "What is the smallest particle of matter?",
+          "choices": {
+            "Atoms": true,
+            "Gravitons": false,
+            "Electrons": false
+          }
+        },
+        {
+          "author": "Shan",
+          "category": "PLANET",
+          "interrogation": "Which is the closest planet to the sun?",
+          "choices": {
+            "Earth": false,
+            "Venus": false,
+            "Mercury": true
+          }
+        },
+        {
+          "author": "Shan",
+          "category": "HISTORY",
+          "interrogation": "A Greek philosopher considered water to be an integral element in all things. What was his name?",
+          "choices": {
+            "Socrate": false,
+            "Emmanuel Kant": false,
+            "Thalès de Milet": true
+          }
+        },
+        {
+          "author": "Shan",
+          "category": "LITERATURE",
+          "interrogation": "Who wrote \"the bateau ivre\"?",
+          "choices": {
+            "Valentin Vald": false,
+            "Charles Baudelaire": false,
+            "Arthur Rimbaud": true
+          }
+        },
+        {
+          "author": "Shan",
+          "category": "COMPUTER",
+          "interrogation": "Which keys are pressed simultaneously to open the Task Manager?",
+          "choices": {
+            "Esc,Shft,Delete": false,
+            "Ctrl,Tab,Shft": false,
+            "Ctrl,Alt,Delete": true
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Guillaume",
+          "category": "IDEAS",
+          "interrogation": "Who invented the Beetle car?",
+          "choices": {
+            "Adolf Hitler": true,
+            "Petrino Tutti": false,
+            "Ferdinand Porsche": false
+          }
+        },
+        {
+          "author": "Guillaume",
+          "category": "SCIENCE",
+          "interrogation": "What does DNA stand for?",
+          "choices": {
+            "Deodoribonucleix acid": false,
+            "Deoxyribonucleic acid": true,
+            "Deoxyrabinucleic acid": false
+          }
+        },
+        {
+          "author": "Guillaume",
+          "category": "PLANET",
+          "interrogation": "What was the first capital of England?",
+          "choices": {
+            "York": false,
+            "London": false,
+            "Winchester": true
+          }
+        },
+        {
+          "author": "Guillaume",
+          "category": "HISTORY",
+          "interrogation": "What type of government did the USSR have until 1991?",
+          "choices": {
+            "Communist": true,
+            "Socialism": false,
+            "Marxism": false
+          }
+        },
+        {
+          "author": "Guillaume",
+          "category": "LITERATURE",
+          "interrogation": "Which French dramatist and historiographer is renowned for his mastery of French classical tragedy?",
+          "choices": {
+            "Emile Zola": false,
+            "Jean Racine": true,
+            "Arthur Rimbaud": false
+          }
+        },
+        {
+          "author": "Guillaume",
+          "category": "COMPUTER",
+          "interrogation": "Which one of these is characteristic of RAID 5?",
+          "choices": {
+            "All parity in a single disk": false,
+            "No parity": false,
+            "Distributed parity": true
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Guillaume",
+          "category": "IDEAS",
+          "interrogation": "What is the driest continent on Earth?",
+          "choices": {
+            "Africa": false,
+            "Antartica": true,
+            "Oceania": false
+          }
+        },
+        {
+          "author": "Guillaume",
+          "category": "SCIENCE",
+          "interrogation": "How many bones are there in the human body?",
+          "choices": {
+            "106": false,
+            "206": true,
+            "208": false
+          }
+        },
+        {
+          "author": "Guillaume",
+          "category": "PLANET",
+          "interrogation": "What is the smallest country in the world?",
+          "choices": {
+            "Vatican": true,
+            "Monaco": false,
+            "Liechtenstein": false
+          }
+        },
+        {
+          "author": "Guillaume",
+          "category": "HISTORY",
+          "interrogation": "Who was the British Navy Minister during WW1?",
+          "choices": {
+            "Sir John Major": false,
+            "Winston Churchill": true,
+            "Tony Blair": false
+          }
+        },
+        {
+          "author": "Guillaume",
+          "category": "LITERATURE",
+          "interrogation": "What French author was tried for the alleged immorality of his novel Madame Bovary?",
+          "choices": {
+            "Jean-Paul Sartre": false,
+            "Guy de Maupassant": false,
+            "Gustave Flaubert": true
+          }
+        },
+        {
+          "author": "Guillaume",
+          "category": "COMPUTER",
+          "interrogation": "What does CPU stand for?",
+          "choices": {
+            "Computer Processing User": false,
+            "Computer Processing Unit": false,
+            "Central Processing Unit": true
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Guillaume",
+          "category": "IDEAS",
+          "interrogation": "Baroque art was a movement which was encouraged mainly by which religion?",
+          "choices": {
+            "Catholic": true,
+            "Hindus": false,
+            "Jewish": false
+          }
+        },
+        {
+          "author": "Guillaume",
+          "category": "SCIENCE",
+          "interrogation": "What was the name of the first man-made satellite launched by the Soviet Union in 1957?",
+          "choices": {
+            "Sputnik 10": false,
+            "Sputnik 2": false,
+            "Sputnik 1": true
+          }
+        },
+        {
+          "author": "Guillaume",
+          "category": "PLANET",
+          "interrogation": "What is an atol?",
+          "choices": {
+            "A group of small country": false,
+            "A group of small islands": true,
+            "A group of peninsulas": false
+          }
+        },
+        {
+          "author": "Guillaume",
+          "category": "HISTORY",
+          "interrogation": "In what year did the French Revolution begin?",
+          "choices": {
+            "1789": true,
+            "1672": false,
+            "1829": false
+          }
+        },
+        {
+          "author": "Guillaume",
+          "category": "LITERATURE",
+          "interrogation": "Which novel by �mile Zola focuses on the hardships of coal miners?",
+          "choices": {
+            "Piping-Hot": false,
+            "The Assommoir": false,
+            "Germinal": true
+          }
+        },
+        {
+          "author": "Guillaume",
+          "category": "COMPUTER",
+          "interrogation": "Java was introduced by which of the following organizations?",
+          "choices": {
+            "IBM": false,
+            "Sun Microsystem": true,
+            "Intel": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Damien",
+          "category": "IDEAS",
+          "interrogation": "Who said \"The heart has its reasons that reason does not know\"?",
+          "choices": {
+            "Montaigne": false,
+            "Pascal": true,
+            "Descartes": false
+          }
+        },
+        {
+          "author": "Damien",
+          "category": "SCIENCE",
+          "interrogation": "Which alkali metal is symbolized by the letter K?",
+          "choices": {
+            "Sodium": false,
+            "Lithium": false,
+            "Potassium": true
+          }
+        },
+        {
+          "author": "Damien",
+          "category": "PLANET",
+          "interrogation": "What is the largest ocean in the world?",
+          "choices": {
+            "Indian Ocean": false,
+            "Atlantic Ocean": false,
+            "Pacific Ocean": true
+          }
+        },
+        {
+          "author": "Damien",
+          "category": "HISTORY",
+          "interrogation": "Who became the youngest President of the United States of America?",
+          "choices": {
+            "John F.Kennedy ": false,
+            "Theodore Roosevelt": true,
+            "Bill Clinton": false
+          }
+        },
+        {
+          "author": "Damien",
+          "category": "LITERATURE",
+          "interrogation": "Who is the author of \"Alice in Wonderland\"?",
+          "choices": {
+            "Rudyard Kipling": false,
+            "The Brothers Grimm": false,
+            "Lewis Caroll": true
+          }
+        },
+        {
+          "author": "Damien",
+          "category": "COMPUTER",
+          "interrogation": "How much is 1 MB?",
+          "choices": {
+            "1 000 000 bytes": true,
+            "1 000 bytes": false,
+            "1 024 bytes": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Damien",
+          "category": "IDEAS",
+          "interrogation": "What myth does Camus use to demonstrate the absurdity of existence?",
+          "choices": {
+            "The myth of Daedalus": false,
+            "The myth of Sisyphus": true,
+            "The myth of Narcissus": false
+          }
+        },
+        {
+          "author": "Damien",
+          "category": "SCIENCE",
+          "interrogation": "Which French physicist laid the foundations of thermodynamics?",
+          "choices": {
+            "Edme Mariotte": false,
+            "Georges Charpak": false,
+            "Sadi Carnot": true
+          }
+        },
+        {
+          "author": "Damien",
+          "category": "PLANET",
+          "interrogation": "Which country is the world's largest producer of solar energy? ",
+          "choices": {
+            "United States": false,
+            "Japan": false,
+            "China": true
+          }
+        },
+        {
+          "author": "Damien",
+          "category": "HISTORY",
+          "interrogation": "Since when do women have the right to vote?",
+          "choices": {
+            "1954": false,
+            "1993": false,
+            "1944": true
+          }
+        },
+        {
+          "author": "Damien",
+          "category": "LITERATURE",
+          "interrogation": "To which literary current did Jean-Paul Sartre belong?",
+          "choices": {
+            "Surrealism": false,
+            "Romanticism": false,
+            "Existentialism": true
+          }
+        },
+        {
+          "author": "Damien",
+          "category": "COMPUTER",
+          "interrogation": "What protocol provides a messaging service between different hosts?",
+          "choices": {
+            "POP": false,
+            "SMTP": false,
+            "FTP": true
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Damien",
+          "category": "IDEAS",
+          "interrogation": "Who said that \"Man is a political animal\"?",
+          "choices": {
+            "Hobbes": false,
+            "Voltaire": false,
+            "Aristotle": true
+          }
+        },
+        {
+          "author": "Damien",
+          "category": "SCIENCE",
+          "interrogation": "What is the effect of too high blood sugar called?",
+          "choices": {
+            "Aerophagia": false,
+            "Hyperglycemia": true,
+            "Hypoglycemia": false
+          }
+        },
+        {
+          "author": "Damien",
+          "category": "PLANET",
+          "interrogation": "How many continents does the Earth have?",
+          "choices": {
+            "5": false,
+            "6": false,
+            "7": true
+          }
+        },
+        {
+          "author": "Damien",
+          "category": "HISTORY",
+          "interrogation": "When was the Fifth Republic established in France?",
+          "choices": {
+            "1995": false,
+            "1958": true,
+            "1945": false
+          }
+        },
+        {
+          "author": "Damien",
+          "category": "LITERATURE",
+          "interrogation": "Which author won the Nobel Prize for Literature in 2008?",
+          "choices": {
+            "J.M.G The Clézio": true,
+            "Philippe Delerme": false,
+            "Guillaume Musso": false
+          }
+        },
+        {
+          "author": "Damien",
+          "category": "COMPUTER",
+          "interrogation": "What are the connectors used to connect cables to a computer network called?",
+          "choices": {
+            "USB": false,
+            "SATA": false,
+            "RJ45": true
+          }
+        }
+      ]
+    }
+  ],
+  "nb": 0
+}

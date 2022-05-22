@@ -1,0 +1,508 @@
+{"cards":[
+	{"questions":[
+		{"author":"Theo",
+		"category":"IDEAS",
+		"interrogation":"Which doctrine puts woman ahead ?",
+		"choices":{
+			"feminism":true,
+			"humanism":false,
+			"feminity":false
+			}
+		},
+		{"author":"Antoine",
+		"category":"SCIENCE",
+		"interrogation":"As of 2014, how many people in total have walked on the Moon?",
+		"choices":{
+			"12":true,
+			"3":false,
+			"5":false
+			}
+		},
+		{"author":"Antoine",
+		"category":"PLANET",
+		"interrogation":"As of 2014, which country is the largest manufacturer of wind turbines and solar panels?",
+		"choices":{
+			"France":false,
+			"United States":false,
+			"China":true
+			}
+		},
+		{"author":"Antoine",
+		"category":"HISTORY",
+		"interrogation":"After being released from prison, who jointly won the Nobel Peace Prize in 1993 for his work to end apartheid?",
+		"choices":{
+			"José Ramos-Horta":false,
+			"Jimmy Carter":false,
+			"Nelson Mandela":true
+			}
+		},
+		{"author":"Antoine",
+		"category":"LITERATURE",
+		"interrogation":"What magical item allows Harry Potter to move around Hogwarts unseen in the Harry Potter book series ?",
+		"choices":{
+			"Philosopher\u0027s Stone":false,
+			"Invisibility Cloak":true,
+			"Marauder\u0027s Map":false
+			}
+		},
+		{"author":"Theo",
+		"category":"COMPUTER",
+		"interrogation":"Who founded the Apple company ?",
+		"choices":{
+			"Steve Jobs":true,
+			"Jeff Bezos":false,
+			"Mark Zuckerberg":false
+			}
+		}
+	]},
+	{"questions":[
+		{"author":"Theo",
+		"category":"IDEAS",
+		"interrogation":"What policy exists in Russia currently ?",
+		"choices":{
+			"socialism":true,
+			"communism":false,
+			"Marxism":false
+			}
+		},
+		{"author":"Antoine",
+		"category":"SCIENCE",
+		"interrogation":"How many chambers make up the heart?",
+		"choices":{
+			"2":false,
+			"4":true,
+			"6":false
+			}
+		},
+		{"author":"Antoine",
+		"category":"PLANET",
+		"interrogation":"How many time zones does Canada have?",
+		"choices":{
+			"7":false,
+			"8":false,
+			"6":true
+			}
+		},
+		{"author":"Antoine",
+		"category":"HISTORY",
+		"interrogation":"During what historic battle was Napoleon defeated in 1815?",
+		"choices":{
+			"Leipzig":false,
+			"Friedland":false,
+			"Waterloo":true
+			}
+		},
+		{"author":"Antoine",
+		"category":"LITERATURE",
+		"interrogation":"Who composed the opera The Marriage of Figaro?",
+		"choices":{
+			"Mozart":true,
+			"Moliere":false,
+			"Shakespeare":false
+			}
+		},
+		{"author":"Theo",
+		"category":"COMPUTER",
+		"interrogation":"What company founded Bill Gates ?",
+		"choices":{
+			"Microsoft":true,
+			"Tesla":false,
+			"PayPal":false
+			}
+		}
+	]},
+	{"questions":[
+		{"author":"Theo",
+		"category":"IDEAS",
+		"interrogation":"Which party is Paul Magnette president of ?",
+		"choices":{
+			"socialist":true,
+			"liberal":false,
+			"ptb":false
+			}
+		},
+		{"author":"Antoine",
+		"category":"SCIENCE",
+		"interrogation":"How many chromosomes are there in a normal human cell?",
+		"choices":{
+			"41":false,
+			"46":true,
+			"47":false
+			}
+		},
+		{"author":"Antoine",
+		"category":"PLANET",
+		"interrogation":"The Statue of Liberty was a gift given to the U.S. by what country?",
+		"choices":{
+			"Canada":false,
+			"Russia":false,
+			"France":true
+			}
+		},
+		{"author":"Antoine",
+		"category":"HISTORY",
+		"interrogation":"What French king, depicted here, was known as the Sun King?",
+		"choices":{
+			"Clovis I":false,
+			"Louis XIV":true,
+			"Childeric III":false
+			}
+		},
+		{"author":"Theo",
+		"category":"LITERATURE",
+		"interrogation":"Who is the goddess of love in Greek mythology?",
+		"choices":{
+			"Aphrodite":true,
+			"Athena":false,
+			"Hera":false
+			}
+		},
+		{"author":"Theo",
+		"category":"COMPUTER",
+		"interrogation":"What component of a computer does the calculations ?",
+		"choices":{
+			"The processor":true,
+			"The graphics card":false,
+			"The RAM":false
+			}
+		}
+	]},
+	{"questions":[
+		{"author":"Antoine",
+		"category":"IDEAS",
+		"interrogation":"Why King Baudouin puts him unavailable ?",
+		"choices":{
+			"Sexual majority at 16":false,
+			"Women’s right to vote":false,
+			"The vote for abortion":true
+			}
+		},
+		{"author":"Kylian",
+		"category":"SCIENCE",
+		"interrogation":"On average, how many earthquakes are detected by the National Earthquake Information Center each day worldwide?",
+		"choices":{
+			"6":false,
+			"50":true,
+			"97":false
+			}
+		},
+		{"author":"Theo",
+		"category":"PLANET",
+		"interrogation":"hich of these North American cities is the furthest east?",
+		"choices":{
+			"Los Angeles":true,
+			"San Fransisco":false,
+			"Seattle":false
+			}
+		},
+		{"author":"Theo",
+		"category":"HISTORY",
+		"interrogation":"What was the first name for the first World War?",
+		"choices":{
+			"Stupid war":false,
+			"trench war":false,
+			"Great war":true
+			}
+		},
+		{"author":"Antoine",
+		"category":"LITERATURE",
+		"interrogation":"In what classic children's book does the main character come from Asteroid B-612?",
+		"choices":{
+			"Totoro":false,
+			"The Little Prince":true,
+			"Doctor Sleep":false
+			}
+		},
+		{"author":"Kylian",
+		"category":"COMPUTER",
+		"interrogation":"When was the first computer invented?",
+		"choices":{
+			"1943":true,
+			"1950":false,
+			"2000":false
+			}
+		}
+	]},
+	{"questions":[
+		{"author":"Antoine",
+		"category":"IDEAS",
+		"interrogation":"Who was the first black president of the USA ?",
+		"choices":{
+			"Barack Obama":true,
+			"Ronald Reagan":false,
+			"George w Bush":false
+			}
+		},
+		{"author":"Theo",
+		"category":"SCIENCE",
+		"interrogation":"Which of these energy sources is not a type of fossil fuel?",
+		"choices":{
+			"Nuclear":true,
+			"Gas":false,
+			"Petrol":false
+			}
+		},
+		{"author":"Theo",
+		"category":"PLANET",
+		"interrogation":"Which of these planets is closest to the sun?",
+		"choices":{
+			"Saturn":false,
+			"Jupiter":true,
+			"Uranus":false
+			}
+		},
+		{"author":"Theo",
+		"category":"HISTORY",
+		"interrogation":"How many years did the Hundred Years war last ?",
+		"choices":{
+			"83":false,
+			"116":true,
+			"100":false
+			}
+		},
+		{"author":"Kylian",
+		"category":"LITERATURE",
+		"interrogation":"Katniss Everdeen is the protagonist of what book series?",
+		"choices":{
+			"The maze runner":false,
+			"Star Wars":false,
+			"The Hunger Games":true
+			}
+		},
+		{"author":"Kylian",
+		"category":"COMPUTER",
+		"interrogation":"Which popular company designed the first CPU?",
+		"choices":{
+			"Amd":false,
+			"Intel":true,
+			"Hygon":false
+			}
+		}
+	]},
+	{"questions":[
+		{"author":"Antoine",
+		"category":"IDEAS",
+		"interrogation":"What is the expression most used for the law of retaliation ?",
+		"choices":{
+			"Give a grain of salt":false,
+			"Eye for eye, tooth for tooth":true,
+			"Get in its 31":false
+			}
+		},
+		{"author":"Kylian",
+		"category":"SCIENCE",
+		"interrogation":"What does an anemometer measure?",
+		"choices":{
+			"Earth power":false,
+			"Wind Speed":true,
+			"Wave power":false
+			}
+		},
+		{"author":"",
+		"category":"PLANET",
+		"interrogation":"What is the largest island in the Mediterranean ?",
+		"choices":{
+			"Cyprus":false,
+			"Corsia":false,
+			"Sicily":true
+			}
+		},
+		{"author":"Theo",
+		"category":"HISTORY",
+		"interrogation":"According to legend, who founded the city of Rome ?",
+		"choices":{
+			"Romulus":true,
+			"Remus":false,
+			"Enee":false
+			}
+		},
+		{"author":"Theo",
+		"category":"LITERATURE",
+		"interrogation":"What book by Victor Hugo was adapted into a long-running musical of the same name",
+		"choices":{
+			"Les Miserables":true,
+			"Romeo and Juliet":false,
+			"Germinal":false
+			}
+		},
+		{"author":"Kylian",
+		"category":"COMPUTER",
+		"interrogation":" Popular computer brands like Apple, Dell and Microsoft started their offices from which place?",
+		"choices":{
+			"A basement":false,
+			"An attic":false,
+			"A garage":true
+			}
+		}
+	]},
+	{"questions":[
+		{"author":"Kylian",
+		"category":"IDEAS",
+		"interrogation":"When Michael Jordan played for the Chicago Bulls, how many NBA Championships did he win?",
+		"choices":{
+			"6":true,
+			"10":false,
+			"9":false
+			}
+		},
+		{"author":"Theo",
+		"category":"SCIENCE",
+		"interrogation":"What is the first element on the periodic table of elements?",
+		"choices":{
+			"Oxygen":false,
+			"Carbon":false,
+			"Hydrogen":true
+			}
+		},
+		{"author":"Kylian",
+		"category":"PLANET",
+		"interrogation":"Europe and Asia are two continents separated by a mountain range. Which ?",
+		"choices":{
+			"The Urals":true,
+			"Himalaya":false,
+			"The Andes Cordillera":false
+			}
+		},
+		{"author":"Kylian",
+		"category":"HISTORY",
+		"interrogation":"The fall of Constantinople marked the end of the byzantine Empire. What year did it take place ?",
+		"choices":{
+			"1492":false,
+			"1473":false,
+			"1453":true
+			}
+		},
+		{"author":"Theo",
+		"category":"LITERATURE",
+		"interrogation":"Which designer created Gaston Lagaffe ?",
+		"choices":{
+			"Uderzo":false,
+			"Franquin":true,
+			"Uderzo et Goscinny":false
+			}
+		},
+		{"author":"Antoine",
+		"category":"COMPUTER",
+		"interrogation":"Which information storage is used to store short-term running programs and data in a computer?",
+		"choices":{
+			"RAM":true,
+			"Hard drive":false,
+			"CD-ROM":false
+			}
+		}
+	]},
+	{"questions":[
+		{"author":"Kylian",
+		"category":"IDEAS",
+		"interrogation":"Which horoscope sign has a crab?",
+		"choices":{
+			"Taurus":false,
+			"Cancer":true,
+			"Gemini":false
+			}
+		},
+		{"author":"Kylian",
+		"category":"SCIENCE",
+		"interrogation":"Who is the inventor of the reflecting telescope ?",
+		"choices":{
+			"Isaac Newton":true,
+			"Nicola Tesla":false,
+			"Albert Einstein":false
+			}
+		},
+		{"author":"Kylian",
+		"category":"PLANET",
+		"interrogation":"Algeria, Tunisia and Morocco are crossed by the same mountain range. Which ?",
+		"choices":{
+			"The Pyrenees":false,
+			"The Alps":false,
+			"The Atlas":true
+			}
+		},
+		{"author":"Kylian",
+		"category":"HISTORY",
+		"interrogation":"Who was the first president of the United States ?",
+		"choices":{
+			"Abraham Lincoln":false,
+			"George Washington":true,
+			"Franklin Delano Roosevelt":false
+			}
+		},
+		{"author":"Kylian",
+		"category":"LITERATURE",
+		"interrogation":"What movie does the phrase “supercalifragilisticexpialidocious” come from ?",
+		"choices":{
+			"Peter Pan":false,
+			"Mary Poppins":true,
+			"The Wizard of Oz":false
+			}
+		},
+		{"author":"Antoine",
+		"category":"COMPUTER",
+		"interrogation":"Which part of the computer fetches, decodes, and executes the programming instructions?",
+		"choices":{
+			"CPU":true,
+			"Motherboard":false,
+			"Graphic card":false
+			}
+		}
+	]},
+	{"questions":[
+		{"author":"Kylian",
+		"category":"IDEAS",
+		"interrogation":"What does the t in LGBT mean?",
+		"choices":{
+			"Transexual":true,
+			"Transformist":false,
+			"Trapeze artist":false
+			}
+		},
+		{"author":"Theo",
+		"category":"SCIENCE",
+		"interrogation":"E=mc2 is a formula that is part of a scientific theory. Which ?",
+		"choices":{
+			"The theory of Newtonian mechanics":false,
+			"The theory of time dilation":false,
+			"The theory of relativity":true
+			}
+		},
+		{"author":"Kylian",
+		"category":"PLANET",
+		"interrogation":"What is the longest river on earth ?",
+		"choices":{
+			"The Amazon river":true,
+			"The Nile":false,
+			"The Po":false
+			}
+		},
+		{"author":"Kylian",
+		"category":"HISTORY",
+		"interrogation":"On which island was Napoleon imprisoned after losing the Battle of Waterloo?",
+		"choices":{
+			"Sainte-Hélène":true,
+			"Corsica":false,
+			"Sicily":false
+			}
+		},
+		{"author":"Kylian",
+		"category":"LITERATURE",
+		"interrogation":"'To be or not to be, that is the question' is a soliloquy from a play by Shakespeare. Which ?",
+		"choices":{
+			"Hamlet":true,
+			"A Midsummer Night's dream":false,
+			"Romeo and Juliet":false
+			}
+		},
+		
+		{"author":"Antoine",
+		"category":"COMPUTER",
+		"interrogation":"What is the name of Apple's desktop operating system?",
+		"choices":{
+			"Windows":false,
+			"Mac OS":true,
+			"Linux":false
+			}
+		}
+	]}
+]}
+			

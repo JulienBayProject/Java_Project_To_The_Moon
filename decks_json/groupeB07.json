@@ -1,0 +1,580 @@
+{
+  "cards": [
+    {
+      "questions": [
+        {
+          "author": "Zannini",
+          "category": "IDEAS",
+          "interrogation": "What sentence would Gallileo have mumbled about the Earth during his trial ?",
+          "choices": {
+            "I'm definitely right !": false,
+            "But it's round !": false,
+            "And yet it moves !": true
+          }
+        },
+        {
+          "author": "Zannini",
+          "category": "SCIENCE",
+          "interrogation": "What is the symbol for gold ?",
+          "choices": {
+            "Au": true,
+            "Go": false,
+            "Ha": false
+          }
+        },
+        {
+          "author": "Zannini",
+          "category": "PLANET",
+          "interrogation": "Which country is the biggest CO2 emitter?",
+          "choices": {
+            "USA": false,
+            "China": true,
+            "Russia": false
+          }
+        },
+        {
+          "author": "Zannini",
+          "category": "HISTORY",
+          "interrogation": "Who was the first king of Italy ?",
+          "choices": {
+            "Humbert I": false,
+            "Victor-Emmanuel II": true,
+            "Victor-Emmanuel I": false
+          }
+        },
+        {
+          "author": "Zannini",
+          "category": "LITERATURE",
+          "interrogation": "Which dystopia made George Orwell famous ?",
+          "choices": {
+            "1984": true,
+            "1940": false,
+            "1874": false
+          }
+        },
+        {
+          "author": "Zannini",
+          "category": "COMPUTER",
+          "interrogation": "What is the most common language used to write web pages ?",
+          "choices": {
+            "Java": false,
+            "HTTP": false,
+            "HTML": true
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Zannini",
+          "category": "IDEAS",
+          "interrogation": "The philosophical notion that every event is determined by past events is known as ?",
+          "choices": {
+            "Determinism": true,
+            "Fatalism": false,
+            "Stoicism": false
+          }
+        },
+        {
+          "author": "Zannini",
+          "category": "SCIENCE",
+          "interrogation": "According to which principle \"any body immersed in a liquid undergoes a vertical upward thrust equal to the weight of the volume of liquid displaced\" ?",
+          "choices": {
+            "Darwin's principle": false,
+            "Archimedes' Principle": true,
+            "Principle of inertia": false
+          }
+        },
+        {
+          "author": "Zannini",
+          "category": "PLANET",
+          "interrogation": "During the 2004 oil spill in the Gulf of Mexico what was used to absorb the oil ?",
+          "choices": {
+            "Bags of spider's web": false,
+            "Bags of old clothes": false,
+            "Bags of hair": true
+          }
+        },
+        {
+          "author": "Zannini",
+          "category": "HISTORY",
+          "interrogation": "How long did the Hundred Years' War last ?",
+          "choices": {
+            "93 years": false,
+            "100 years": false,
+            "116 years": true
+          }
+        },
+        {
+          "author": "Zannini",
+          "category": "LITERATURE",
+          "interrogation": "Which Latin poet guides Dante on his pilgrimage through the nine circles of hell ?",
+          "choices": {
+            "Virgile": true,
+            "Ovide": false,
+            "Stace": false
+          }
+        },
+        {
+          "author": "Zannini",
+          "category": "COMPUTER",
+          "interrogation": "A malware that misleads users of its true intent is known as ?",
+          "choices": {
+            "Trojan Horse": true,
+            "Ransomware": false,
+            "Brute-force attack": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Zannini",
+          "category": "IDEAS",
+          "interrogation": "Who was Voltaire's greatest rival ?",
+          "choices": {
+            "Jean Le Rond d'Alembert": false,
+            "Jean-Jacques Rousseau": true,
+            "Denis Diderot": false
+          }
+        },
+        {
+          "author": "Zannini",
+          "category": "SCIENCE",
+          "interrogation": "What is the name of the phase that characterises the transition from solid to gas ?",
+          "choices": {
+            "Sublimation": true,
+            "Evaporation": false,
+            "Condensation": false
+          }
+        },
+        {
+          "author": "Zannini",
+          "category": "PLANET",
+          "interrogation": "Which place is known as the green lung of the Earth ?",
+          "choices": {
+            "Amazon Rainforest": true,
+            "New Guinea Rainforest": false,
+            "Daintree Rainforest": false
+          }
+        },
+        {
+          "author": "Zannini",
+          "category": "HISTORY",
+          "interrogation": "How did Saddam Hussein die ?",
+          "choices": {
+            "Stoned to death": false,
+            "Shot to death": false,
+            "By hanging": true
+          }
+        },
+        {
+          "author": "Zannini",
+          "category": "LITERATURE",
+          "interrogation": "What's the name of Don Quixote's horse in the novel of the same name ?",
+          "choices": {
+            "Albe": false,
+            "Rocinante": true,
+            "Comanche": false
+          }
+        },
+        {
+          "author": "Zannini",
+          "category": "COMPUTER",
+          "interrogation": "How much did the first Apple computer cost ?",
+          "choices": {
+            "1200.00 dollars": false,
+            "666.66 dollars": true,
+            "374.99 dollars": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Gillebert",
+          "category": "IDEAS",
+          "interrogation": "What does USSR stand for ?",
+          "choices": {
+            "United Socialist States of Russia": false,
+            "Union of Soviet Socialist Republics": true,
+            "United States of Soviet Republics": false
+          }
+        },
+        {
+          "author": "Gillebert",
+          "category": "SCIENCE",
+          "interrogation": "Which constellation, always present in the northern hemisphere, is the easiest to find ?",
+          "choices": {
+            "Ursa Major": true,
+            "Cassiopeia": false,
+            "Orion": false
+          }
+        },
+        {
+          "author": "Gillebert",
+          "category": "PLANET",
+          "interrogation": "From which continent does the Bering Strait separate Asia ?",
+          "choices": {
+            "Europe": false,
+            "America": true,
+            "Oceania": false
+          }
+        },
+        {
+          "author": "Gillebert",
+          "category": "HISTORY",
+          "interrogation": "Which modern country was home to the Aztecs ?",
+          "choices": {
+            "Colombia": false,
+            "Mexico": true,
+            "Peru": false
+          }
+        },
+        {
+          "author": "Gillebert",
+          "category": "LITERATURE",
+          "interrogation": "Which French novelist described the life of the Rougon-Macquart family in 20 volumes ?",
+          "choices": {
+            "Emile Zola": true,
+            "Jules Vernes": false,
+            "Victor Hugo": false
+          }
+        },
+        {
+          "author": "Gillebert",
+          "category": "COMPUTER",
+          "interrogation": "Which proposal is not a programming language ?",
+          "choices": {
+            "C--": false,
+            "D++": true,
+            "F#": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Gillebert",
+          "category": "IDEAS",
+          "interrogation": "Which animal walks on four legs in the morning, on two legs at noon and on three legs at night ?",
+          "choices": {
+            "A monkey": false,
+            "A bear": false,
+            "A man": true
+          }
+        },
+        {
+          "author": "Gillebert",
+          "category": "SCIENCE",
+          "interrogation": "What is the longest bone in the human body ?",
+          "choices": {
+            "The Sternum bone": false,
+            "The Femur": true,
+            "The Radius": false
+          }
+        },
+        {
+          "author": "Gillebert",
+          "category": "PLANET",
+          "interrogation": "Which volcano buried Pompeii ?",
+          "choices": {
+            "Etna": false,
+            "Vesuvius": true,
+            "Stromboli": false
+          }
+        },
+        {
+          "author": "Gillebert",
+          "category": "HISTORY",
+          "interrogation": "What was the name of the city of St. Petersburg during the communist era ?",
+          "choices": {
+            "Leningrad": true,
+            "Kaliningrad": false,
+            "Stalingrad": false
+          }
+        },
+        {
+          "author": "Gillebert",
+          "category": "LITERATURE",
+          "interrogation": "To which English author do we owe The Time Machine and The Invisible Man ?",
+          "choices": {
+            "H.G Wells": true,
+            "Lewis Carroll": false,
+            "Charles Dickens": false
+          }
+        },
+        {
+          "author": "Gillebert",
+          "category": "COMPUTER",
+          "interrogation": "Which name cannot be used for a Windows folder?",
+          "choices": {
+            "Can": false,
+            "Con": true,
+            "Make": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Gillebert",
+          "category": "IDEAS",
+          "interrogation": "What is the official name of the place where tennis is played ?",
+          "choices": {
+            "The stadium": false,
+            "The field": false,
+            "The court": true
+          }
+        },
+        {
+          "author": "Gillebert",
+          "category": "SCIENCE",
+          "interrogation": "Which mushroom is used to make bread rise ?",
+          "choices": {
+            "The yeast": true,
+            "The chanterelle": false,
+            "The boletus": false
+          }
+        },
+        {
+          "author": "Gillebert",
+          "category": "PLANET",
+          "interrogation": "How tall can a grizzly bear get on its hind legs ?",
+          "choices": {
+            "2.5 meters": false,
+            "3 meters": true,
+            "2 meters": false
+          }
+        },
+        {
+          "author": "Gillebert",
+          "category": "HISTORY",
+          "interrogation": "What was the name of the central square of the Roman cities ?",
+          "choices": {
+            "Plaza": false,
+            "Loco": false,
+            "Forum": true
+          }
+        },
+        {
+          "author": "Gillebert",
+          "category": "LITERATURE",
+          "interrogation": "What was the first book printed using Gutenberg's moveable metal type ?",
+          "choices": {
+            "The Psalmorum Codex": false,
+            "The Liber chronicarum": false,
+            "The Bible": true
+          }
+        },
+        {
+          "author": "Gillebert",
+          "category": "COMPUTER",
+          "interrogation": "Which number system does the computer use to store data and perform calculations ?",
+          "choices": {
+            "Octal": false,
+            "Hexadecimal": false,
+            "Binary": true
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Delrot",
+          "category": "IDEAS",
+          "interrogation": "According to Descartes, philosophy encompasses a few fields, what are they ?",
+          "choices": {
+            "Consciousness and subconscious": false,
+            "The science and study of all nature": true,
+            "Life and death": false
+          }
+        },
+        {
+          "author": "Delrot",
+          "category": "SCIENCE",
+          "interrogation": "What are clouds made of ?",
+          "choices": {
+            "Water droplet": true,
+            "Sulfur": false,
+            "Nitrogen": false
+          }
+        },
+        {
+          "author": "Delrot",
+          "category": "PLANET",
+          "interrogation": "How much waste is thrown away on average per year ?",
+          "choices": {
+            "3050 million tons": false,
+            "2010 million tons": true,
+            "1500 million tons": false
+          }
+        },
+        {
+          "author": "Delrot",
+          "category": "HISTORY",
+          "interrogation": "When was Pompeii buried under the ashes ?",
+          "choices": {
+            "89": false,
+            "79": true,
+            "69": false
+          }
+        },
+        {
+          "author": "Delrot",
+          "category": "LITERATURE",
+          "interrogation": "By whom was \"The Lord of the Rings\" written?",
+          "choices": {
+            "George R. R. Martin": false,
+            "Joanne Rowling": false,
+            "John Ronald Reuel Tolkien": true
+          }
+        },
+        {
+          "author": "Delrot",
+          "category": "COMPUTER",
+          "interrogation": "What is ENIAC ?",
+          "choices": {
+            "The first computer": true,
+            "The first programming language": false,
+            "The name of the network cable linking North America to Europe": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Delrot",
+          "category": "IDEAS",
+          "interrogation": "Who is the founding father of psychoanalysis ?",
+          "choices": {
+            "Sigmund Freud": true,
+            "Friedrich Nietzsche": false,
+            "Aristote": false
+          }
+        },
+        {
+          "author": "Delrot",
+          "category": "SCIENCE",
+          "interrogation": "When did the dinosaurs disappear?",
+          "choices": {
+            "65 million years ago": true,
+            "100 million years ago": false,
+            "50 million years ago": false
+          }
+        },
+        {
+          "author": "Delrot",
+          "category": "PLANET",
+          "interrogation": "In which country is the most powerful nuclear power plant in the world located?",
+          "choices": {
+            "USA": false,
+            "China": false,
+            "Japan": true
+          }
+        },
+        {
+          "author": "Delrot",
+          "category": "HISTORY",
+          "interrogation": "When was the fall of berlin wall ?",
+          "choices": {
+            "9 November 1989": true,
+            "12 November 1989": false,
+            "3 November 1989": false
+          }
+        },
+        {
+          "author": "Delrot",
+          "category": "LITERATURE",
+          "interrogation": "What is the name of the book where the letter \"e\" does not appear at any point ?",
+          "choices": {
+            "La Cachette": false,
+            "La Disparition": true,
+            "La Discr�tion": false
+          }
+        },
+        {
+          "author": "Delrot",
+          "category": "COMPUTER",
+          "interrogation": "What are the connectors used to connect the cables of a computer network called ?",
+          "choices": {
+            "RJ45 (Registered Jack-45)": true,
+            "SATA (Serial Advanced Technology Attachment)": false,
+            "USB (Universal Serial Bus)": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Delrot",
+          "category": "IDEAS",
+          "interrogation": "What is the main religious holiday for Christians ?",
+          "choices": {
+            "Easter Sunday": true,
+            "Christmas": false,
+            "Ascension day": false
+          }
+        },
+        {
+          "author": "Delrot",
+          "category": "SCIENCE",
+          "interrogation": "Approximately, how long does it take for sunlight to reach the Earth ?",
+          "choices": {
+            "8 minutes": true,
+            "8 hours": false,
+            "8 seconds": false
+          }
+        },
+        {
+          "author": "Delrot",
+          "category": "PLANET",
+          "interrogation": "About how many households can be powered by the Estinnes wind farm ?",
+          "choices": {
+            "30 thousand": false,
+            "20 thousand": false,
+            "50 thousand": true
+          }
+        },
+        {
+          "author": "Delrot",
+          "category": "HISTORY",
+          "interrogation": "Who lost the battle of Waterloo in 1815 ?",
+          "choices": {
+            "John Adams": false,
+            "Winston Churchill": false,
+            "Napoleon Bonaparte": true
+          }
+        },
+        {
+          "author": "Delrot",
+          "category": "LITERATURE",
+          "interrogation": "Romain Gary won the Prix Goncourt twice, what was his pseudo ?",
+          "choices": {
+            "Emile Ajar": true,
+            "Robinson Crusoe": false,
+            "Stephen King": false
+          }
+        },
+        {
+          "author": "Delrot",
+          "category": "COMPUTER",
+          "interrogation": "What's the name of the malware that when installed on a computer aims to collect and transfer information without the user's knowledge ?",
+          "choices": {
+            "Phishing": false,
+            "Spyware": true,
+            "Spam": false
+          }
+        }
+      ]
+    }
+  ]
+}

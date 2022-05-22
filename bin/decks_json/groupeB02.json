@@ -1,0 +1,570 @@
+{
+	"cards": [{
+			"questions": [{
+					"author": "Saviour",
+					"category": "SCIENCE",
+					"interrogation": "Once all the permanent teeth are out, how many teeth does an adult have",
+					"choices": {
+						"36 teeth": false,
+						"32 teeth": true,
+						"28 teeth": false
+					}
+				},
+				{
+					"author": "Saviour",
+					"category": "PLANET",
+					"interrogation": "When did Neil Armstrong walk on the moon",
+					"choices": {
+						"16 July 1968": false,
+						"16 July 1959 ": false,
+						"16 July 1969": true
+					}
+				},
+				{
+					"author": "Saviour",
+					"category": "HISTORY",
+					"interrogation": "In which year did Belgium become independent",
+					"choices": {
+						"1930": false,
+						"1830": true,
+						"1730": false
+					}
+				},
+				{
+					"author": "Saviour",
+					"category": "COMPUTER",
+					"interrogation": "How are called the physical components of a computer",
+					"choices": {
+						"Software": false,
+						"Malware": false,
+						"Hardware ": true
+					}
+				},
+				{
+					"author": "Saviour",
+					"category": "LITERATURE",
+					"interrogation": "When did the first comic Tintin appear",
+					"choices": {
+						"5 March 1929 ": false,
+						"10 January 1980": false,
+						"10 January 1929": true
+					}
+				},
+				{
+					"author": "Saviour",
+					"category": "IDEAS",
+					"interrogation": "Who is the first philosopher to speak about \"The Allegory of the Cave\"",
+					"choices": {
+						"Aristote ": false,
+						"Socrates ": false,
+						"Platon ": true
+					}
+				}
+			]
+		},
+		{
+			"questions": [{
+					"author": "Saviour",
+					"category": "PLANET",
+					"interrogation": "What is the surface of Earth",
+					"choices": {
+						"510.1 million km²": true,
+						"100 million km²": false,
+						"606.5 million km²": false
+					}
+				},
+				{
+					"author": "Saviour",
+					"category": "SCIENCE",
+					"interrogation": "How many litres of blood does an average adult body contain",
+					"choices": {
+						"10 litres": false,
+						"5 litres": true,
+						"15 litres": false
+					}
+				},
+				{
+					"author": "Saviour",
+					"category": "HISTORY",
+					"interrogation": "When did the Titanic sink",
+					"choices": {
+						"1932": false,
+						"1982": false,
+						"1912": true
+					}
+				},
+				{
+					"author": "Saviour",
+					"category": "COMPUTER",
+					"interrogation": "What does \"www\" stand for",
+					"choices": {
+						"World Wide Wireless": false,
+						"World Wide Web": true,
+						"Web World Win ": false
+					}
+				},
+				{
+					"author": "Saviour",
+					"category": "IDEAS",
+					"interrogation": "Why was Socrates executed",
+					"choices": {
+						"For stealing bread ": false,
+						"For corrupting the youth ": true,
+						"For killing a politician ": false
+					}
+				},
+				{
+					"author": "Saviour",
+					"category": "LITERATURE",
+					"interrogation": "Who wrote \"Les Misérables\"",
+					"choices": {
+						"Emile Zola ": false,
+						"Guy de Maupassant  ": false,
+						"Victor Hugo": true
+					}
+				}
+			]
+		},
+		{
+			"questions": [{
+					"author": "Saviour",
+					"category": "COMPUTER",
+					"interrogation": "What is \"overclocking\"",
+					"choices": {
+						"Increasing the frequency of a microprocessor ": true,
+						"Measuring the performance of the microprocessor ": false,
+						"Combining two microprocessors": false
+					}
+				},
+				{
+					"author": "Saviour",
+					"category": "PLANET",
+					"interrogation": "How long does Earth take to go around the sun",
+					"choices": {
+						"24 hours ": false,
+						"365 hours": false,
+						"365 days ": true
+					}
+				},
+				{
+					"author": "Saviour",
+					"category": "LITERATURE",
+					"interrogation": "Which one of these women isn\"t a writer",
+					"choices": {
+						"Colette ": false,
+						"Simone de Beauvoir ": false,
+						"Audrey Tautou ": true
+					}
+				},
+				{
+					"author": "Saviour",
+					"category": "HISTORY",
+					"interrogation": "What is the date of the fall of the Berlin wall",
+					"choices": {
+						"1979": false,
+						"1989": true,
+						"1889": false
+					}
+				},
+				{
+					"author": "Saviour",
+					"category": "SCIENCE",
+					"interrogation": "At which temperature does water boil",
+					"choices": {
+						"100 degrees ": true,
+						"75 degrees ": false,
+						"50 degrees ": false
+					}
+				},
+				{
+					"author": "Saviour",
+					"category": "IDEAS",
+					"interrogation": "Who defined happiness as a suspension of unhappiness",
+					"choices": {
+						"Epicure": false,
+						"Spinoza ": false,
+						"The Stoicians ": true
+					}
+				}
+			]
+		},
+		{
+			"questions": [{
+					"author": "Jason",
+					"category": "SCIENCE",
+					"interrogation": "How far does light travel in 1 second",
+					"choices": {
+						"254 657 321m": false,
+						"299 792 458m": true,
+						"352 600 000m": false
+					}
+				},
+				{
+					"author": "Jason",
+					"category": "PLANET",
+					"interrogation": "In which year was the planet Mars discovered",
+					"choices": {
+						"1610": true,
+						"1598": false,
+						"1759": false
+					}
+				},
+				{
+					"author": "Jason",
+					"category": "HISTORY",
+					"interrogation": "How many days was Belgium invaded by German troops in the Second World War",
+					"choices": {
+						"18 days": true,
+						"64 days": false,
+						"13 days": false
+					}
+				},
+				{
+					"author": "Jason",
+					"category": "LITERATURE",
+					"interrogation": "Which work did Voltaire never write",
+					"choices": {
+						"\"Candide ou l\u0027optimisme\"": false,
+						"Oedipe": false,
+						"\"Lui et Moi\"": true
+					}
+				},
+				{
+					"author": "Jason",
+					"category": "IDEAS",
+					"interrogation": "Who is considered the father of modern philosophy",
+					"choices": {
+						"Aristote ": false,
+						"Socrates": true,
+						"Platon": false
+					}
+				},
+				{
+					"author": "Jason",
+					"category": "COMPUTER",
+					"interrogation": " What was the programming language understood by DOS in the 1900s",
+					"choices": {
+						"COBOL": false,
+						"PYTHON": false,
+						"BASIC": true
+					}
+				}
+			]
+		},
+		{
+			"questions": [{
+					"author": "Jason",
+					"category": "PLANET",
+					"interrogation": "How many planets are in the solar system ",
+					"choices": {
+						"7": false,
+						"8": true,
+						"9": false
+					}
+				},
+				{
+					"author": "Jason",
+					"category": "SCIENCE",
+					"interrogation": "Who is the author of the famous phrase \"nothing is lost, nothing is created, everything is transformed\" in 1789",
+					"choices": {
+						"Newton": false,
+						"Lavoisier": true,
+						"Pythagore": false
+					}
+				},
+				{
+					"author": "Jason",
+					"category": "IDEAS",
+					"interrogation": "Who is the author of this quote: \"For me, ideas are nothing more than material things transposed and translated into the heads of men\"",
+					"choices": {
+						"Freud": false,
+						"Lucréce": false,
+						"Marx": true
+					}
+				},
+				{
+					"author": "Jason",
+					"category": "HISTORY",
+					"interrogation": "How many years did the Civil War last",
+					"choices": {
+						"At least 12 years": false,
+						"At least 4 years": true,
+						"At least 7 years": false
+					}
+				},
+				{
+					"author": "Jason",
+					"category": "LITERATURE",
+					"interrogation": "Who wrote the book \"Les Fleurs du Mal\" ?",
+					"choices": {
+						"Charles Baudelaire": true,
+						"Paul Verlaine": false,
+						"Arthur Rimbaud": false
+					}
+				},
+				{
+					"author": "Jason",
+					"category": "COMPUTER",
+					"interrogation": "In computing, there are certain standards, such as IEEE 802.11. What is this standard related to...",
+					"choices": {
+						"Bluetooth": false,
+						"Wi-Fi": true,
+						"Ethernet": false
+					}
+				}
+			]
+		},
+		{
+			"questions": [{
+					"author": "Jason",
+					"category": "LITERATURE",
+					"interrogation": "J.K. Rowling began writing the famous Harry Potter saga in 1997. How many books did she write",
+					"choices": {
+						"6": false,
+						"7": true,
+						"8": false
+					}
+				},
+				{
+					"author": "Jason",
+					"category": "PLANET",
+					"interrogation": "How many Natural Satellites does Jupiter have",
+					"choices": {
+						"12": false,
+						"79": true,
+						"95": false
+					}
+				},
+				{
+					"author": "Jason",
+					"category": "SCIENCE",
+					"interrogation": "What is the chemical formula for Sodium",
+					"choices": {
+						"Na": true,
+						"S": false,
+						"So": false
+					}
+				},
+				{
+					"author": "Jason",
+					"category": "IDEAS",
+					"interrogation": "Complete this sentence from Hobbes: \"Man is a wolf to...\"",
+					"choices": {
+						"The Man": true,
+						"The society": false,
+						"The next generation": false
+					}
+				},
+				{
+					"author": "Jason",
+					"category": "HISTORY",
+					"interrogation": "In which year did the USSR dissolve",
+					"choices": {
+						"1991": true,
+						"1990": false,
+						"1989": false
+					}
+				},
+				{
+					"author": "Jason",
+					"category": "COMPUTER",
+					"interrogation": "What does CPU stand for",
+					"choices": {
+						"Central Processor Unit": false,
+						"Central Processing Unit": true,
+						"Central Process Unit": false
+					}
+				}
+			]
+		},
+		{
+			"questions": [{
+					"author": "Alexandre",
+					"category": "IDEAS",
+					"interrogation": "What is an epicurean looking for",
+					"choices": {
+						"Violence": false,
+						"Pleasure": true,
+						"Hapines": false
+					}
+				},
+				{
+					"author": "Alexandre",
+					"category": "SCIENCE",
+					"interrogation": "What is the glucose molecule",
+					"choices": {
+						"H2O": false,
+						"C6H12O6": true,
+						"CH4": false
+					}
+				},
+				{
+					"author": "Alexandre",
+					"category": "PLANET",
+					"interrogation": "What is a nebula",
+					"choices": {
+						"A star": false,
+						"A planet": false,
+						"A gas cloud": true
+					}
+				},
+				{
+					"author": "Alexandre",
+					"category": "HISTORY",
+					"interrogation": "Who was the 4th king of Belgium",
+					"choices": {
+						"Leopold IV": false,
+						"Albert I": false,
+						"Leopold III": true
+					}
+				},
+				{
+					"author": "Alexandre",
+					"category": "LITERATURE",
+					"interrogation": "Which manga is the oldest",
+					"choices": {
+						"Naruto": false,
+						"Dragon Ball": true,
+						"One Piece": false
+					}
+				},
+				{
+					"author": "Alexandre",
+					"category": "COMPUTER",
+					"interrogation": "What is the measurement unit for the refresh rate pf a monitor",
+					"choices": {
+						"The byte": false,
+						"The joule": false,
+						"The hertz": true
+					}
+				}
+			]
+		},
+		{
+			"questions": [{
+					"author": "Alexandre",
+					"category": "SCIENCE",
+					"interrogation": "What is the longest bone in the human body",
+					"choices": {
+						"The femur": true,
+						"The scapula": false,
+						"The tibia": false
+					}
+				},
+				{
+					"author": "Alexandre",
+					"category": "IDEAS",
+					"interrogation": "Who created the universe according to Islam",
+					"choices": {
+						"Abraham": false,
+						"The Big Bang": false,
+						"God": true
+					}
+				},
+				{
+					"author": "Alexandre",
+					"category": "COMPUTER",
+					"interrogation": "Who is the CEO of Apple ? ( in 2022)",
+					"choices": {
+						"Tim Cook": true,
+						"Steve Jobs": false,
+						"Jeff Bezos": false
+					}
+				},
+				{
+					"author": "Alexandre",
+					"category": "PLANET",
+					"interrogation": "What is the distance between the Earth and the Sun",
+					"choices": {
+						"Approximately 149 500 000 km": true,
+						"Approximately 1 495 000 km": false,
+						"Approximately 14 950 000 km": false
+					}
+				},
+				{
+					"author": "Alexandre",
+					"category": "LITERATURE",
+					"interrogation": "Who wrote \"L\u0027Ecume des jours\"",
+					"choices": {
+						"Marc Levy": false,
+						"Albert Camus": false,
+						"Boris Vian": true
+					}
+				},
+				{
+					"author": "Alexandre",
+					"category": "HISTORY",
+					"interrogation": "In which year was the European United created",
+					"choices": {
+						"1974": false,
+						"1951": false,
+						"1993": true
+					}
+				}
+			]
+		},
+		{
+			"questions": [{
+					"author": "Alexandre",
+					"category": "HISTORY",
+					"interrogation": "Which Roman emperor did the construction of the Coliseum order",
+					"choices": {
+						"Vespasien": true,
+						"Jules César": false,
+						"Titus": false
+					}
+				},
+				{
+					"author": "Alexandre",
+					"category": "SCIENCE",
+					"interrogation": "What is the measurement unit of force",
+					"choices": {
+						"The newton": true,
+						"The meter": false,
+						"The watt": false
+					}
+				},
+				{
+					"author": "Alexandre",
+					"category": "LITERATURE",
+					"interrogation": "Which literary work was written by Victor Hugo",
+					"choices": {
+						"Harry Potter": false,
+						"\nLes Misérables\n": true,
+						"A Journey to the Center of the Earth": false
+					}
+				},
+				{
+					"author": "Alexandre",
+					"category": "PLANET",
+					"interrogation": "What absorbs most of the sun UV rays",
+					"choices": {
+						"Clouds": false,
+						"Dirt": false,
+						"The ozone layer": true
+					}
+				},
+				{
+					"author": "Alexandre",
+					"category": "IDEAS",
+					"interrogation": "Who exhibited the Allegory of the Cav",
+					"choices": {
+						"Socrate": false,
+						"Platon": true,
+						"Aristote": false
+					}
+				},
+				{
+					"author": "Alexandre",
+					"category": "COMPUTER",
+					"interrogation": "Which storage capacity is the fastest to write and read",
+					"choices": {
+						"SSD": false,
+						"HDD": false,
+						"SSD NVM": true
+					}
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,580 @@
+{
+  "cards": [
+    {
+      "questions": [
+        {
+          "author": "Nicolas",
+          "category": "IDEAS",
+          "interrogation": "What do space and time have in common?",
+          "choices": {
+            "Secutability": true,
+            "Reversibility": false,
+            "Ubiquity": false
+          }
+        },
+        {
+          "author": "Nicolas",
+          "category": "SCIENCE",
+          "interrogation": "How many teeth does an adult human have?",
+          "choices": {
+            "30": false,
+            "31": false,
+            "32": true
+          }
+        },
+        {
+          "author": "Nicolas",
+          "category": "PLANET",
+          "interrogation": "Which planet has the most volcanoes?",
+          "choices": {
+            "Earth": false,
+            "Venus": true,
+            "Sun": false
+          }
+        },
+        {
+          "author": "Nicolas",
+          "category": "HISTORY",
+          "interrogation": "During 1963, in Washington DC, Martin Luther King Jr gave his famous ‘I have a dream’ speech on the steps of which famous landmark?",
+          "choices": {
+            "The Lincoln Memorial ": true,
+            "United States Capitol": false,
+            "The White House ": false
+          }
+        },
+        {
+          "author": "Nicolas",
+          "category": "LITERATURE",
+          "interrogation": "Who is the author of The Origin Of Species?",
+          "choices": {
+            "Darwin": true,
+            "Newton": false,
+            "Daniel Defoe": false
+          }
+        },
+        {
+          "author": "Nicolas",
+          "category": "COMPUTER",
+          "interrogation": "On a powerful PC, how many USB ports can we plug in at most?",
+          "choices": {
+            "Between 50 and 60 USB": true,
+            "Between 20 and 30 USB": false,
+            "Between 40 and 50 USB": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Nicolas",
+          "category": "IDEAS",
+          "interrogation": "What color are the cabins in London?",
+          "choices": {
+            "Red": true,
+            "Yellow": false,
+            "Blue": false
+          }
+        },
+        {
+          "author": "Nicolas",
+          "category": "SCIENCE",
+          "interrogation": "This essential gas is important so that we can breathe ?",
+          "choices": {
+            "Hydrogen": false,
+            "Oxygen": true,
+            "Carbon dioxide": false
+          }
+        },
+        {
+          "author": "Nicolas",
+          "category": "PLANET",
+          "interrogation": "The moon called Titan orbits which planet?",
+          "choices": {
+            "Saturn": true,
+            "Jupiter": false,
+            "Mercure": false
+          }
+        },
+        {
+          "author": "Nicolas",
+          "category": "HISTORY",
+          "interrogation": "Where did the Great Fire of London begin, on 2 September 1666?",
+          "choices": {
+            "London": false,
+            "Pudding Lane": true,
+            "Manchester": false
+          }
+        },
+        {
+          "author": "Nicolas",
+          "category": "LITERATURE",
+          "interrogation": "Tweedledum and Tweedledee are two characters of which Children’s book?",
+          "choices": {
+            "The Annotated Alice": false,
+            "Fallen Woman": false,
+            "Alice in Wonderland": true
+          }
+        },
+        {
+          "author": "Nicolas",
+          "category": "COMPUTER",
+          "interrogation": "In what year did the public version of Python appear on the Usenet alt.sources forum?",
+          "choices": {
+            "2000": false,
+            "1991": true,
+            "1996": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Nicolas",
+          "category": "IDEAS",
+          "interrogation": "What is the meaning of Lagneau's phrase, time is the form of my impotence?",
+          "choices": {
+            "Man can control time": false,
+            "The human condition is absurd": false,
+            "Time is what escapes man": true
+          }
+        },
+        {
+          "author": "Nicolas",
+          "category": "SCIENCE",
+          "interrogation": "What do bees collect and use to create honey?",
+          "choices": {
+            "Nectar": true,
+            "Flower": false,
+            "Fern": false
+          }
+        },
+        {
+          "author": "Nicolas",
+          "category": "PLANET",
+          "interrogation": "Which planet rotates on its side?",
+          "choices": {
+            "Neptune": false,
+            "Uranus": true,
+            "Pluto": false
+          }
+        },
+        {
+          "author": "Nicolas",
+          "category": "HISTORY",
+          "interrogation": "Neil Armstrong, Buzz Aldrin and…? Who was the third astronaut involved in the Apollo 11 mission that landed on the moon?",
+          "choices": {
+            "Harriet Tubman": false,
+            "Edward Teach": false,
+            "Michael Collins": true
+          }
+        },
+        {
+          "author": "Nicolas",
+          "category": "LITERATURE",
+          "interrogation": "By what name was Shakespeare’s mother known before her marriage?",
+          "choices": {
+            "Mary Arden": true,
+            "Anne Hathaway": false,
+            "Judith Quiney": false
+          }
+        },
+        {
+          "author": "Nicolas",
+          "category": "COMPUTER",
+          "interrogation": "What is not an operating system in this list?",
+          "choices": {
+            "SAEIV": false,
+            "Humanoid": true,
+            "Android": false
+          }
+        }
+      ]
+    },
+    {
+    "questions": [
+      {
+        "author": "Florian",
+        "category": "IDEAS",
+        "interrogation": "Heraclitus is a philosopher of the end of the?",
+        "choices": {
+          "12 century before J-C": false,
+          "6 century": false,
+          "6 century before J-C": true
+        }
+      },
+      {
+        "author": "Florian",
+        "category": "SCIENCE",
+        "interrogation": "What animal has a cold blood?",
+        "choices": {
+          "Turtle": true,
+          "Whale": false,
+          "Eagle": false
+        }
+      },
+      {
+        "author": "Florian",
+        "category": "PLANET",
+        "interrogation": "Which planet is the heaviest?",
+        "choices": {
+          "Earth": true,
+          "Jupiter": false,
+          "Sun": false
+        }
+      },
+      {
+        "author": "Florian",
+        "category": "HISTORY",
+        "interrogation": "What super hero was created by Bob Kane in 1939? ",
+        "choices": {
+          "Batman": true,
+          "Spiderman": false,
+          "Hulk": false
+        }
+      },
+      {
+        "author": "Florian",
+        "category": "LITERATURE",
+        "interrogation": "In what year did the first tome of One Piece released?",
+        "choices": {
+          "1997": true,
+          "1995": false,
+          "1999": false
+        }
+      },
+      {
+        "author": "Florian",
+        "category": "COMPUTER",
+        "interrogation": "What is the best cooling for a computer?",
+        "choices": {
+          "Water cooling": true,
+          "Air cooling": false,
+          "Air conditioner": false
+        }
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "author": "Florian",
+        "category": "IDEAS",
+        "interrogation": "What is the shape of a soccer ball?",
+        "choices": {
+          "Truncated Icosahedron": true,
+          "Round": false,
+          "Square": false
+        }
+      },
+      {
+        "author": "Florian",
+        "category": "SCIENCE",
+        "interrogation": "The volt is the unit of?",
+        "choices": {
+          "Electrical resistance": false,
+          "Electrical power": false,
+          "Electrical tension": true
+        }
+      },
+      {
+        "author": "Florian",
+        "category": "PLANET",
+        "interrogation": "In what year the first black hole was captured?",
+        "choices": {
+          "2019": true,
+          "2017": false,
+          "2015": false
+        }
+      },
+      {
+        "author": "Florian",
+        "category": "HISTORY",
+        "interrogation": "Where were the nazi judge?",
+        "choices": {
+          "Sigmaringen": false,
+          "Nuremberg": true,
+          "Auschwitz": false
+        }
+      },
+      {
+        "author": "Florian",
+        "category": "LITERATURE",
+        "interrogation": "Who is the author of One Piece?",
+        "choices": {
+          "Hiro Mashima": false,
+          "Kōhei Horikoshi": false,
+          "Eiichirō Oda": true
+        }
+      },
+      {
+        "author": "Florian",
+        "category": "COMPUTER",
+        "interrogation": "The CPU i9-9900KS belongs to which generation?",
+        "choices": {
+          "7": false,
+          "8": false,
+          "9": true
+        }
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "author": "Florian",
+        "category": "IDEAS",
+        "interrogation": "Which philosopher believed in eternal return?",
+        "choices": {
+          "Nietzsche": true,
+          "Hegel": false,
+          "Platon": false
+        }
+      },
+      {
+        "author": "Florian",
+        "category": "SCIENCE",
+        "interrogation": "Which speed do you need to hit the sound barrier with temperature at 15°C?",
+        "choices": {
+          "1159 km/h": false,
+          "1356 km/h": false,
+          "1224 km/h": true
+        }
+      },
+      {
+        "author": "Florian",
+        "category": "PLANET",
+        "interrogation": "What is the average distance between the moon and the earth?",
+        "choices": {
+          "379 200 km": false,
+          "384 400 km": true,
+          "387 700 km": false
+        }
+      },
+      {
+        "author": "Florian",
+        "category": "HISTORY",
+        "interrogation": "Who is the god of the dead in egyptian mythology?",
+        "choices": {
+          "Osiris": true,
+          "Horus": false,
+          "Anubis": false
+        }
+      },
+      {
+        "author": "Florian",
+        "category": "LITERATURE",
+        "interrogation": "Luffy wants to become a... ?",
+        "choices": {
+          "King of Food": false,
+          "Pirate king": true,
+          "King of Boats": false
+        }
+      },
+      {
+        "author": "Florian",
+        "category": "COMPUTER",
+        "interrogation": "What graphic card is better?",
+        "choices": {
+          "GTX 950": false,
+          "GTX 1080 Ti": false,
+          "RTX 3090": true
+        }
+      }
+    ]
+  },
+    {
+      "questions": [
+        {
+          "author": "Livio",
+          "category": "IDEAS",
+          "interrogation": "Thales of Miletus is given credit as the first known person to study which field?",
+          "choices": {
+            "Science": false,
+            "Math": true,
+            "Astronomy": false
+          }
+        },
+        {
+          "author": "Livio",
+          "category": "SCIENCE",
+          "interrogation": "Phobos and Deimos are the Moons of which planet?",
+          "choices": {
+            "Mars": true,
+            "Sedna": false,
+            "Venus": false
+          }
+        },
+        {
+          "author": "Livio",
+          "category": "PLANET",
+          "interrogation": "What is the ozone layer?",
+          "choices": {
+            "Protective gases": true,
+            "The layer of pollution": false,
+            "Gases that absorbs pollutants ": false
+          }
+        },
+        {
+          "author": "Livio",
+          "category": "HISTORY",
+          "interrogation": "How many years did the 100 years war last?",
+          "choices": {
+            "100 years": false,
+            "116 years": true,
+            "99 years": false
+          }
+        },
+        {
+          "author": "Livio",
+          "category": "LITERATURE",
+          "interrogation": "Who is Harry Potter’s best female friend?",
+          "choices": {
+            "Luna Lovegood": false,
+            "Hermione Granger": true,
+            "Ginny Weasley": false
+          }
+        },
+        {
+          "author": "Livio",
+          "category": "COMPUTER",
+          "interrogation": "When was the first  electric programmable computer invented?",
+          "choices": {
+            "1943": true,
+            "1953": false,
+            "1945": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Livio",
+          "category": "IDEAS",
+          "interrogation": "Sartre was an extremely important figure in the development of which of the following philosophical schools?",
+          "choices": {
+            "Logical Positivism": false,
+            "Existentialism": true,
+            "Functionalism": false
+          }
+        },
+        {
+          "author": "Livio",
+          "category": "SCIENCE",
+          "interrogation": "What part of the plant conducts photosyntehsis?",
+          "choices": {
+            "The leaf": true,
+            "The stem": false,
+            "The root": false
+          }
+        },
+        {
+          "author": "Livio",
+          "category": "PLANET",
+          "interrogation": "What percentage of homes built before 1940 are estimated to have lead paint?",
+          "choices": {
+            "68": true,
+            "42": false,
+            "87": false
+          }
+        },
+        {
+          "author": "Livio",
+          "category": "HISTORY",
+          "interrogation": "In which year did Hitler commit suicide?",
+          "choices": {
+            "1949": false,
+            "1946": false,
+            "1945": true
+          }
+        },
+        {
+          "author": "Livio",
+          "category": "LITERATURE",
+          "interrogation": "Who wrote the Chronicles of Narnia series?",
+          "choices": {
+            "C. S. Lewis": true,
+            "J. K. Rowling": false,
+            "Michael Connelly": false
+          }
+        },
+        {
+          "author": "Livio",
+          "category": "COMPUTER",
+          "interrogation": "What is software?",
+          "choices": {
+            "Flexible parts of a computer case": false,
+            "Any part of the computer that has a physical structure": false,
+            "Instructions that tell the hardware what to do": true
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Livio",
+          "category": "IDEAS",
+          "interrogation": "One of Descartes' ideas is considered one of the most important in philosophical history. Which one ?",
+          "choices": {
+            "Nothing comes from nothing ": false,
+            "Existence precedes essence ": false,
+            "I think, therefore I am": true
+          }
+        },
+        {
+          "author": "Livio",
+          "category": "SCIENCE",
+          "interrogation": "How many elements are there in the periodic table?",
+          "choices": {
+            "112": false,
+            "126": false,
+            "118": true
+          }
+        },
+        {
+          "author": "Livio",
+          "category": "PLANET",
+          "interrogation": "Which environmental crisis occurred in December 1952?",
+          "choices": {
+            "A nuclear plant melted down in China": false,
+            "An intense fog ": true,
+            "A toxic chemical": false
+          }
+        },
+        {
+          "author": "Livio",
+          "category": "HISTORY",
+          "interrogation": " How many days in a week were there in ancient Roman times?",
+          "choices": {
+            "6": false,
+            "8": true,
+            "9": false
+          }
+        },
+        {
+          "author": "Livio",
+          "category": "LITERATURE",
+          "interrogation": "What Victor Hugo novel was adapted into a Disney animated movie in 1996?",
+          "choices": {
+            "The Hunchback of Notre Dame ": true,
+            "Homeward Bound II: Lost in San Francisco": false,
+            "Aladdin and the King of Thieves": false
+          }
+        },
+        {
+          "author": "Livio",
+          "category": "COMPUTER",
+          "interrogation": "The computer’s main circuit board is called a ________.",
+          "choices": {
+            "Monitor": false,
+            "Motherboard": true,
+            "Hard drive": false
+          }
+        }
+      ]
+    }
+  ]
+}

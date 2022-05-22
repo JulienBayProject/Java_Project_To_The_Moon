@@ -1,0 +1,580 @@
+{
+  "cards": [
+    {
+      "questions": [
+        {
+          "author": "Renon Bart",
+          "category": "SCIENCES",
+          "interogation": "When was the first plastic made of artificial materials patented ?",
+          "choices": {
+            "In 1897": false,
+            "In 1997": false,
+            "In 1909": true
+          }
+        },
+        {
+          "author": "Renon Bart",
+          "category": "PLANETS",
+          "interogation": "How fast is light ?",
+          "choices": {
+            "186000 miles per second": true,
+            "10000 miles per hour": false,
+            "150 miles per second": false
+          }
+        },
+        {
+          "author": "Renon Bart",
+          "category": "HISTORY",
+          "interogation": "Which US President was assassinated by Lee Harvey Oswald ?",
+          "choices": {
+            "John F Kennedy": true,
+            "Mao Zedong": false,
+            "Franklin D Roosevelt": false
+          }
+        },
+        {
+          "author": "Renon Bart",
+          "category": "LITERATURE",
+          "interogation": "Who wrote the political satire also loved as a children�s book titled Alice�s Adventures in Wonderland ?",
+          "choices": {
+            "Nathaniel Hawthorn": false,
+            "Lewis Carroll": true,
+            "John Keats": false
+          }
+        },
+        {
+          "author": "Renon Bart",
+          "category": "COMPUTER",
+          "interogation": "Which one of these is also known as read/write memory ?",
+          "choices": {
+            "ROM": false,
+            "Hard Disk": false,
+            "RAM": true
+          }
+        },
+        {
+          "author": "Renon Bart",
+          "category": "IDEAS",
+          "interogation": "Which Nobel prize were both Benito Mussolini and Josef Stalin nominated for ?",
+          "choices": {
+            "Chemistry": false,
+            "Literature": false,
+            "Peace": true
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Renon Bart",
+          "category": "SCIENCES",
+          "interogation": "Who developed the theory of evolution ?",
+          "choices": {
+            "Elisha Otis": false,
+            "Charles Darwin": true,
+            "Marie Curie": false
+          }
+        },
+        {
+          "author": "Renon Bart",
+          "category": "PLANETS",
+          "interogation": "Which planet has the most moons ?",
+          "choices": {
+            "Mars": false,
+            "Jupiter": false,
+            "Saturn": true
+          }
+        },
+        {
+          "author": "Renon Bart",
+          "category": "HISTORY",
+          "interogation": "Which Nobel prize were both Benito Mussolini and Josef Stalin nominated for ?",
+          "choices": {
+            "Chemistry": false,
+            "Literature": false,
+            "Peace": true
+          }
+        },
+        {
+          "author": "Renon Bart",
+          "category": "LITERATURE",
+          "interogation": "In what year was Of Mice and Men published?",
+          "choices": {
+            "1542": false,
+            "1937": true,
+            "1812": false
+          }
+        },
+        {
+          "author": "Renon Bart",
+          "category": "COMPUTER",
+          "interogation": "Eight Bits make up a ?",
+          "choices": {
+            "Megabyte": false,
+            "Kilobyte": false,
+            "Byte": true
+          }
+        },
+        {
+          "author": "Renon Bart",
+          "category": "IDEAS",
+          "interogation": "Who is the current British head of state ?",
+          "choices": {
+            "Prime Minister Boris Johnson": false,
+            "Queen Elizabeth II": true,
+            "The Lord Fowler": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Renon Bart",
+          "category": "SCIENCES",
+          "interogation": "From what,besides hydrogen,is water made ?",
+          "choices": {
+            "Oxygen": true,
+            "Sodium": false,
+            "Carbon": false
+          }
+        },
+        {
+          "author": "Renon Bart",
+          "category": "PLANETS",
+          "interogation": "The moon called Titan orbits which planet ?",
+          "choices": {
+            "Saturn": true,
+            "Venus": false,
+            "Uranus": false
+          }
+        },
+        {
+          "author": "Renon Bart",
+          "category": "HISTORY",
+          "interogation": "The dynasty which ruled China for nearly 400 years ?",
+          "choices": {
+            "Han": true,
+            "Qin": false,
+            "Zhou": false
+          }
+        },
+        {
+          "author": "Renon Bart",
+          "category": "LITERATURE",
+          "interogation": "How many full-length novels were written by Jane Austen?",
+          "choices": {
+            "Thirty": false,
+            "Six": true,
+            "Ten": false
+          }
+        },
+        {
+          "author": "Renon Bart",
+          "category": "COMPUTER",
+          "interogation": "The lowest form of Computer language is called ?",
+          "choices": {
+            "Basic": false,
+            "Cobol": false,
+            "Machine Language": true
+          }
+        },
+        {
+          "author": "Renon Bart",
+          "category": "IDEAS",
+          "interogation": "When did the concepts of democracy first originate ?",
+          "choices": {
+            "In ancient Greece": true,
+            "In ancient Rome": false,
+            "In ancient Persian": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Brohez Matthieu ",
+          "category": "SCIENCES",
+          "interogation": "How many bones are in the human body?",
+          "choices": {
+            "215": false,
+            "106": false,
+            "206": true
+          }
+        },
+        {
+          "author": "Brohez Matthieu ",
+          "category": "PLANETS",
+          "interogation": "Which planet is closest to the sun?",
+          "choices": {
+            "Venus": true,
+            "Uranus": false,
+            "Mercur": false
+          }
+        },
+        {
+          "author": "Brohez Matthieu ",
+          "category": "HISTORY",
+          "interogation": "Which two students founded Google in 1998 ?",
+          "choices": {
+            "Jeff Bezos and mark Zuckerberg ": false,
+            "Larry Page and Sergey Brin": true,
+            "Marc and Patrick Google": false
+          }
+        },
+        {
+          "author": "Brohez Matthieu ",
+          "category": "LITERATURE",
+          "interogation": "Who is the author of The Origin Of Species? ",
+          "choices": {
+            "Darwin": true,
+            "Voltaire": false,
+            "Victor Hugo": false
+          }
+        },
+        {
+          "author": "Brohez Matthieu ",
+          "category": "COMPUTER",
+          "interogation": "How many Bits are in a Single-Byte ?",
+          "choices": {
+            "Eight Bits (8 Bits)": true,
+            "One Bit ( 1 Bit)": false,
+            "Sixteen Bits (16 Bits)": false
+          }
+        },
+        {
+          "author": "Brohez Matthieu ",
+          "category": "IDEAS",
+          "interogation": "What year was Heinz established?",
+          "choices": {
+            "1909": true,
+            "1849": false,
+            "1869": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Brohez Matthieu ",
+          "category": "SCIENCES",
+          "interogation": "Humans and chimpanzees share roughly how much DNA?",
+          "choices": {
+            "82 %": false,
+            "98 %": true,
+            "100 %": false
+          }
+        },
+        {
+          "author": "Brohez Matthieu ",
+          "category": "PLANETS",
+          "interogation": "Which is the coldest and smallest of all planets?",
+          "choices": {
+            "Mars": false,
+            "Saturn": false,
+            "Pluto": true
+          }
+        },
+        {
+          "author": "Brohez Matthieu ",
+          "category": "HISTORY",
+          "interogation": "What did the Romans call Scotland ?",
+          "choices": {
+            "Celte": false,
+            "Caledonia": true,
+            "Irish": false
+          }
+        },
+        {
+          "author": "Brohez Matthieu ",
+          "category": "LITERATURE",
+          "interogation": "Who invented the character, Robinson Crusoe?",
+          "choices": {
+            "Daniel Defoe": true,
+            "Dan Brown": false,
+            "Daniel Crusoe": false
+          }
+        },
+        {
+          "author": "Brohez Matthieu ",
+          "category": "COMPUTER",
+          "interogation": "How many Megabytes makes one Gigabyte?",
+          "choices": {
+            "1024 MB (1000 MB Standard)": true,
+            "1048 MB (1000 MB Standard)": false,
+            "1064 MB (1000 MB Standard)": false
+          }
+        },
+        {
+          "author": "Brohez Matthieu ",
+          "category": "IDEAS",
+          "interogation": "Who is the highest spiritual leader of Tibet?",
+          "choices": {
+            "Dharma Spreader": false,
+            "Buddha": false,
+            "The Dalai Lama": true
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Brohez Matthieu ",
+          "category": "SCIENCES",
+          "interogation": "What is the biggest planet in our solar system?",
+          "choices": {
+            "Mars": false,
+            "Jupiter": true,
+            "Venus": false
+          }
+        },
+        {
+          "author": "Brohez Matthieu ",
+          "category": "PLANETS",
+          "interogation": "When was the first man made object sent into space?",
+          "choices": {
+            "1957": true,
+            "1967": false,
+            "1977": false
+          }
+        },
+        {
+          "author": "Brohez Matthieu ",
+          "category": "HISTORY",
+          "interogation": "What year did the Titanic sink ?",
+          "choices": {
+            "1902": false,
+            "1912": true,
+            "1922": false
+          }
+        },
+        {
+          "author": "Brohez Matthieu ",
+          "category": "LITERATURE",
+          "interogation": "Which novel of William Peter Blatty written in 1971? It has been adopted in which epic Horror Film?",
+          "choices": {
+            "Saw": false,
+            "The Exorcist": true,
+            "Daniel Crusoe": false
+          }
+        },
+        {
+          "author": "Brohez Matthieu ",
+          "category": "COMPUTER",
+          "interogation": "What Type of Devices are Keyboard, Mouse, and Joystick?",
+          "choices": {
+            "Input": true,
+            "Output": false,
+            "Reader": false
+          }
+        },
+        {
+          "author": "Brohez Matthieu ",
+          "category": "IDEAS",
+          "interogation": "What fruit takes the scientific name Mangifera indica ? ",
+          "choices": {
+            "Apple": false,
+            "Mango": true,
+            "Banana": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Machiels Bryan ",
+          "category": "SCIENCES",
+          "interogation": "Who�s the smallest mammal in the world?",
+          "choices": {
+            "The mole": false,
+            "The bumblebee bat": true,
+            "The mouse ": false
+          }
+        },
+        {
+          "author": "Machiels Bryan ",
+          "category": "PLANETS",
+          "interogation": "Which Planet is named the red planet ? ",
+          "choices": {
+            "Mars": true,
+            "Neptune": false,
+            "Saturn": false
+          }
+        },
+        {
+          "author": "Machiels Bryan",
+          "category": "HISTORY",
+          "interogation": "When was john Kennedy killed?",
+          "choices": {
+            "On 22 November 1963": true,
+            "On 22 December 1987 ": false,
+            "On 31 January 1959": false
+          }
+        },
+        {
+          "author": "Machiels Bryan",
+          "category": "LITERATURE",
+          "interogation": "Who has written the lord of the ring ?",
+          "choices": {
+            "Sendhal": false,
+            "J.R.R Tolkien": true,
+            "J.K Rowling": false
+          }
+        },
+        {
+          "author": "Machiels Bryan",
+          "category": "COMPUTER",
+          "interogation": "When was intel created ? ",
+          "choices": {
+            "22 june 1981": false,
+            "03 jully 1972": false,
+            "18 jully 1968": true
+          }
+        },
+        {
+          "author": "Machiels Bryan ",
+          "category": "IDEAS",
+          "interogation": "Which question is known as the �big apple� in the USA ?",
+          "choices": {
+            "Chicago": false,
+            "New York city": true,
+            "Washington": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Machiels Bryan ",
+          "category": "SCIENCES",
+          "interogation": "Which Apollo moon mission was the first to carry a lunar rover?",
+          "choices": {
+            "The apollo 15": false,
+            "The apollo 13": true,
+            "The apollo 1": false
+          }
+        },
+        {
+          "author": "Machiels Bryan ",
+          "category": "PLANETS",
+          "interogation": "What is the farthest planet from the sun ?",
+          "choices": {
+            "Mars": false,
+            "Saturn": false,
+            "Pluto": true
+          }
+        },
+        {
+          "author": "Machiels Bryan",
+          "category": "HISTORY",
+          "interogation": "Which presidents is not on Mount Rushmore?",
+          "choices": {
+            "James Monroe": true,
+            "Abraham Lincoln ": false,
+            "Abraham Lincoln": false
+          }
+        },
+        {
+          "author": "Machiels Bryan",
+          "category": "LITERATURE",
+          "interogation": "Who wrote the quote: �If there were no thunder, men would have little fear of lightning�?",
+          "choices": {
+            "Emile Zola": false,
+            "Victore Hugo": false,
+            "Jules Verne": true
+          }
+        },
+        {
+          "author": "Machiels Bryan",
+          "category": "COMPUTER",
+          "interogation": "What does �MAN� stand for ?",
+          "choices": {
+            "Media around network": false,
+            "Men are nomads": false,
+            "Metropolitan area network": true
+          }
+        },
+        {
+          "author": "Machiels Bryan ",
+          "category": "IDEAS",
+          "interogation": "What is the car in back to the future ?",
+          "choices": {
+            "The doloreanne": true,
+            "The Aveo": false,
+            "The Huracan ": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Machiels Bryan ",
+          "category": "SCIENCES",
+          "interogation": "What is the melittology?",
+          "choices": {
+            "The study of mushrooms": false,
+            "A new medicine": false,
+            "The study of bees ": true
+          }
+        },
+        {
+          "author": "Machiels Bryan ",
+          "category": "PLANETS",
+          "interogation": "Which planet has the hottest temperatures?",
+          "choices": {
+            "Mars": false,
+            "Saturn": false,
+            "Venus": true
+          }
+        },
+        {
+          "author": "Machiels Bryan",
+          "category": "HISTORY",
+          "interogation": "Who was the first man to walk on the moon?",
+          "choices": {
+            "Thomas Pesquet": false,
+            "Eugene Cerman": false,
+            "Neil ArmStrong": true
+          }
+        },
+        {
+          "author": "Machiels Bryan",
+          "category": "LITERATURE",
+          "interogation": "Which book is not written by Stephen king ? ",
+          "choices": {
+            "Shining": false,
+            "Misery": false,
+            "Of mices and men": true
+          }
+        },
+        {
+          "author": "Machiels Bryan ",
+          "category": "COMPUTER",
+          "interogation": "How many bytes are in 1 Kibibyte ?",
+          "choices": {
+            "1048": false,
+            "1024": true,
+            "1000": false
+          }
+        },
+        {
+          "author": "Machiels Bryan",
+          "category": "IDEAS",
+          "interogation": "How many gods are on the throne of Olympe ?",
+          "choices": {
+            "12": true,
+            "14": false,
+            "17": false
+          }
+        }
+      ]
+    }
+  ]
+}

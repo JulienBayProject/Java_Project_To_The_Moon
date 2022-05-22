@@ -1,0 +1,580 @@
+{
+   "cards":[
+      {
+         "questions":[
+            {
+               "author":"David",
+               "category":"IDEAS",
+               "interrogation":"Which of the following is a song by the American band \"The Jackson Five\"?",
+               "choices":{
+                  "I'll Be There":true,
+                  "Can You Feel It":false,
+                  "Rock with You":false
+               }
+            },
+            {
+               "author":"David",
+               "category":"SCIENCE",
+               "interrogation":"What is the speed of sound?",
+               "choices":{
+                  "1,200 km/h":true,
+                  "700 km/h":false,
+                  "1,300 km/h":false
+               }
+            },
+            {
+               "author":"David",
+               "category":"PLANET",
+               "interrogation":"How many moons does Mercury have?",
+               "choices":{
+                  "0":true,
+                  "2":false,
+                  "5":false
+               }
+            },
+            {
+               "author":"David",
+               "category":"HISTORY",
+               "interrogation":"The black plague killed between 30 and 50% of Europeans in which year did it arrive in Europe?",
+               "choices":{
+                  "1347":true,
+                  "1323":false,
+                  "1359":false
+               }
+            },
+            {
+               "author":"David",
+               "category":"COMPUTER",
+               "interrogation":"In which year was the \"@\" chosen for its use in e-mail addresses?",
+               "choices":{
+                  "1972":true,
+                  "1980":false,
+                  "1985":false
+               }
+            },
+            {
+               "author":"David",
+               "category":"LITERATURE",
+               "interrogation":"Who wrote Hamlet?",
+               "choices":{
+                  "Shakespeare":true,
+                  "Dickens":false,
+                  "Orwell":false
+               }
+            }
+         ]
+      },
+      {
+         "questions":[
+            {
+               "author":"David",
+               "category":"IDEAS",
+               "interrogation":"Jean-Paul Sartre was one of the key figures in the philosophy which one is it?",
+               "choices":{
+                  "Existentialism":true,
+                  "Naturalism":false,
+                  "Realism":false
+               }
+            },
+            {
+               "author":"David",
+               "category":"SCIENCE",
+               "interrogation":"What is the pH of pure water?",
+               "choices":{
+                  "7":true,
+                  "0":false,
+                  "5":false
+               }
+            },
+            {
+               "author":"David",
+               "category":"PLANET",
+               "interrogation":"What is the smallest planet?",
+               "choices":{
+                  "Mercury":true,
+                  "Venus":false,
+                  "Jupiter":false
+               }
+            },
+            {
+               "author":"David",
+               "category":"HISTORY",
+               "interrogation":"Where was Napoleon 1 crowned emperor of France?",
+               "choices":{
+                  "Notre-Dame of Paris":true,
+                  "Versailles's castel":false,
+                  "Mont-Saint-Michel":false
+               }
+            },
+            {
+               "author":"David",
+               "category":"COMPUTER",
+               "interrogation":"When did Apple release its first iPad?",
+               "choices":{
+                  "2010":true,
+                  "2005":false,
+                  "2008":false
+               }
+            },
+            {
+               "author":"David",
+               "category":"LITERATURE",
+               "interrogation":"What was Stephen King's first novel?",
+               "choices":{
+                  "Carrie":true,
+                  "The Shining":false,
+                  "Misery":false
+               }
+            }
+         ]
+      },
+      {
+         "questions":[
+            {
+               "author":"David",
+               "category":"IDEAS",
+               "interrogation":"Which of these philosophers is not Greek?",
+               "choices":{
+                  "Lucrèce":true,
+                  "Aristote":false,
+                  "Anaximandre":false
+               }
+            },
+            {
+               "author":"David",
+               "category":"SCIENCE",
+               "interrogation":"How many elements does the periodic table have?",
+               "choices":{
+                  "118":true,
+                  "124":false,
+                  "106":false
+               }
+            },
+            {
+               "author":"David",
+               "category":"PLANET",
+               "interrogation":"Neil Armstrong became the first human ever to land on the moon in what year?",
+               "choices":{
+                  "1969":true,
+                  "1967":false,
+                  "1972":false
+               }
+            },
+            {
+               "author":"David",
+               "category":"HISTORY",
+               "interrogation":"When was Bastille was taken during the French Revolution?",
+               "choices":{
+                  "July 14, 1789":true,
+                  "July 21, 1789":false,
+                  "July 7, 1789":false
+               }
+            },
+            {
+               "author":"David",
+               "category":"COMPUTER",
+               "interrogation":"The first website was put online by CERN in which year?",
+               "choices":{
+                  "1989":true,
+                  "1991":false,
+                  "1993":false
+               }
+            },
+            {
+               "author":"David",
+               "category":"LITERATURE",
+               "interrogation":"After which album did Michael Jackson publish his autobiography \"Moonwalk\"?",
+               "choices":{
+                  "Bad":true,
+                  "Thriller":false,
+                  "History":false
+               }
+            }
+         ]
+      },
+      {
+         "questions":[
+            {
+               "author":"Gauthier",
+               "category":"IDEAS",
+               "interrogation":"Where did the olympics take place in 2022 ?",
+               "choices":{
+                  "Pékin":true,
+                  "Tokyo":false,
+                  "Oslo":false
+               }
+            },
+            {
+               "author":"Gauthier",
+               "category":"SCIENCE",
+               "interrogation":"How many muscles does a human have ?",
+               "choices":{
+                  "about 600":true,
+                  "about 500":false,
+                  "about 300":false
+               }
+            },
+            {
+               "author":"Gauthier",
+               "category":"PLANET",
+               "interrogation":"Which astronaut was the first man in the world to set foot on the moon ?",
+               "choices":{
+                  "Neil armstrong":true,
+                  "Buzz Aldrin":false,
+                  "Michael Collins":false
+               }
+            },
+            {
+               "author":"Gauthier",
+               "category":"HISTORY",
+               "interrogation":"When did Christopher Colombus discovered America ?",
+               "choices":{
+                  "In 1492":true,
+                  "In 1494":false,
+                  "In 1490":false
+               }
+            },
+            {
+               "author":"Gauthier",
+               "category":"COMPUTER",
+               "interrogation":"Which component of the computer is called the brain ?",
+               "choices":{
+                  "The processor":true,
+                  "The motherboard":false,
+                  "The graphic card":false
+               }
+            },
+            {
+               "author":"Gauthier",
+               "category":"LITERATURE",
+               "interrogation":"Who wrote the book Miserable ?",
+               "choices":{
+                  "Victor Hugo":true,
+                  "Emille Zola":false,
+                  "Arthur Rimbaud":false
+               }
+            }
+         ]
+      },
+      {
+         "questions":[
+            {
+               "author":"Gauthier",
+               "category":"IDEAS",
+               "interrogation":"What was the size of the Titanic boat ?",
+               "choices":{
+                  "269 meters":true,
+                  "240 meters":false,
+                  "180 meters":false
+               }
+            },
+            {
+               "author":"Gauthier",
+               "category":"SCIENCE",
+               "interrogation":"Who created the first light bulbs ?",
+               "choices":{
+                  "Thomas Avla Edison":true,
+                  "Pierre Barlow":false,
+                  "Schuyler wheeler":false
+               }
+            },
+            {
+               "author":"Gauthier",
+               "category":"PLANET",
+               "interrogation":"Which plannet is located at 1,3 billion kilometers from the earth ?",
+               "choices":{
+                  "Saturn":true,
+                  "Mars":false,
+                  "Venus":false
+               }
+            },
+            {
+               "author":"Gauthier",
+               "category":"HISTORY",
+               "interrogation":"When was the wall of Berlin build ?",
+               "choices":{
+                  "In 1961":true,
+                  "In 1941":false,
+                  "In 1951":false
+               }
+            },
+            {
+               "author":"Gauthier",
+               "category":"COMPUTER",
+               "interrogation":"What does CPU stand for ?",
+               "choices":{
+                  "Central processing unit":true,
+                  "Control processing unit":false,
+                  "Central processor unit":false
+               }
+            },
+            {
+               "author":"Gauthier",
+               "category":"LITERATURE",
+               "interrogation":"Who said \"Nothing is lost, nothing is created : everything is transformed\" ?",
+               "choices":{
+                  "Antoine Laurent de Lavoisier":true,
+                  "Victor Hugo":false,
+                  "Voltaire":false
+               }
+            }
+         ]
+      },
+      {
+         "questions":[
+            {
+               "author":"Gauthier",
+               "category":"IDEAS",
+               "interrogation":"Elon musk is the creator of which car brand ?",
+               "choices":{
+                  "Tesla":true,
+                  "Cupra":false,
+                  "Bugatti":false
+               }
+            },
+            {
+               "author":"Gauthier",
+               "category":"SCIENCE",
+               "interrogation":"Which metal is the best conductor of electricity ?",
+               "choices":{
+                  "Silver":true,
+                  "Gold":false,
+                  "Copper":false
+               }
+            },
+            {
+               "author":"Gauthier",
+               "category":"PLANET",
+               "interrogation":"Which planet is the closer of the sun ?",
+               "choices":{
+                  "Mercure":true,
+                  "Uranus":false,
+                  "Mars":false
+               }
+            },
+            {
+               "author":"Gauthier",
+               "category":"HISTORY",
+               "interrogation":"How many formula 1 pilots have won more than 3 World title",
+               "choices":{
+                  "5":true,
+                  "4":false,
+                  "3":false
+               }
+            },
+            {
+               "author":"Gauthier",
+               "category":"COMPUTER",
+               "interrogation":"When was invented internet ?",
+               "choices":{
+                  "In 1969":true,
+                  "In 1966":false,
+                  "In 1972":false
+               }
+            },
+            {
+               "author":"Gauthier",
+               "category":"LITERATURE",
+               "interrogation":"How many books have Stephen King written ?",
+               "choices":{
+                  "64":true,
+                  "44":false,
+                  "74":false
+               }
+            }
+         ]
+      },
+      {
+         "questions":[
+            {
+               "author":"Victor",
+               "category":"IDEAS",
+               "interrogation":"Who said this quote: \"The value of a man should be seen in what he gives and not in what is able to receive\"?",
+               "choices":{
+                  "Socrate":true,
+                  "Sartre":false,
+                  "Gandhi":false
+               }
+            },
+            {
+               "author":"Victor",
+               "category":"SCIENCE",
+               "interrogation":"How many legs does a bee have?",
+               "choices":{
+                  "6":true,
+                  "4":false,
+                  "8":false
+               }
+            },
+            {
+               "author":"Victor",
+               "category":"PLANET",
+               "interrogation":"What is the fourth planet from the sun?",
+               "choices":{
+                  "Mars":true,
+                  "Venus":false,
+                  "Earth":false
+               }
+            },
+            {
+               "author":"Victor",
+               "category":"HISTORY",
+               "interrogation":"How many years did the Hundrer Year's War last?",
+               "choices":{
+                  "116":true,
+                  "106":false,
+                  "96":false
+               }
+            },
+            {
+               "author":"Victor",
+               "category":"COMPUTER",
+               "interrogation":"What is the frequency of the first microprocessor?",
+               "choices":{
+                  "740KhHz":true,
+                  "320KHz":false,
+                  "1.064MHz":false
+               }
+            },
+            {
+               "author":"Victor",
+               "category":"LITERATURE",
+               "interrogation":"What is the name of George R. R. Martin's best seller, which was serialized in 2011?",
+               "choices":{
+                  "Game of Thrones":true,
+                  "The Witcher":false,
+                  "The lord of the rings":false
+               }
+            }
+         ]
+      },
+      {
+         "questions":[
+            {
+               "author":"Victor",
+               "category":"IDEAS",
+               "interrogation":"Where was the philosophy born? ",
+               "choices":{
+                  "Greece":true,
+                  "Roma":false,
+                  "England":false
+               }
+            },
+            {
+               "author":"Victor",
+               "category":"SCIENCE",
+               "interrogation":"Which hormon is called hormone of darkness?",
+               "choices":{
+                  "Melatonin":true,
+                  "Insulin":false,
+                  "Oxytocin":false
+               }
+            },
+            {
+               "author":"Victor",
+               "category":"PLANET",
+               "interrogation":"Which continent is the second-most populous?",
+               "choices":{
+                  "Africa":true,
+                  "Europa":false,
+                  "North America":false
+               }
+            },
+            {
+               "author":"Victor",
+               "category":"HISTORY",
+               "interrogation":"Which president of the French republic was a baker's son ?",
+               "choices":{
+                  "Vincent Auriol":true,
+                  "René Coty":false,
+                  "Charle de gaulle":false
+               }
+            },
+            {
+               "author":"Victor",
+               "category":"COMPUTER",
+               "interrogation":"What is the name of the precursor of internet, creater by the US departement of defence?",
+               "choices":{
+                  "Arpanet":true,
+                  "Intranet":false,
+                  "Extranet":false
+               }
+            },
+            {
+               "author":"Victor",
+               "category":"LITERATURE",
+               "interrogation":"Who wrote \"The red and the black\"?",
+               "choices":{
+                  "Stendhal":true,
+                  "Gustave Flaubert":false,
+                  "Honoré de Balzac":false
+               }
+            }
+         ]
+      },
+      {
+         "questions":[
+            {
+               "author":"Victor",
+               "category":"IDEAS",
+               "interrogation":"How many american president have been assassinated?",
+               "choices":{
+                  "4":true,
+                  "2":false,
+                  "7":false
+               }
+            },
+            {
+               "author":"Victor",
+               "category":"SCIENCE",
+               "interrogation":"How many electrons does oxygen have?",
+               "choices":{
+                  "8":true,
+                  "1":false,
+                  "4":false
+               }
+            },
+            {
+               "author":"Victor",
+               "category":"PLANET",
+               "interrogation":"What is the percentage of water on Earth?",
+               "choices":{
+                  "71%":true,
+                  "61%":false,
+                  "81%":false
+               }
+            },
+            {
+               "author":"Victor",
+               "category":"HISTORY",
+               "interrogation":"In which year had the first human-being walked on the moon?",
+               "choices":{
+                  "1969":true,
+                  "1959":false,
+                  "1654":false
+               }
+            },
+            {
+               "author":"Victor",
+               "category":"COMPUTER",
+               "interrogation":"What is the third layer of OSI model?",
+               "choices":{
+                  "Network":true,
+                  "Transport":false,
+                  "Data link":false
+               }
+            },
+            {
+               "author":"Victor",
+               "category":"LITERATURE",
+               "interrogation":"Who wrote \"And then there were none\"?",
+               "choices":{
+                  "Agatha Christie":true,
+                  "Stephen King":false,
+                  "Edgar Allan Poe":false
+               }
+            }
+         ]
+      }
+   ]
+}

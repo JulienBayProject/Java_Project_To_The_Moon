@@ -1,0 +1,584 @@
+
+{
+    "cards": [
+        { 
+            "questions": [
+                {
+                    "author": "Ludovic",
+                    "category": "IDEAS",
+                    "interrogation": "The light bulb was discovered by ...",
+                    "choices": {
+                        "Sir William Armstrong": false,
+                        "Thomas Edison": false,
+                        "Joseph Swan": true
+                    }
+                },
+                {
+                    "author": "Ludovic",
+                    "category": "SCIENCE",
+                    "interrogation": "The symbiotic association of algae and fungi is known as",
+                    "choices": {
+                        "Mycorrhiza": false,
+                        "Mycoplasma": false,
+                        "Lichen": true
+                    }
+                },
+                {
+                    "author": "Ludovic",
+                    "category": "PLANET",
+                    "interrogation": "What is the nearest planet to the sun?",
+                    "choices": {
+                        "Neptune": false,
+                        "Venus": false,
+                        "Mercury": true
+                    }
+                },
+                {
+                    "author": "Ludovic",
+                    "category": "HISTORY",
+                    "interrogation": "How many years did the 100 years war last?",
+                    "choices": {
+                        "99 years": false,
+                        "100 years": false,
+                        "116 years": true
+                    }
+                },
+                {
+                    "author": "Ludovic",
+                    "category": "LITERATURE",
+                    "interrogation": "The Harry Potter saga was written by:",
+                    "choices": {
+                        "George Lucas": false,
+                        "J. R. R. Tolkien": false,
+                        "J.K. Rowling": true
+                    }
+                },
+                {
+                    "author": "Ludovic",
+                    "category": "COMPUTER",
+                    "interrogation": "What does the Internet prefix WWW stand for?",
+                    "choices": {
+                        "Western Washington World": false,
+                        "Wide Width Wickets": false,
+                        "World Wide Web ": true
+                    }
+                }
+                
+            
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "author": "Ludovic",
+                    "category": "IDEAS",
+                    "interrogation": "According to the legend, the English physicist Isaac Newton had discovered gravity from",
+                    "choices": {
+                        "Einstein": false,
+                        "Galilée": false,
+                        "Newton": true
+                    }
+                },
+                {
+                    "author": "Ludovic",
+                    "category": "SCIENCE",
+                    "interrogation": "The gas created by means of transport is called",
+                    "choices": {
+                        "Nitrous oxide": false,
+                        "Carbon dioxide": false,
+                        "Carbon monoxide": true
+                    }
+                },
+                {
+                    "author": "Ludovic",
+                    "category": "PLANET",
+                    "interrogation": "Which planet is the largest in the solar system?",
+                    "choices": {
+                        "Saturn": false,
+                        "Pluto": false,
+                        "Jupiter": true
+                    }
+                },
+                {
+                    "author": "Ludovic",
+                    "category": "HISTORY",
+                    "interrogation": "Who sent Christopher Columbus to explore the New World?",
+                    "choices": {
+                        "Jean II of Castille": false,
+                        "Jean II of Aragon": false,
+                        "King Ferdinand of Spain": true
+                    }
+                },
+                {
+                    "author": "Ludovic",
+                    "category": "LITERATURE",
+                    "interrogation": "Wich Victor Hugo's novel was adapted into a Disney animated movie in 1996?",
+                    "choices": {
+                        "Pocahontas": false,
+                        "Hercule": false,
+                        "The Hunchback of Notre Dame": true
+                    }
+                },
+                {
+                    "author": "Ludovic",
+                    "category": "COMPUTER",
+                    "interrogation": "Which of these is a file format for digital images?",
+                    "choices": {
+                        "img": false,
+                        "rar": false,
+                        "png": true
+                    }
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "author": "Ludovic",
+                    "category": "IDEAS",
+                    "interrogation": "Which invention Alexander Graham Bell and Elisha Gray fought for years in court?",
+                    "choices": {
+                        "Combustion engine": false,
+                        "Shower": false,
+                        "Phone": true
+                    }
+                },
+                {
+                    "author": "Ludovic",
+                    "category": "SCIENCE",
+                    "interrogation": "What is the symbol of the atomic element called silver?",
+                    "choices": {
+                        "Hg": false,
+                        "Ar": false,
+                        "Ag": true
+                    }
+                },
+                {
+                    "author": "Ludovic",
+                    "category": "PLANET",
+                    "interrogation": "Which color is the sunset on Mars?",
+                    "choices": {
+                        "Red": false,
+                        "Orange": false,
+                        "Blue": true
+                    }
+                },
+                {
+                    "author": "Ludovic",
+                    "category": "HISTORY",
+                    "interrogation": "During which war was a Christmas Truce called?",
+                    "choices": {
+                        "Cold War": false,
+                        "World War II": false,
+                        "World War I": true
+                    }
+                },
+                {
+                    "author": "Ludovic",
+                    "category": "LITERATURE",
+                    "interrogation": "What was Stephen King's first published novel?",
+                    "choices": {
+                        "Cujo": false,
+                        "The Shinning": false,
+                        "Carrie": true
+                    }
+                },
+                {
+                    "author": "Ludovic",
+                    "category": "COMPUTER",
+                    "interrogation": "A computer use which type of number system to calculate and to store data?",
+                    "choices": {
+                        "Decimal": false,
+                        "Hexadecimal": false,
+                        "Binary": true
+                    }
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "author": "Pascal",
+                    "category": "IDEAS",
+                    "interrogation": "Which of the following plays is not written by Shakespeare?",
+                    "choices": {
+                        "Julius Caesar": false,
+                        "Macbeth": false,
+                        "Antigone": true
+                    }
+                },
+                {
+                    "author": "Pascal",
+                    "category": "SCIENCE",
+                    "interrogation": "What part of the atom has no electric charge?",
+                    "choices": {
+                        "Electron": false,
+                        "Protons": false,
+                        "Neutron": true
+                    }
+                },
+                {
+                    "author": "Pascal",
+                    "category": "PLANET",
+                    "interrogation": "Which planet has the highest gravity?",
+                    "choices": {
+                        "Mercury": false,
+                        "Saturn": false,
+                        "Jupiter": true
+                    }
+                },
+                {
+                    "author": "Pascal",
+                    "category": "HISTORY",
+                    "interrogation": "Who was born on 14th March 1879, in Ulm, Germany?",
+                    "choices": {
+                        "Karl Marx": false,
+                        "Adolf Hitler": false,
+                        "Albert Einstein": true
+                    }
+                },
+                {
+                    "author": "Pascal",
+                    "category": "LITERATURE",
+                    "interrogation": "What is the seventh and final installment in J.K Rowling's Harry Potter series?",
+                    "choices": {
+                        "Harry Potter and the Order of the Phoenix": false,
+                        "Harry Potter and the Cursed Child": false,
+                        "Harry Potter and the Deathly Hallows": true
+                    }
+                },
+                {
+                    "author": "Pascal",
+                    "category": "COMPUTER",
+                    "interrogation": "When was the very first model of the iPhone released?",
+                    "choices": {
+                        "2003": false,
+                        "2005": false,
+                        "2007": true
+                    }
+                } 
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "author": "Pascal",
+                    "category": "IDEAS",
+                    "interrogation": "Name the traditional dance of Hawaiian people?",
+                    "choices": {
+                        "The Rumba": false,
+                        "Belly dancing": false,
+                        "Hula dancing": true
+                    }
+                },
+                {
+                    "author": "Pascal",
+                    "category": "SCIENCE",
+                    "interrogation": "How many oxygen molecules does water have?",
+                    "choices": {
+                        "0": false,
+                        "2": false,
+                        "1": true
+                    }
+                },
+                {
+                    "author": "Pascal",
+                    "category": "PLANET",
+                    "interrogation": "Which planet is the hottest in the solar system?",
+                    "choices": {
+                        "Uranus": false,
+                        "Mars": false,
+                        "Venus": true
+                    }
+                },
+                {
+                    "author": "Pascal",
+                    "category": "HISTORY",
+                    "interrogation": "Who was known as the 'Iron Duke'?",
+                    "choices": {
+                        "Winston Churchill": false,
+                        "Duke Ellington": false,
+                        "Arthur Wellesley": true
+                    }
+                },
+                {
+                    "author": "Pascal",
+                    "category": "LITERATURE",
+                    "interrogation": "What is Captain Haddock's favorite drink?",
+                    "choices": {
+                        "Vodka": false,
+                        "Rhum": false,
+                        "Whisky": true
+                    }
+                },
+                {
+                    "author": "Pascal",
+                    "category": "COMPUTER",
+                    "interrogation": "What's the shortcut for the 'copy' function on most computers?",
+                    "choices": {
+                        "Ctrl D": false,
+                        "Ctrl V": false,
+                        "Ctrl C": true
+                    }
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "author": "Pascal",
+                    "category": "IDEAS",
+                    "interrogation": "Which city is home to Michelangelo's masterpiece 'David'?",
+                    "choices": {
+                        "Milano": false,
+                        "Venice": false,
+                        "Florence": true
+                    }
+                },
+                {
+                    "author": "Pascal",
+                    "category": "SCIENCE",
+                    "interrogation": "Which instrument measures a plane's height above sea level?",
+                    "choices": {
+                        "Atmometer": false,
+                        "Heliometer": false,
+                        "Altimeter": true
+                    }
+                },
+                {
+                    "author": "Pascal",
+                    "category": "PLANET",
+                    "interrogation": "What is the gravity of the Earth?",
+                    "choices": {
+                        "3,7 m/s²": false,
+                        "11,15 m/s²": false,
+                        "9,81 m/s²": true
+                    }
+                },
+                {
+                    "author": "Pascal",
+                    "category": "HISTORY",
+                    "interrogation": "When was the Berlin Wall erected?",
+                    "choices": {
+                        "1939": false,
+                        "1941": false,
+                        "1961": true
+                    }
+                },
+                {
+                    "author": "Pascal",
+                    "category": "LITERATURE",
+                    "interrogation": "How many labors of Hercules are there?",
+                    "choices": {
+                        "11": false,
+                        "13": false,
+                        "12": true
+                    }
+                },
+                {
+                    "author": "Pascal",
+                    "category": "COMPUTER",
+                    "interrogation": "How many bytes are equal to one kilobyte?",
+                    "choices": {
+                        "976": false,
+                        "1000": false,
+                        "1024": true
+                    }
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "author": "Julien",
+                    "category": "IDEAS",
+                    "interrogation": "What was the name of the sociologist who evaluated the degree of obedience of a citizen in the United-State of America in 1960?",
+                    "choices": {
+                        "Robert King Merton": false,
+                        "Charles Wright Mills": false,
+                        "Stanley Milgram": true
+                    }
+                },
+                {
+                    "author": "Julien",
+                    "category": "SCIENCE",
+                    "interrogation": "Who said: 'When any system at equilibrium for a long period of time is subjected to a change in concentration, temperature, volume, or pressure, the system changes to a new equilibrium, and this change partly counteracts the applied change.'",
+                    "choices": {
+                        "Dmitri Mendeleev": false,
+                        "Albert Einstein": false,
+                        "Henry Le Chatelier": true
+                    }
+                },
+                {
+                    "author": "Julien",
+                    "category": "PLANET",
+                    "interrogation": "Which planet would be a perfect for the living of Human?",
+                    "choices": {
+                        "Osiris": false,
+                        "HD 188753 Ab": false,
+                        "Kepler-69 c": true
+                    }
+                },
+                {
+                    "author": "Julien",
+                    "category": "HISTORY",
+                    "interrogation": "Which company insured the infamous concentration camp Auschiwtz during the World War 2:",
+                    "choices": {
+                        "Hannover Re": false,
+                        "Hamburg-Mannheimer": false,
+                        "Allianz": true
+                    }
+                },
+                {
+                    "author": "Julien",
+                    "category": "LITERATURE",
+                    "interrogation": "Who create a real language from scratch?",
+                    "choices": {
+                        "iovanni Pico della Mirandola": false,
+                        "François Rabelais": false,
+                        "J.R.R Tolkien": true
+                    }
+                },
+                {
+                    "author": "Julien",
+                    "category": "COMPUTER",
+                    "interrogation": "What is the name of the numeral system that only use 1 or 0?",
+                    "choices": {
+                        "Hexadecimal": false,
+                        "Octal": false,
+                        "Binary": true
+                    }
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "author": "Julien",
+                    "category": "IDEAS",
+                    "interrogation": "Who created the Three Laws of Robotics in 1942?",
+                    "choices": {
+                        "Alan Turing": false,
+                        "John McCarthy": false,
+                        "Isaac Asimov": true
+                    }
+                },
+                {
+                    "author": "Julien",
+                    "category": "SCIENCE",
+                    "interrogation": "Where did Antoine-Laurent Lavoisier come from?",
+                    "choices": {
+                        "United Kingdom": false,
+                        "Russia": false,
+                        "France": true
+                    }
+                },
+                {
+                    "author": "Julien",
+                    "category": "PLANET",
+                    "interrogation": "Which planet has been removed from our solar system?",
+                    "choices": {
+                        "Venus": false,
+                        "Saturn": false,
+                        "Pluto": true
+                    }
+                },
+                {
+                    "author": "Julien",
+                    "category": "HISTORY",
+                    "interrogation": "For how long was Hitler married?",
+                    "choices": {
+                        "5 years": false,
+                        "1 month": false,
+                        "20 minutes": true
+                    }
+                },
+                {
+                    "author": "Julien",
+                    "category": "LITERATURE",
+                    "interrogation": "Where did Rimbaud come from?",
+                    "choices": {
+                        "Belgium": false,
+                        "Italy": false,
+                        "France": true
+                    }
+                },
+                {
+                    "author": "Julien",
+                    "category": "COMPUTER",
+                    "interrogation": "Who is called 'the first computer programmer'?",
+                    "choices": {
+                        "Steve Wozniak": false,
+                        "Larry Page": false,
+                        "Ada Lovelace": true
+                    }
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "author": "Julien",
+                    "category": "IDEAS",
+                    "interrogation": "Who wrote the book 'Suicide: A Study in Sociology'?",
+                    "choices": {
+                        "Claude Levi-Strauss": false,
+                        "Alfred Sauvy": false,
+                        "Emile Durkheim": true
+                    }
+                },
+                {
+                    "author": "Julien",
+                    "category": "SCIENCE",
+                    "interrogation": "What is the fourth state of the material?",
+                    "choices": {
+                        "Solid": false,
+                        "Liquid": false,
+                        "Plasma": true
+                    }
+                },
+                {
+                    "author": "Julien",
+                    "category": "PLANET",
+                    "interrogation": "What was the name of the first satellite launch by NASA?",
+                    "choices": {
+                        "Spoutnik 1": false,
+                        "Mariner 2": false,
+                        "Explorer": true
+                    }
+                },
+                {
+                    "author": "Julien",
+                    "interrogation": "Which queen has the longest reign?",
+                    "category": "HISTORY",
+                    "choices": {
+                        "Queen Cleopatra the seventh, Queen of Egypt": false,
+                        "Hedwige the first, king of Poland": false,
+                        "Queen Victoria, Queen of the United Kingdom of Great Britain and Ireland": true
+                    }
+                },
+                {
+                    "author": "Julien",
+                    "category": "LITERATURE",
+                    "interrogation": "Who wrote the book The Miser?",
+                    "choices": {
+                        "Shakespeare": false,
+                        "Voltaire": false,
+                        "Moliere": true
+                    }
+                },
+                {
+                    "author": "Julien",
+                    "category": "COMPUTER",
+                    "interrogation": "In which programming language has this game been coded?",
+                    "choices": {
+                        "C": false,
+                        "C++": false,
+                        "Java": true
+                    }
+                }
+            ]
+        }
+    ]
+    
+}

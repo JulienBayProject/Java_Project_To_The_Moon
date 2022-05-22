@@ -1,0 +1,388 @@
+{
+    "cards": [
+        {
+            "questions": [
+                {
+                    "author": "Cedric",
+                    "category": "IDEAS",
+                    "interrogation": "Which religion is the most practiced in the world?",
+                    "choices": {
+                        "Christianity": true,
+                        "Islamic": false,
+                        "Taoism": false
+                    }
+                },
+                {
+                    "author": "Cedric",
+                    "category": "SCIENCE",
+                    "interrogation": "With sun and water, what element allows plants to produce oxygen?",
+                    "choices": {
+                        "Penicillin": false,
+                        "Chloroquine": false,
+                        "Chlorophyll": true
+                    }
+                },
+                {
+                    "author": "Cedric",
+                    "category": "PLANET",
+                    "interrogation": "Where is located Carcross, the world's smallest desert ?",
+                    "choices": {
+                        "Canada": true,
+                        "Morocco": false,
+                        "Mexico": false
+                    }
+                },
+                {
+                    "author": "Cedric",
+                    "category": "HISTORY",
+                    "interrogation": "In which country were the mosts pyramids discovered?",
+                    "choices": {
+                        "Sudan": true,
+                        "Egypt": false,
+                        "Mexico": false
+                    }
+                },
+                {
+                    "author": "Cedric",
+                    "category": "LITERATURE",
+                    "interrogation": "How are named the 2 main characters of 'Les Tuniques Bleues'?",
+                    "choices": {
+                        "Eric and Johan": false,
+                        "John and Wilson": false,
+                        "Blutch and Chesterfield": true
+                    }
+                },
+                {
+                    "author": "Cedric",
+                    "category": "COMPUTER",
+                    "interrogation": "Which protocol is associated to the 80th port?",
+                    "choices": {
+                        "File Transfer Protocol": false,
+                        "User Datagram Protocol": false,
+                        "Hypertext Transfer Protocol": true
+                    }
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "author": "Cedric",
+                    "category": "IDEAS",
+                    "interrogation": "Who has share his red coat with a poor?",
+                    "choices": {
+                        "Saint Enguerrand": false,
+                        "Saint Martin": true,
+                        "Saint Pierre": false
+                    }
+                },
+                {
+                    "author": "Cedric",
+                    "category": "SCIENCE",
+                    "interrogation": "What are the two colors that the cat best distinguishes?",
+                    "choices": {
+                        "Green and purple": false,
+                        "Orange and pink": false,
+                        "Yellow and blue": true
+                    }
+                },
+                {
+                    "author": "Cedric",
+                    "category": "PLANET",
+                    "interrogation": "Which of these countries is not a member of the European Union?",
+                    "choices": {
+                        "Ireland": false,
+                        "Czech Republic": false,
+                        "Ukrainian": true
+                    }
+                },
+                {
+                    "author": "Cedric",
+                    "category": "HISTORY",
+                    "interrogation": "What period of history succeeded Ancient Age?",
+                    "choices": {
+                        "Modern Age": false,
+                        "Medieval Age": true,
+                        "Contemporary Age": false
+                    }
+                },
+                {
+                    "author": "Cedric",
+                    "category": "LITERATURE",
+                    "interrogation": "Which quote is from a book of J.R.R Tolkien?",
+                    "choices": {
+                        "You shall not pass": true,
+                        "Fear of a name only increases fear of the thing itself.": false,
+                        "Only a clumsy smith uses gloves": false
+                    }
+                },
+                {
+                    "author": "Cedric",
+                    "category": "COMPUTER",
+                    "interrogation": "What is the minimum amount of disks you need to make a RAID 15?",
+                    "choices": {
+                        "6": true,
+                        "5": false,
+                        "7": false
+                    }
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "author": "Cedric",
+                    "category": "IDEAS",
+                    "interrogation": "Who was the mother of sociology?",
+                    "choices": {
+                        "Harriet Martineau": true,
+                        "Jeanne D'Arc": false,
+                        "Diana Spencer": false
+                    }
+                },
+                {
+                    "author": "Cedric",
+                    "category": "SCIENCE",
+                    "interrogation": "UY Scuti is the biggest star currently known. How bigger is it compared to our sun ?",
+                    "choices": {
+                        "1450": false,
+                        "1700": true,
+                        "1580": false
+                    }
+                },
+                {
+                    "author": "Cedric",
+                    "category": "PLANET",
+                    "interrogation": "An organic element is good at finding gold. Which one is it?",
+                    "choices": {
+                        "A seaweed called 'Calidia Pseudolobata'": false,
+                        "A fungi called 'Fusarium oxysporum'": true,
+                        "A bug called 'Phlogis Kibalensis '": false
+                    }
+                },
+                {
+                    "author": "Cedric",
+                    "category": "HISTORY",
+                    "interrogation": "Which maya cities existed in the past?",
+                    "choices": {
+                        "Tikal and Copan": true,
+                        "Cuzco and Titicaca": false,
+                        "Tenochtitlan and Azlan": false
+                    }
+                },
+                {
+                    "author": "Cedric",
+                    "category": "LITERATURE",
+                    "interrogation": "How many books compose the Harry Potter's saga?",
+                    "choices": {
+                        "8": false,
+                        "9": false,
+                        "7": true
+                    }
+                },
+                {
+                    "author": "Cedric",
+                    "category": "COMPUTER",
+                    "interrogation": "What is the main material of a microprocessor?",
+                    "choices": {
+                        "Silicon": true,
+                        "Gold": false,
+                        "Tungsten": false
+                    }
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "author": "Nathan",
+                    "category": "IDEAS",
+                    "interrogation": "Who invented the light bulb?",
+                    "choices": {
+                        "Thomas Edison": false,
+                        "Joseph Swan": true,
+                        "Alessandro Volta": false
+                    }
+                },
+                {
+                    "author": "Nathan",
+                    "category": "SCIENCE",
+                    "interrogation": "What is the equation of the URM (Uniform rectilinear motion)?",
+                    "choices": {
+                        "v=deltaX / deltaT": true,
+                        "a = deltaV/deltaT": false,
+                        "F = m*(v^2 / R)": false
+                    }
+                },
+                {
+                    "author": "Nathan",
+                    "category": "PLANET",
+                    "interrogation": "Which planet is not considered as a giant planet?",
+                    "choices": {
+                        "Jupiter": false,
+                        "Uranus": false,
+                        "Mars": true
+                    }
+                },
+                {
+                    "author": "Nathan",
+                    "category": "HISTORY",
+                    "interrogation": "In what year did the cold war begin?",
+                    "choices": {
+                        "1945": false,
+                        "1947": true,
+                        "1951": false
+                    }
+                },
+                {
+                    "author": "Nathan",
+                    "category": "LITERATURE",
+                    "interrogation": "Which one of these famous French writers was not a 'Poete maudit'?",
+                    "choices": {
+                        "Charles Baudelaire": false,
+                        "Arthur Rimbaud": false,
+                        "Emile Zola": true
+                    }
+                },
+                {
+                    "author": "Nathan",
+                    "category": "COMPUTER",
+                    "interrogation": "What’s the common name for a 10B2 cable?",
+                    "choices": {
+                        "Coaxial cable": true,
+                        "Ethernet cable": false,
+                        "Optical Fiber": false
+                    }
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "author": "Nathan",
+                    "category": "IDEAS",
+                    "interrogation": "Who is recognized as the founder of capitalism?",
+                    "choices": {
+                        "Karl Marx": false,
+                        "Adam Smith": true,
+                        "John Maynard Keynes": false
+                    }
+                },
+                {
+                    "author": "Nathan",
+                    "category": "SCIENCE",
+                    "interrogation": "Which wave has the smallest wavelength?",
+                    "choices": {
+                        "Gamma ray": true,
+                        "X-ray": false,
+                        "Radio wave": false
+                    }
+                },
+                {
+                    "author": "Nathan",
+                    "category": "PLANET",
+                    "interrogation": "How much does the heaviest animal in the world weigh?",
+                    "choices": {
+                        "Between 160 and 190 tonnes": false,
+                        "Between 190 and 220 tonnes": true,
+                        "Between 220 and 250 tonnes": false
+                    }
+                },
+                {
+                    "author": "Nathan",
+                    "category": "HISTORY",
+                    "interrogation": "Which main event marked the beginning of the first World War?",
+                    "choices": {
+                        "The murder of the archduke Francois Ferdinand": true,
+                        "The ascension to the throne of Guillaume 2": false,
+                        "The massacre of the russe imperial family": false
+                    }
+                },
+                {
+                    "author": "Nathan",
+                    "category": "LITERATURE",
+                    "interrogation": "Alfred de Musset was a writer of which literary movement?",
+                    "choices": {
+                        "Romanticisme": true,
+                        "Realism": false,
+                        "Symbolism": false
+                    }
+                },
+                {
+                    "author": "Nathan",
+                    "category": "COMPUTER",
+                    "interrogation": "What was the name of the first network?",
+                    "choices": {
+                        "Arpanet": true,
+                        "Internet": false,
+                        "Cyclades": false
+                    }
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "author": "Nathan",
+                    "category": "IDEAS",
+                    "interrogation": "The Megali Idea is an Greek irredentist concept. What was his main idea?",
+                    "choices": {
+                        "Establishing a Greek state with all the Greek population": true,
+                        "Increase the exportation in the country": false,
+                        "Close borders to foreigners": false
+                    }
+                },
+                {
+                    "author": "Nathan",
+                    "category": "SCIENCE",
+                    "interrogation": "What’s the chemical symbol for phosphorus?",
+                    "choices": {
+                        "P": true,
+                        "Po": false,
+                        "Ph": false
+                    }
+                },
+                {
+                    "author": "Nathan",
+                    "category": "PLANET",
+                    "interrogation": "In which country was the highest temperature measured?",
+                    "choices": {
+                        "The United-States": true,
+                        "Greece": false,
+                        "Argentina": false
+                    }
+                },
+                {
+                    "author": "Nathan",
+                    "category": "HISTORY",
+                    "interrogation": "When did Belgium become independent?",
+                    "choices": {
+                        "1830": true,
+                        "1835": false,
+                        "1815": false
+                    }
+                },
+                {
+                    "author": "Nathan",
+                    "category": "LITERATURE",
+                    "interrogation": "Who did not take part in the edition of the 'Encyclopedie'?",
+                    "choices": {
+                        "Diderot": false,
+                        "D'Alembert": false,
+                        "Rousseau": true
+                    }
+                },
+                {
+                    "author": "Nathan",
+                    "category": "COMPUTER",
+                    "interrogation": "In base 8, what number comes just after 7?",
+                    "choices": {
+                        "10": true,
+                        "0": false,
+                        "8": false
+                    }
+                }
+            ]
+        }
+    ]
+}

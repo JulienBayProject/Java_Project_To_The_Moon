@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "walletPlayerPO": 500,
+      "password": "helha",
+      "nickName": "admin",
+      "isAdmin": true
+    },
+    {
+      "walletPlayerPO": 600,
+      "password": "helha",
+      "nickName": "user",
+      "isAdmin": false
+    },
+    {
+      "walletPlayerPO": 500,
+      "password": "test",
+      "nickName": "test",
+      "isAdmin": true
+    },
+    {
+      "walletPlayerPO": 500,
+      "password": "test2",
+      "nickName": "test2",
+      "isAdmin": false
+    }
+  ]
+}

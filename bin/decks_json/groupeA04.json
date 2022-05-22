@@ -1,0 +1,590 @@
+{
+  "cards": [
+    {
+      "questions": [
+        {
+          "author": "Mathis",
+          "category": "HISTORY",
+          "interrogation": "Who was the second French emperor?",
+          "choices": {
+            "Napoleon III": false,
+            "Napoleon I": false,
+            "Napoleon II": true
+          }
+        },
+        {
+          "author": "Mathis",
+          "category": "LITERATURE",
+          "interrogation": "Who wrote Madame Bovary?",
+          "choices": {
+            "Emile Zola": false,
+            "Gustave Flaubert": true,
+            "Victor Hugo": false
+          }
+        },
+        {
+          "author": "Mathis",
+          "category": "PLANET",
+          "interrogation": "What's the third planet of the solar system?",
+          "choices": {
+            "Mars": false,
+            "Venus": false,
+            "The earth": true
+          }
+        },
+        {
+          "author": "Mathis",
+          "category": "SCIENCE",
+          "interrogation": "What's a protein made of?",
+          "choices": {
+            "enzyme": false,
+            "amino acid": true,
+            "fatty acid": false
+          }
+        },
+        {
+          "author": "Mathis",
+          "category": "COMPUTER",
+          "interrogation": "On wich OSI layer does a router operate ? ",
+          "choices": {
+            "1": false,
+            "2": false,
+            "3": true
+          }
+        },
+        {
+          "author": "Mathis",
+          "category": "IDEAS",
+          "interrogation": "Who invented underfloor heating?",
+          "choices": {
+            "The Greeks": true,
+            "The Chinese": false,
+            "The Romans": false
+          }
+        }
+      ],
+      "questionEnCours": 0
+    },
+    {
+      "questions": [
+        {
+          "author": "Mathis",
+          "category": "HISTORY",
+          "interrogation": "How many times did Caesar get stabbed before he died?",
+          "choices": {
+            "23": false,
+            "12": false,
+            "24": true
+          }
+        },
+        {
+          "author": "Mathis",
+          "category": "LITERATURE",
+          "interrogation": "When does the Age of Enlightenment begin?",
+          "choices": {
+            "17": false,
+            "18": true,
+            "19": false
+          }
+        },
+        {
+          "author": "Mathis",
+          "category": "PLANET",
+          "interrogation": "Where do cocoa beans come from ?",
+          "choices": {
+            "Asia": false,
+            "Africa": false,
+            "America": true
+          }
+        },
+        {
+          "author": "Mathis",
+          "category": "SCIENCE",
+          "interrogation": "What is the formula of oxygen ?",
+          "choices": {
+            "O2": true,
+            "H2O": false,
+            "O": false
+          }
+        },
+        {
+          "author": "Mathis",
+          "category": "COMPUTER",
+          "interrogation": "Wich one is the fastest memory ?",
+          "choices": {
+            "SSD": false,
+            "HDD": false,
+            "SSD NVMe": true
+          }
+        },
+        {
+          "author": "Mathis",
+          "category": "IDEAS",
+          "interrogation": "What is the best-selling game in the world?",
+          "choices": {
+            "Pacman": false,
+            "Tetris": false,
+            "Minecraft": true
+          }
+        }
+      ],
+      "questionEnCours": 0
+    },
+    {
+      "questions": [
+        {
+          "author": "Stefan",
+          "category": "HISTORY",
+          "interrogation": "When was the northern pole discovered?",
+          "choices": {
+            "1789": false,
+            "1909": true,
+            "1892": false
+          }
+        },
+        {
+          "author": "Stefan",
+          "category": "LITERATURE",
+          "interrogation": "What is the name of Jean Valjean's rival in Les Misérables?",
+          "choices": {
+            "Arthur Morgan": false,
+            "Inspecter Javert": true,
+            "Nathan Drake": false
+          }
+        },
+        {
+          "author": "Stefan",
+          "category": "PLANET",
+          "interrogation": "How many countries are there currently on earth?",
+          "choices": {
+            "206": false,
+            "195": true,
+            "142": false
+          }
+        },
+        {
+          "author": "Stefan",
+          "category": "SCIENCE",
+          "interrogation": "Who is the creator of the periodic table of elements?",
+          "choices": {
+            "Louis Pasteur": false,
+            "Dimitri Mendeleev": true,
+            "Antoine Lavoisier": false
+          }
+        },
+        {
+          "author": "Stefan",
+          "category": "COMPUTER",
+          "interrogation": "What was the RAM capacity of the computer used for the first moon landing?",
+          "choices": {
+            "2 Giga Bits": false,
+            "128 Mega Bits": false,
+            "4 Kilo bits": true
+          }
+        },
+        {
+          "author": "Stefan",
+          "category": "IDEAS",
+          "interrogation": "Who wrote the famous philosophical tale 'Candide'?",
+          "choices": {
+            "Marrat": false,
+            "Voltaire": true,
+            "Victor Hugo": false
+          }
+        }
+      ],
+      "questionEnCours": 0
+    },
+    {
+      "questions": [
+        {
+          "author": "Stefan",
+          "category": "HISTORY",
+          "interrogation": "When did the French Revolution take place?",
+          "choices": {
+            "1789": true,
+            "1910": false,
+            "1492": false
+          }
+        },
+        {
+          "author": "Stefan",
+          "category": "LITERATURE",
+          "interrogation": "Who wrote the dystopian story, 'Brave new world' (Le Meilleur des Mondes)?",
+          "choices": {
+            "Charles Baudelaire": false,
+            "Arthur Ribaud": false,
+            "Aldous Huxley": true
+          }
+        },
+        {
+          "author": "Stefan",
+          "category": "PLANET",
+          "interrogation": "How many different living species are there currently on Earth?",
+          "choices": {
+            "874": false,
+            "8.7 million": true,
+            "42 thousand": false
+          }
+        },
+        {
+          "author": "Stefan",
+          "category": "SCIENCE",
+          "interrogation": "What is the speed of sound?",
+          "choices": {
+            "11 meters / second": false,
+            "42 kilometers / hour": false,
+            "343 meters / second": true
+          }
+        },
+        {
+          "author": "Stefan",
+          "category": "COMPUTER",
+          "interrogation": "When was the iconic 'Intel Pentium' processor released?",
+          "choices": {
+            "1993": true,
+            "2000": false,
+            "1999": false
+          }
+        },
+        {
+          "author": "Stefan",
+          "category": "IDEAS",
+          "interrogation": "What nationality is the founder of the communist ideas (Karl Marx)?",
+          "choices": {
+            "Russian": false,
+            "German": true,
+            "Soviet": false
+          }
+        }
+      ],
+      "questionEnCours": 0
+    },
+    {
+      "questions": [
+        {
+          "author": "Stefan",
+          "category": "HISTORY",
+          "interrogation": "How many centuries ago did the first crusades take place?",
+          "choices": {
+            "15": false,
+            "5": false,
+            "10": true
+          }
+        },
+        {
+          "author": "Stefan",
+          "category": "LITERATURE",
+          "interrogation": "Who wrote the famous play 'Romeo and Juliette'?",
+          "choices": {
+            "Molière": false,
+            "Jean racine": false,
+            "William Shakespeare": true
+          }
+        },
+        {
+          "author": "Stefan",
+          "category": "PLANET",
+          "interrogation": "What is the name of the current human species?",
+          "choices": {
+            "Homo erectus": false,
+            "Homo sapiens": true,
+            "Homo antecessor": false
+          }
+        },
+        {
+          "author": "Stefan",
+          "category": "SCIENCE",
+          "interrogation": "Who is the inventor of dynamite?",
+          "choices": {
+            "Jean Dynamite": false,
+            "Joseph Saline": false,
+            "Alfred Nobel": true
+          }
+        },
+        {
+          "author": "Stefan",
+          "category": "COMPUTER",
+          "interrogation": "How many IPV4 IP addresses are currently available for our digital networks?",
+          "choices": {
+            "0": true,
+            "4 million": false,
+            "6 hundred": false
+          }
+        },
+        {
+          "author": "Stefan",
+          "category": "IDEAS",
+          "interrogation": "Who invented the 'general relativity' theory?",
+          "choices": {
+            "Nicolas Tesla": false,
+            "J. Walter Christie": false,
+            "Albert Einstein": true
+          }
+        }
+      ],
+      "questionEnCours": 0
+    },
+    {
+      "questions": [
+        {
+          "author": "Mathis",
+          "category": "HISTORY",
+          "interrogation": "To which dynasty Alexandre the Great belongs to?",
+          "choices": {
+            "The Greeks": false,
+            "The Ptolemies": false,
+            "The Macedonians": true
+          }
+        },
+        {
+          "author": "Mathis",
+          "category": "LITERATURE",
+          "interrogation": "From which fable of La Fontaine is this moral taken 'We often need someone smaller than ourselves'?,",
+          "choices": {
+            "The cat and an old rat": false,
+            "Love and Madness": false,
+            "The lion and the rat": true
+          }
+        },
+        {
+          "author": "Mathis",
+          "category": "PLANET",
+          "interrogation": "What Is the largest forest in the world?",
+          "choices": {
+            "The Congo basin rainforest": false,
+            "The Amazon Forest": true,
+            "The Taiga Forest": false
+          }
+        },
+        {
+          "author": "Mathis",
+          "category": "SCIENCE",
+          "interrogation": "What is the mathematical formula of speed?",
+          "choices": {
+            "Speed = Distance / time": true,
+            "Speed = Time / Distance": false,
+            "Speed = Distance / Time ²": false
+          }
+        },
+        {
+          "author": "Mathis",
+          "category": "COMPUTER",
+          "interrogation": "What does ' http ' mean ?",
+          "choices": {
+            "HyperTranslate Text Protocol": false,
+            "HyperTransfer Text Protocol": false,
+            "HyperText Transfer Protocol": true
+          }
+        },
+        {
+          "author": "Mathis",
+          "category": "IDEAS",
+          "interrogation": "How long can you live without drinking?",
+          "choices": {
+            "5 days": false,
+            "3 days": true,
+            "4 days": false
+          }
+        }
+      ],
+      "questionEnCours": 0
+    },
+    {
+      "questions": [
+        {
+          "author": "Florian",
+          "category": "LITERATURE",
+          "interrogation": "Who is the autor of 'Le malade imaginaire'?",
+          "choices": {
+            "Molière": true,
+            "Emile Zola": false,
+            "Jean Racine": false
+          }
+        },
+        {
+          "author": "Florian",
+          "category": "SCIENCE",
+          "interrogation": "In what year did the Fukushima nuclear disaster?",
+          "choices": {
+            "2009": false,
+            "2004": false,
+            "2011": true
+          }
+        },
+        {
+          "author": "Florian",
+          "category": "PLANET",
+          "interrogation": "What is the smallest planet in the solar system?",
+          "choices": {
+            "Mecury": true,
+            "Saturn": false,
+            "Venus": false
+          }
+        },
+        {
+          "author": "Florian",
+          "category": "HISTORY",
+          "interrogation": "In what year did Christopher Colombus discover America?",
+          "choices": {
+            "1789": false,
+            "1452": false,
+            "1492": true
+          }
+        },
+        {
+          "author": "Florian",
+          "category": "COMPUTER",
+          "interrogation": "Which one is not a computer manufacturer?",
+          "choices": {
+            "Appel": false,
+            "IBM": false,
+            "Microsoft": true
+          }
+        },
+        {
+          "author": "Florian",
+          "category": "IDEAS",
+          "interrogation": "What is the hero of the game 'The legend of Zelda'?",
+          "choices": {
+            "Ganon": false,
+            "Zelda": false,
+            "Link": true
+          }
+        }
+      ],
+      "questionEnCours": 0
+    },
+    {
+      "questions": [
+        {
+          "author": "Florian",
+          "category": "LITERATURE",
+          "interrogation": "To which author do we owe the novel 'Ulysses'?",
+          "choices": {
+            "James Joyce": true,
+            "Honor� de Balzac": false,
+            "Miguel de Cervantes": false
+          }
+        },
+        {
+          "author": "Florian",
+          "category": "SCIENCE",
+          "interrogation": "Which country is the world's leading producer of solar energy",
+          "choices": {
+            "Japan": false,
+            "France": false,
+            "Germany": true
+          }
+        },
+        {
+          "author": "Florian",
+          "category": "PLANET",
+          "interrogation": "What is the capital of New Zealand?",
+          "choices": {
+            "Vilnius": false,
+            "Kiev": false,
+            "Wellington": true
+          }
+        },
+        {
+          "author": "Florian",
+          "category": "HISTORY",
+          "interrogation": "Vercingetorix was defeated at Alesia in 52 BC. AD by :",
+          "choices": {
+            "Vikings": false,
+            "Charlemagne": false,
+            "Julius Caesar": true
+          }
+        },
+        {
+          "author": "Florian",
+          "category": "COMPUTER",
+          "interrogation": "Who invented the first computer?",
+          "choices": {
+            "Charles Babbage": true,
+            "Henry Babbage": false,
+            "Richard Braithwaite": false
+          }
+        },
+        {
+          "author": "Florian",
+          "category": "IDEAS",
+          "interrogation": "Which manga has been the most sold?",
+          "choices": {
+            "Naruto": false,
+            "Dragon ball": false,
+            "One piece": true
+          }
+        }
+      ],
+      "questionEnCours": 0
+    },
+    {
+      "questions": [
+        {
+          "author": "Florian",
+          "category": "LITERATURE",
+          "interrogation": "What a well-known painter cur his ear?",
+          "choices": {
+            "Van Gogh": true,
+            "Michel Ange": false,
+            "Leonard De Vinci": false
+          }
+        },
+        {
+          "author": "Florian",
+          "category": "SCIENCE",
+          "interrogation": "What is non-degradable?",
+          "choices": {
+            "a tire": true,
+            "a lighter": false,
+            "a tin can": false
+          }
+        },
+        {
+          "author": "Florian",
+          "category": "PLANET",
+          "interrogation": "What is the largest ocean?",
+          "choices": {
+            "Indian Ocean": false,
+            "Atlantic Ocean": false,
+            "Pacific Ocean": true
+          }
+        },
+        {
+          "author": "Florian",
+          "category": "HISTORY",
+          "interrogation": "Who's the fisrt president of the USA?",
+          "choices": {
+            "Barack Obama": false,
+            "George Washington": true,
+            "George Bush": false
+          }
+        },
+        {
+          "author": "Florian",
+          "category": "COMPUTER",
+          "interrogation": "What does Ram mean?",
+          "choices": {
+            "Random Acces Memory": true,
+            "Readily Accessed Mailer": false,
+            "Random Authorization Mechanism": false
+          }
+        },
+        {
+          "author": "Florian",
+          "category": "IDEAS",
+          "interrogation": "In wich club the player Heung Min Son is playing actually?",
+          "choices": {
+            "Barcelona": false,
+            "Chelsea": false,
+            "Tottenham": true
+          }
+        }
+      ],
+      "questionEnCours": 0
+    }
+  ],
+  "CarteEnCours": 0
+}

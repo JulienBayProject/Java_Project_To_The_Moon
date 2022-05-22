@@ -1,0 +1,580 @@
+{
+  "cards": [
+    {
+      "questions": [
+        {
+          "author" :"Jean-Sébastien",
+          "category" : "IDEAS",
+          "interrogation" : "Which American president put in place the ‘New Deal’ to counter the crisis that hit the country in the 1930s?",
+          "choices" : {
+            "Donald Trump" : false,
+            "Franklin Roosevelt" : true,
+            "John Fitzgerald Kennedy" : false
+          }
+        },
+        {
+          "author" : "Jean-Sébastien",
+          "category" : "SCIENCE",
+          "interrogation" : "Who discovered radioactivity?",
+          "choices" : {
+            "Albert Einstein." : false,
+            "Marie Curie." : true,
+            "Didier Raoult." : false
+          }
+        },
+        {
+          "author" :"Jean-Sébastien",
+          "category" : "PLANET",
+          "interrogation" : "How fast does a can of soda degrade in nature?",
+          "choices" : {
+            "It takes 1 month." : false,
+            "It takes 1 decade." : false,
+            "It takes 1 century." : true
+          }
+        },
+        {
+          "author" :"Jean-Sébastien",
+          "category" : "HISTORY",
+          "interrogation" : "In what year did Christopher Columbus discover America?",
+          "choices" : {
+            "In 1503." : false,
+            "In 1492." : true,
+            "In 1452." : false
+          }
+        },
+        {
+          "author" :"Jean-Sébastien",
+          "category" : "LITERATURE",
+          "interrogation" : "Who is the author of « Alice in Wonderland »?",
+          "choices" : {
+            "Walt Disney." : false,
+            "Lewis Caroll." : true,
+            "Victor Hugo." : false
+          }
+        },
+        {
+          "author" :"Jean-Sébastien",
+          "category" : "COMPUTER",
+          "interrogation" : "How is the number ten written in binary?",
+          "choices" : {
+            "1010" : true,
+            "10" : false,
+            "1111" : false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author" :"Jean-Sébastien",
+          "category" : "IDEAS",
+          "interrogation" : "What is the basis of philosophical theory of Hedonism?",
+          "choices" : {
+            "The search for pleasure as the goal of life." : true,
+            "The affirmation of the existence of God." : false,
+            "The rejection of all forms of doubt." : false
+          }
+        },
+        {
+          "author" :"Jean-Sébastien",
+          "category" : "SCIENCE",
+          "interrogation" : "How many natural satellites orbit the Earth?",
+          "choices" : {
+            "There are three." : false,
+            "There are none." : false,
+            "There is only one." : true
+          }
+        },
+        {
+          "author" :"Jean-Sébastien",
+          "category" : "PLANET",
+          "interrogation" : "Which sector is the biggest emitter of greenhouse gases?",
+          "choices" : {
+            "Transport." : true,
+            "Food processing." : false,
+            "Agriculture." : false
+          }
+        },
+        {
+          "author" :"Jean-Sébastien",
+          "category" : "HISTORY",
+          "interrogation" : "Who was the first king of the belgians?",
+          "choices" : {
+            "King Philip I." : false,
+            "King Baudouin I." : false,
+            "King Leopold I." : true
+          }
+        },
+        {
+          "author" :"Jean-Sébastien",
+          "category" : "LITERATURE",
+          "interrogation" : "To which literary genre does « The Lord of the Rings » belong?",
+          "choices" : {
+            "Documentary." : false,
+            "Science fiction." : false,
+            "Fantasy." : true
+          }
+        },
+        {
+          "author" :"Jean-Sébastien",
+          "category" : "COMPUTER",
+          "interrogation" : "Which operating system family does macOS belong to?",
+          "choices" : {
+            "LINUX." : false,
+            "UNIX." : true,
+            "Windows NT." : false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author" :"Jean-Sébastien",
+          "category" : "IDEAS",
+          "interrogation" : "Which philosopher founded the school of Stoicism?",
+          "choices" : {
+            "Marcus Aurelius." : false,
+            "Zeno of Citium." : true,
+            "Pythagoras." : false
+          }
+        },
+        {
+          "author" :"Jean-Sébastien",
+          "category" : "SCIENCE",
+          "interrogation" : "What are the two largest planets in the solar system?",
+          "choices" : {
+            "Jupiter and Saturn." : true,
+            "Mars and Earth." : false,
+            "Venus and Neptune." : false
+          }
+        },
+        {
+          "author" :"Jean-Sébastien",
+          "category" : "PLANET",
+          "interrogation" : "In what year did the Fukushima nuclear disaster occur?",
+          "choices" : {
+            "It was in 2003." : false,
+            "It was in 2011." : true,
+            "It was in 1986." : false
+          }
+        },
+        {
+          "author" :"Jean-Sébastien",
+          "category" : "HISTORY",
+          "interrogation" : "Before the revolution of 1789, which regime was in place in France?",
+          "choices" : {
+            "It was an absolute monarchy." : true,
+            "It was an empire." : false,
+            "It was a constitutional monarchy." : false
+          }
+        },
+        {
+          "author" :"Jean-Sébastien",
+          "category" : "LITERATURE",
+          "interrogation" : "Which actor has never won the Best Actor Oscar?",
+          "choices" : {
+            "Tom Cruise." : true,
+            "Jean Dujardin." : false,
+            "Leonardo DiCaprio." : false
+          }
+        },
+        {
+          "author" :"Jean-Sébastien",
+          "category" : "COMPUTER",
+          "interrogation" : "What type of programming language is Java?",
+          "choices" : {
+            "It is a compiled language." : false,
+            "It is an interpreted language." : false,
+            "It is an intermediate language." : true
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author" :"Nathan",
+          "category" : "IDEAS",
+          "interrogation" : "Which philosopher said “A rose by any other name would smell as sweet”?",
+          "choices" : {
+            "William Shakespeare" : true,
+            "Thomas Edison" : false,
+            "Harry Callahan" : false
+          }
+        },
+        {
+          "author" :"Nathan",
+          "category" : "SCIENCE",
+          "interrogation" : "I transform light energy into chemical energy, what am I?",
+          "choices" : {
+            "Photosynthesis" : true,
+            "Nucleosynthesis" : false,
+            "Proteosynthesis" : false
+          }
+        },
+        {
+          "author" :"Nathan",
+          "category" : "PLANET",
+          "interrogation" : "What is the name of the person who put in use special recipients for wastes in 1883?",
+          "choices" : {
+            "Eugène Poubelle" : true,
+            "Michael Trash" : false,
+            "Arnaud Corbeille" : false
+          }
+        },
+        {
+          "author" :"Nathan",
+          "category" : "HISTORY",
+          "interrogation" : "Who is the Greek philosopher that used to live in a barrel?",
+          "choices" : {
+            "Diogenes" : true,
+            "Zeus" : false,
+            "Aristote" : false
+          }
+        },
+        {
+          "author" :"Nathan",
+          "category" : "LITERATURE",
+          "interrogation" : "I bit off Captain Ahab leg on his obsessive quest, I terrorised many sailors. Who am I?",
+          "choices" : {
+            "Moby Dick" : true,
+            "The kraken" : false,
+            "Great white shark" : false
+          }
+        },
+        {
+          "author" :"Nathan",
+          "category" : "COMPUTER",
+          "interrogation" : "What is the name of the first Macintosh made by apple built in 1984 ?",
+          "choices" : {
+            "Macintosh 1" : false,
+            "Macintosh 128K" : true,
+            "Macintosh" : false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author" :"Nathan",
+          "category" : "IDEAS",
+          "interrogation" : "Who is the most famous philosopher in the world?",
+          "choices" : {
+            "Blaise Pascal" : true,
+            "Voltaire" : false,
+            "William Shakespeare" : false
+          }
+        },
+        {
+          "author" :"Nathan",
+          "category" : "SCIENCE",
+          "interrogation" : "What effect does the moon have on Earth?",
+          "choices" : {
+            "Sea level changing" : true,
+            "Raining" : false,
+            "Seasons" : false
+          }
+        },
+        {
+          "author" :"Nathan",
+          "category" : "PLANET",
+          "interrogation" : "Which insect uses nectar to make pollen grain?",
+          "choices" : {
+            "Bees" : true,
+            "Scorpions" : false,
+            "Frogs" : false
+          }
+        },
+        {
+          "author" :"Nathan",
+          "category" : "HISTORY",
+          "interrogation" : "Which of these men wrote a famous book called the art of war in ancient China?",
+          "choices" : {
+            "Sun Tzu" : true,
+            "Buddha" : false,
+            "Sima Quiang" : false
+          }
+        },
+        {
+          "author" :"Nathan",
+          "category" : "LITERATURE",
+          "interrogation" : "What is the kind of book that helps people to find words and their meaning?",
+          "choices" : {
+            "Dictionary" : true,
+            "Phone book" : false,
+            "Grammar book" : false
+          }
+        },
+        {
+          "author" :"Nathan",
+          "category" : "COMPUTER",
+          "interrogation" : "Which company made the famous game called Sonic?",
+          "choices" : {
+            "Sega" : true,
+            "Sony" : false,
+            "Nintendo" : false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author" :"Nathan",
+          "category" : "IDEAS",
+          "interrogation" : "Which country first allowed marriage for all?",
+          "choices" : {
+            "The Netherlands" : true,
+            "France" : false,
+            "Philippines" : false
+          }
+        },
+        {
+          "author" :"Nathan",
+          "category" : "SCIENCE",
+          "interrogation" : "What procedure dissociates water into hydrogen and oxygen?",
+          "choices" : {
+            "Electrolysis" : true,
+            "Dialysis" : false,
+            "Milkshakes" : false
+          }
+        },
+        {
+          "author" :"Nathan",
+          "category" : "PLANET",
+          "interrogation" : "How much of the total oxygen percentage is producing the Amazonian jungle?",
+          "choices" : {
+            "0.4%" : true,
+            "1.8%" : false,
+            "0.8%" : false
+          }
+        },
+        {
+          "author" :"Nathan",
+          "category" : "HISTORY",
+          "interrogation" : "What country launched a surprised attack on Pearl Harbour?",
+          "choices" : {
+            "Japan" : true,
+            "Congo" : false,
+            "China" : false
+          }
+        },
+        {
+          "author" :"Nathan",
+          "category" : "LITERATURE",
+          "interrogation" : "I tell short fictitious story with animals as characters most of the time. What am I?",
+          "choices" : {
+            "Fable" : true,
+            "Prose" : false,
+            "Poetry" : false
+          }
+        },
+        {
+          "author" :"Nathan",
+          "category" : "COMPUTER",
+          "interrogation" : "Which of these games is the best-selling in the world?",
+          "choices" : {
+            "Grand Theft Auto V" : false,
+            "Minecraft" : true,
+            "Tetris" : false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author" :"Erol",
+          "category" : "IDEAS",
+          "interrogation" : "Who is the author of the famous “To be or not to be”?",
+          "choices" : {
+            "Shakespeare" : true,
+            "Descarte" : false,
+            "Kant" : false
+          }
+        },
+        {
+          "author" :"Erol",
+          "category" : "SCIENCE",
+          "interrogation" : "What is the chemical formula of salt?",
+          "choices" : {
+            "NaCl" : true,
+            "HCl" : false,
+            "Na²SO4" : false
+          }
+        },
+        {
+          "author" :"Erol",
+          "category" : "PLANET",
+          "interrogation" : "How old is the Earth ?",
+          "choices" : {
+            "4.6 billions years" : false,
+            "13 billions years" : false,
+            "4.5 billions years" : true
+          }
+        },
+        {
+          "author" :"Erol",
+          "category" : "HISTORY",
+          "interrogation" : "When was the Eiffel Tower built?",
+          "choices" : {
+            "1887-1889" : true,
+            "1876-1884" : false,
+            "1792-1800" : false
+          }
+        },
+        {
+          "author" :"Erol",
+          "category" : "LITERATURE",
+          "interrogation" : "Who wrote the eptalogy of HarryPotter?",
+          "choices" : {
+            "J.K. Rowling" : true,
+            "J.R.R. Tolkien" : false,
+            "G.R.R. Martin" : false
+          }
+        },
+        {
+          "author" :"Erol",
+          "category" : "COMPUTER",
+          "interrogation" : "When did Steve Jobs found Apple computer, INC.?",
+          "choices" : {
+            "April 4, 1975" : false,
+            "September 17, 1991" : false,
+            "April 1, 1976" : true
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author" :"Erol",
+          "category" : "IDEAS",
+          "interrogation" : "How many singers gathered during the superbowl’s halftime show 2022?",
+          "choices" : {
+            "6" : true,
+            "7" : false,
+            "5" : false
+          }
+        },
+        {
+          "author" :"Erol",
+          "category" : "SCIENCE",
+          "interrogation" : "Who discovered Gravity?",
+          "choices" : {
+            "Galileo" : false,
+            "Newton" : true,
+            "Darwin" : false
+          }
+        },
+        {
+          "author" :"Erol",
+          "category" : "PLANET",
+          "interrogation" : "What is also called “The lungs of the Earth”?",
+          "choices" : {
+            "The Congo rainforest" : false,
+            "Amazon rainforest" : true,
+            "Central parc" : false
+          }
+        },
+        {
+          "author" :"Erol",
+          "category" : "HISTORY",
+          "interrogation" : "When did the Titanic sink?",
+          "choices" : {
+            "April 15, 1912" : true,
+            "January 13, 1914" : false,
+            "May 7, 1915" : false
+          }
+        },
+        {
+          "author" :"Erol",
+          "category" : "LITERATURE",
+          "interrogation" : "What play was Molière performing when he died?",
+          "choices" : {
+            "Scapino’s Schemes" : false,
+            "The Miser" : false,
+            "The imaginary invalid" : true
+          }
+        },
+        {
+          "author" :"Erol",
+          "category" : "COMPUTER",
+          "interrogation" : "How many bits are there in a byte?",
+          "choices" : {
+            "8" : true,
+            "1" : false,
+            "16" : false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author" :"Erol",
+          "category" : "IDEAS",
+          "interrogation" : "Who drew the Vitruvian man?",
+          "choices" : {
+            "Léonardo DiCpario" : false,
+            "Léonardo Vinci" : false,
+            "Léonardo Da Vinci" : true
+          }
+        },
+        {
+          "author" :"Erol",
+          "category" : "SCIENCE",
+          "interrogation" : "Where is located the amygdala?",
+          "choices" : {
+            "Brain" : false,
+            "Throat" : false,
+            "Brain and Throat" : true
+          }
+        },
+        {
+          "author" :"Erol",
+          "category" : "PLANET",
+          "interrogation" : "Where is the top of the world?",
+          "choices" : {
+            "Alps" : false,
+            "Andes" : false,
+            "Himalayas" : true
+          }
+        },
+        {
+          "author" :"Erol",
+          "category" : "HISTORY",
+          "interrogation" : "Which monarch changed his last name to become a Windsor?",
+          "choices" : {
+            "Alfred the Great" : false,
+            "Edmund Tudor" : false,
+            "Georges V Saxe-Coburg-Gotha" : true
+          }
+        },
+        {
+          "author" :"Erol",
+          "category" : "LITERATURE",
+          "interrogation" : "What is the name of the main character of The Miserable?",
+          "choices" : {
+            "Fantine" : false,
+            "Jean Valjean" : true,
+            "Javert" : false
+          }
+        },
+        {
+          "author" :"Erol",
+          "category" : "COMPUTER",
+          "interrogation" : "What does USB stand for?",
+          "choices" : {
+            "Unique Storage Boot" : false,
+            "Universal Serial Bus" : true,
+            "Ultimate Security of Bios" : false
+          }
+        }
+      ]
+    }
+  ]
+}

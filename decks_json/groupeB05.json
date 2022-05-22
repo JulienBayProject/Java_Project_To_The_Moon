@@ -1,0 +1,388 @@
+{
+  "cards": [
+    {
+      "questions": [
+      {
+        "author": "Flavian",
+        "category": "IDEAS",
+        "interrogation": "What did Felix Hoffmann discover and synthesize ?",
+        "choices": {
+          "The vaccine": false,
+          "The aspirin": true,
+          "The antibiotics": false
+        }
+      },
+      {
+        "author": "Flavian",
+        "category": "SCIENCE",
+        "interrogation": "Which instrument is used to measure the humidity of the air ?",
+        "choices": {
+          "Hygometer": true,
+          "Barometer": false,
+          "Anemometer": false
+        }
+      },
+      {
+        "author": "Flavian",
+        "category": "PLANET",
+        "interrogation": "Which planet in the Solar System is surrounded by rings ?",
+        "choices": {
+          "Pluton": false,
+          "Mercure": false,
+          "Saturne": true
+        }
+      },
+      {
+        "author": "Flavian",
+        "category": "HISTORY",
+        "interrogation": "During 1963, in Washington DC, Martin Luther King Jr gave his famous ‘I have a dream’ speech on the steps of which famous landmark ?",
+        "choices": {
+          "A mouse had slipped into the spacesuit of one of the astronauts ": false,
+          "The crew died during a ground exercise following a fire in the capsule": true,
+          "nothing ": false
+        }
+      },
+      {
+        "author": "Flavian",
+        "category": "LITERATURE",
+        "interrogation": "Which great English politician won the Nobel Prize for Literature ?",
+        "choices": {
+          "Churchill": true,
+          "Henry Russel": false,
+          "David Anderson": false
+        }
+      },
+      {
+        "author": "Flavian",
+        "category": "COMPUTER",
+        "interrogation": "A program that converts assembly language to machine language is called...",
+        "choices": {
+          "The interpreter": false,
+          "The compiler": false,
+          "The assembler": true
+        }
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "author": "Flavian",
+        "category": "IDEAS",
+        "interrogation": "What is a polygon with 12 sides called ?",
+        "choices": {
+          "A hendecagon": false,
+          "An iscosagon": false,
+          "A dodecagon": true
+        }
+      },
+      {
+        "author": "Flavian",
+        "category": "SCIENCE",
+        "interrogation": "What is the third state of matter (the first two being: solid, liquid) ?",
+        "choices": {
+          "Emulsion": false,
+          "Gas": true,
+          "viscous": false
+        }
+      },
+      {
+        "author": "Flavian",
+        "category": "PLANET",
+        "interrogation": "What is the closest star to Earth ?",
+        "choices": {
+          "Proxima du Centaue": true,
+          "Sirius": false,
+          "Létoile du berger": false
+        }
+      },
+      {
+        "author": "Flavian",
+        "category": "HISTORY",
+        "interrogation": "In what year did the Russian Empire complete the conquest of Central Asia ?",
+        "choices": {
+          "1889": false,
+          "1880": true,
+          "1831": false
+        }
+      },
+      {
+        "author": "Flavian",
+        "category": "LITERATURE",
+        "interrogation": "Which animal, created by Philippe Geluck, quickly became the mascot of the newspaper Le Soir ?",
+        "choices": {
+          "The cat": true,
+          "The dog ": false,
+          "The ladybug": false
+        }
+      },
+      {
+        "author": "Flavian",
+        "category": "COMPUTER",
+        "interrogation": "The binary system uses the base...",
+        "choices": {
+          "10": false,
+          "16": false,
+          "2": true
+        }
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "author": "Flavian",
+        "category": "IDEAS",
+        "interrogation": "When did France receive its last Nobel Prize in Chemistry ?",
+        "choices": {
+          "In 2005": true,
+          "In 1996": false,
+          "In 2009": false
+        }
+      },
+      {
+        "author": "Flavian",
+        "category": "SCIENCE",
+        "interrogation": "What is the unit of energy called ?",
+        "choices": {
+          "The calorie": false,
+          "The Dalton": false,
+          "The joule": true
+        }
+      },
+      {
+        "author": "Flavian",
+        "category": "PLANET",
+        "interrogation": "The sun is …",
+        "choices": {
+          "A planet": false,
+          "A star": true,
+          "A comet": false
+        }
+      },
+      {
+        "author": "Flavian",
+        "category": "HISTORY",
+        "interrogation": "What are the three countries of the Triple Entente ?",
+        "choices": {
+          "France - United Kingdom - Russia": true,
+          "Germany - Italy - Austria": false,
+          "France - Italy - United Kingdom": false
+        }
+      },
+      {
+        "author": "Flavian",
+        "category": "LITERATURE",
+        "interrogation": "What country was Hamlet prince of in Shakespeare's work ?",
+        "choices": {
+          "England": false,
+          "Sweden": false,
+          "Denmark": true
+        }
+      },
+      {
+        "author": "Flavian",
+        "category": "COMPUTER",
+        "interrogation": "How many columns were there on a punched card ?",
+        "choices": {
+          "20": false,
+          "80": true,
+          "40": false
+        }
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "author": "Mathias",
+        "category": "IDEAS",
+        "interrogation": "When did Louis Pasteur develop the rabies vaccine ?",
+        "choices": {
+          "In 1885": true,
+          "In 1890": false,
+          "In 1910": false
+        }
+      },
+      {
+        "author": "Mathias",
+        "category": "SCIENCE",
+        "interrogation": "At what temperature does water turn into gas ?",
+        "choices": {
+          "90°C ": false,
+          "110°C ": false,
+          "100°C": true
+        }
+      },
+      {
+        "author": "Mathias",
+        "category": "PLANET",
+        "interrogation": "Where is the first asteroid belt located ?",
+        "choices": {
+          "Between Earth and Mars": false,
+          "Between Mars and Jupiter": true,
+          "Between the Sun and Mercury": false
+        }
+      },
+      {
+        "author": "Mathias",
+        "category": "HISTORY",
+        "interrogation": "In 1941, why did Hitler invade Yugoslavia ?",
+        "choices": {
+          "To exploit the Yugoslav iron ": false,
+          "Because the Yugoslavs, allies of the British, declared war on the Reich": false,
+          "Because Italy weakened the position of the Axis by attacking, without success, Greece": true
+        }
+      },
+      {
+        "author": "Mathias",
+        "category": "LITERATURE",
+        "interrogation": "In which country was the writer Albert Camus born ?",
+        "choices": {
+          "Algeria": true,
+          "Morocco": false,
+          "Tunisia": false
+        }
+      },
+      {
+        "author": "Mathias",
+        "category": "COMPUTER",
+        "interrogation": "What means ASCII ?",
+        "choices": {
+          "American Scientific code for information interchangen": false,
+          "American standard code for information interchange": true,
+          "All purpose scientific code for information interchange": false
+        } 
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "author": "Mathias",
+        "category": "IDEAS",
+        "interrogation": "Who said <science without conscience is only ruin of the soul> ?",
+        "choices": {
+          "Montaigne": false,
+          "Lavoisier": false,
+          "Rabelais": true
+        }
+      },
+      {
+        "author": "Mathias",
+        "category": "SCIENCE",
+        "interrogation": "What is the chemical symbol for Tungsten ?",
+        "choices": {
+          "G": false,
+          "W": true,
+          "Tu": false
+        }
+      },
+      {
+        "author": "Mathias",
+        "category": "PLANET",
+        "interrogation": "What are the four planets closest to the Sun called ?",
+        "choices": {
+          "The Terrestrial planets": true,
+          "The dwarf planets": false,
+          "The giant planets": false
+        }
+      },
+      {
+        "author": "Mathias",
+        "category": "HISTORY",
+        "interrogation": "In which battle did Caesar defeat Pompey's troops ?",
+        "choices": {
+          "Actium": false,
+          "Pharsale": true,
+          "Zama": false
+        }
+      },
+      {
+        "author": "Mathias",
+        "category": "LITERATURE",
+        "interrogation": "What famous works did JK Rowling write ?",
+        "choices": {
+          "Mrs. Dalloway": false,
+          "Twilight": false,
+          "Harry Potter": true
+        }
+      },
+      {
+        "author": "Mathias",
+        "category": "COMPUTER",
+        "interrogation": "Which of the following memories is non-volatile ?",
+        "choices": {
+          "ROM": true,
+          "DRAM": false,
+          "SRAM": false
+        } 
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "author": "Mathias",
+        "category": "IDEAS",
+        "interrogation": "What is the first antibiotic, discovered in 1928 ?",
+        "choices": {
+          "Penicillin": true,
+          "Cephalosporins": false,
+          "Tetracyclines": false
+        }
+      },
+      {
+        "author": "Mathias",
+        "category": "SCIENCE",
+        "interrogation": "Which of these metal cations cannot condense ?",
+        "choices": {
+          "Chromium": false,
+          "Manganese": true,
+          "Silicon": false
+        }
+      },
+      {
+        "author": "Mathias",
+        "category": "PLANET",
+        "interrogation": "What color is the planet mars ?",
+        "choices": {
+          "Green": false,
+          "Blue": false,
+          "Red": true
+        }
+      },
+      {
+        "author": "Mathias",
+        "category": "HISTORY",
+        "interrogation": "John Fitzegerald Kennedy was assassinated on November 22, 1963 at 12:30 p.m. in Dallas by",
+        "choices": {
+          "Lee Harvey Oswald": true,
+          "Mark David Chapman": false,
+          "James Earl Ray": false
+        }
+      },
+      {
+        "author": "Mathias",
+        "category": "LITERATURE",
+        "interrogation": "In which comic, does Tintin go to Peru ?",
+        "choices": {
+          "Le Lotus Bleu": false,
+          "Le Temple du Solei": true,
+          "Le Secret de la Licorne": false
+        }
+      },
+      {
+        "author": "Mathias",
+        "category": "COMPUTER",
+        "interrogation": "GUI means ...",
+        "choices": {
+          "Graphical Universal Interface": false,
+          "Graph Use Interface": false,
+          "Graphical User Interface": true
+        }
+        }
+      ]
+    }
+  ]
+}

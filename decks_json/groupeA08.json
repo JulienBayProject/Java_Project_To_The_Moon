@@ -1,0 +1,580 @@
+{
+  "cards": [
+    {
+      "questions": [
+        {
+          "author": "valentin",
+          "category": "IDEAS",
+          "interrogation": "How many states are there in the United States ?",
+          "choices": {
+            "48": false,
+            "50": true,
+            "52": false
+          }
+        },
+        {
+          "author": "valentin",
+          "category": "SCIENCE",
+          "interrogation": "What does DNA stand for ?",
+          "choices": {
+            "Deobribonucleic Acid": false,
+            "Deoxyribonucleic Acid": true,
+            "Deomonobrinucleic Acid": false
+          }
+        },
+        {
+          "author": "valentin",
+          "category": "PLANET",
+          "interrogation": "What is the smallest planet in the Solar System ?",
+          "choices": {
+            "Mars": false,
+            "Venus": false,
+            "Mercury": true
+          }
+        },
+        {
+          "author": "valentin",
+          "category": "HISTORY",
+          "interrogation": "In what year was the US Declaration of Independence signed ?",
+          "choices": {
+            "1776": true,
+            "1598": false,
+            "1856": false
+          }
+        },
+        {
+          "author": "valentin",
+          "category": "LITERATURE",
+          "interrogation": "Who wrote the famous literary series : Harry Potter ?",
+          "choices": {
+            "David Lodge": false,
+            "Julian Barnes": false,
+            "J. K. Rowling": true
+          }
+        },
+        {
+          "author": "valentin",
+          "category": "COMPUTER",
+          "interrogation": "What is the process of dividing the disk into tracks and sectors ?",
+          "choices": {
+            "Tracking": false,
+            "Formating": true,
+            "Crashing": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "valentin",
+          "category": "IDEAS",
+          "interrogation": "From what grain is the Japanese Sake made ?",
+          "choices": {
+            "Millet": false,
+            "Corn": false,
+            "Rice": true
+          }
+        },
+        {
+          "author": "valentin",
+          "category": "SCIENCE",
+          "interrogation": "How long does it take for the sun's light to reach Earth ?",
+          "choices": {
+            "8 minutes": true,
+            "8 hours": false,
+            "8 days": false
+          }
+        },
+        {
+          "author": "valentin",
+          "category": "PLANET",
+          "interrogation": "What planet is closest in size to Earth ?",
+          "choices": {
+            "Mars": false,
+            "Neptune": false,
+            "Venus": true
+          }
+        },
+        {
+          "author": "valentin",
+          "category": "HISTORY",
+          "interrogation": "When were the first modern Olympics held ?",
+          "choices": {
+            "1896": true,
+            "1891": false,
+            "1902": false
+          }
+        },
+        {
+          "author": "valentin",
+          "category": "LITERATURE",
+          "interrogation": "What Victor Hugo novel was adapted into a Disney animated movie in 1996 ?",
+          "choices": {
+            "Les mis�rables": false,
+            "Hernani": false,
+            "The Hunchback of Notre Dame": true
+          }
+        },
+        {
+          "author": "valentin",
+          "category": "COMPUTER",
+          "interrogation": "What is called a program in execution ?",
+          "choices": {
+            "Function": false,
+            "Procedure": false,
+            "Process": true
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "valentin",
+          "category": "IDEAS",
+          "interrogation": "What is the capital of New Zealand ?",
+          "choices": {
+            "Berlin": false,
+            "Kiev": false,
+            "Wellington": true
+          }
+        },
+        {
+          "author": "valentin",
+          "category": "SCIENCE",
+          "interrogation": "How many teeth does an adult human have ?",
+          "choices": {
+            "34": false,
+            "30": false,
+            "32": true
+          }
+        },
+        {
+          "author": "valentin",
+          "category": "PLANET",
+          "interrogation": "What planet is closest to the Sun ?",
+          "choices": {
+            "Earth": false,
+            "Neptune": false,
+            "Mercury": true
+          }
+        },
+        {
+          "author": "valentin",
+          "category": "HISTORY",
+          "interrogation": "Which battle took place on June 18th 1815 ?",
+          "choices": {
+            "The Battle Of The Buldge": false,
+            "The Battle Of Waterloo": true,
+            "The Battle Of Hastings": false
+          }
+        },
+        {
+          "author": "valentin",
+          "category": "LITERATURE",
+          "interrogation": "What was the original writing language of Don Quixote ?",
+          "choices": {
+            "Italian": false,
+            "French": false,
+            "Spanish": true
+          }
+        },
+        {
+          "author": "valentin",
+          "category": "COMPUTER",
+          "interrogation": "Who�s the father of C programming language ?",
+          "choices": {
+            "Thomas Kurts": false,
+            "Dennis Ritchie": true,
+            "Bill Gates": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Nicolas",
+          "category": "IDEAS",
+          "interrogation": "Who was the first woman to go into space ?",
+          "choices": {
+            "Valentina Terechkova": true,
+            "Sian Proctor": false,
+            "Ioulia Peressild ": false
+          }
+        },
+        {
+          "author": "Nicolas",
+          "category": "SCIENCE",
+          "interrogation": "Who invented the periodic table of chemical elements?",
+          "choices": {
+            "Dimitri Mendeleïev": true,
+            "Peter Agre  ": false,
+            "Rosalind Franklin": false
+          }
+        },
+        {
+          "author": "Nicolas",
+          "category": "PLANET",
+          "interrogation": "What’s the name of the scale to measure the intensity of an earthquake ?",
+          "choices": {
+            "Norton scale": false,
+            "Fujita scale": false,
+            "Richter scale": true
+          }
+        },
+        {
+          "author": "Nicolas",
+          "category": "HISTORY",
+          "interrogation": "Who assassinates president John Fitzgerald Kennedy on November 22 in Dallas ?",
+          "choices": {
+            "Lee Harvey Oswald": true,
+            "Jack Rudy": false,
+            "Marc David Chapman": false
+          }
+        },
+        {
+          "author": "Nicolas",
+          "category": "LITERATURE",
+          "interrogation": "Who was Emile Zola?",
+          "choices": {
+            "A painter": false,
+            "A lawyer": false,
+            "A writer": true
+          }
+        },
+        {
+          "author": "Nicolas",
+          "category": "COMPUTER",
+          "interrogation": "When AMD foundation was founded?",
+          "choices": {
+            "1950": false,
+            "1969": true,
+            "1978": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Nicolas",
+          "category": "IDEAS",
+          "interrogation": "In which country was the first atomic bomb used in a war context?",
+          "choices": {
+            "Japan": true,
+            "Italy": false,
+            "Russia": false
+          }
+        },
+        {
+          "author": "Nicolas",
+          "category": "SCIENCE",
+          "interrogation": "What do you call a mixture where the reagents run out simultaneously ?",
+          "choices": {
+            "Heterogenous mixture": false,
+            "Miscrible mixture": false,
+            "Stoichiometric mixture": true
+          }
+        },
+        {
+          "author": "Nicolas",
+          "category": "PLANET",
+          "interrogation": "Which explorer proved that the Earth is round ?",
+          "choices": {
+            "Christopher Colombus": false,
+            "Vasco de Gama": false,
+            "Ferdinand Magellan": true
+          }
+        },
+        {
+          "author": "Nicolas",
+          "category": "HISTORY",
+          "interrogation": "What happened on the night of August 4, 1789 ?",
+          "choices": {
+            "The vote of the declaration of the rights of man and of the citizen": false,
+            "The abolition of slavery": false,
+            "The abolition of feudal rights and privileges": true
+          }
+        },
+        {
+          "author": "Nicolas",
+          "category": "LITERATURE",
+          "interrogation": "Who wrote the novel “Les Misérables” ?",
+          "choices": {
+            "Charles Baudelaire": false,
+            "Victor Hugo": true,
+            "Gustave Flobert": false
+          }
+        },
+        {
+          "author": "Nicolas",
+          "category": "COMPUTER",
+          "interrogation": "When was the first computer invented ?",
+          "choices": {
+            "1950": false,
+            "1945": true,
+            "1955": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Nicolas",
+          "category": "IDEAS",
+          "interrogation": "What is the most famous place in Moscow ?",
+          "choices": {
+            "The red square": true,
+            "The Kremlin": false,
+            "Ismaylovo place": true
+          }
+        },
+        {
+          "author": "Nicolas",
+          "category": "SCIENCE",
+          "interrogation": "How old is the universe ?",
+          "choices": {
+            "19.3 billion yo": false,
+            "12.1 billion yo": false,
+            "13.8 billion yo": true
+          }
+        },
+        {
+          "author": "Nicolas",
+          "category": "PLANET",
+          "interrogation": "What are the imaginary semicircles that connect the two poles called ?",
+          "choices": {
+            "The meridians": true,
+            "The tropics": false,
+            "The longitudes": false
+          }
+        },
+        {
+          "author": "Nicolas",
+          "category": "HISTORY",
+          "interrogation": "When was Julius Caesar born ?",
+          "choices": {
+            "In 110 before J-C": false,
+            "In 80 before J-C": false,
+            "In 100 before J-C": true
+          }
+        },
+        {
+          "author": "Nicolas",
+          "category": "LITERATURE",
+          "interrogation": "Who is the famous french poet known for his fables ?",
+          "choices": {
+            "Stendhal": false,
+            "Jean de la Fontaine": true,
+            "Voltaire": false
+          }
+        },
+        {
+          "author": "Nicolas",
+          "category": "COMPUTER",
+          "interrogation": "What does the acronym DOS stand for ?",
+          "choices": {
+            "Dual Operating System": false,
+            "Disk Operating System": true,
+            "Disk Organisated System": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Kyllian",
+          "category": "IDEAS",
+          "interrogation": "What's the most famous place in Perou ?",
+          "choices": {
+            "Effeil Tower": false,
+            "Atomium": false,
+            "Machu Picchu": true
+          }
+        },
+        {
+          "author": "Kyllian",
+          "category": "SCIENCE",
+          "interrogation": "What does it make (H2O) ?",
+          "choices": {
+            "Water": true,
+            "Lava": false,
+            "Nickel": false
+          }
+        },
+        {
+          "author": "Kyllian",
+          "category": "PLANET",
+          "interrogation": "WHERE IS LOCATED OZON STRATE ?",
+          "choices": {
+            "0-20km": false,
+            "50-70km": false,
+            "20-50km": true
+          }
+        },
+        {
+          "author": "Kyllian",
+          "category": "HISTORY",
+          "interrogation": "HEN DID LOUIS 14'S REIGN END ?",
+          "choices": {
+            "1789": false,
+            "1650": false,
+            "1715": true
+          }
+        },
+        {
+          "author": "Kyllian",
+          "category": "LITERATURE",
+          "interrogation": "WHO HAS WRITTEN \"LES MISERABLES\" ?",
+          "choices": {
+            "Emile Zola": false,
+            "Victor Hugo": true,
+            "Jean De La Fontaine": false
+          }
+        },
+        {
+          "author": "Kyllian",
+          "category": "COMPUTER",
+          "interrogation": "HOW MANY BITS DO YOU HAVE IN A BYTE ?",
+          "choices": {
+            "5": false,
+            "8": true,
+            "10": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Kyllian",
+          "category": "IDEAS",
+          "interrogation": "WHICH IS THE BIGGEST MOUNTAINS CHAIN IN RUSSIA ?",
+          "choices": {
+            "Scout Ural": false,
+            "Oural": true,
+            "Polar Urals": false
+          }
+        },
+        {
+          "author": "Kyllian",
+          "category": "SCIENCE",
+          "interrogation": "WHO DEMONSTRATED E=MC2 ?",
+          "choices": {
+            "Andre-Marie Amper": false,
+            "James Prescott Joule": false,
+            "Albert Einstein": true
+          }
+        },
+        {
+          "author": "Kyllian",
+          "category": "PLANET",
+          "interrogation": "WHAT THE COVERAGE PERCENTAGE OF THE OCEANS ?",
+          "choices": {
+            "30%": false,
+            "50%": false,
+            "70%": true
+          }
+        },
+        {
+          "author": "Kyllian",
+          "category": "HISTORY",
+          "interrogation": "WHEN WAS INVENTED THE JAVA LANGUAGE ?",
+          "choices": {
+            "1995": true,
+            "1982": false,
+            "2003": false
+          }
+        },
+        {
+          "author": "Kyllian",
+          "category": "LITERATURE",
+          "interrogation": "HOW MANY CHAPTERS \"THE LORD OF THE RING\" COUNTS ?",
+          "choices": {
+            "2": false,
+            "3": true,
+            "5": false
+          }
+        },
+        {
+          "author": "Kyllian",
+          "category": "COMPUTER",
+          "interrogation": "WHERE WAS INVENTED THE FIRST COMPUTER WITH A SCREEN ?",
+          "choices": {
+            "New York": true,
+            "Brussels": false,
+            "London": false
+          }
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "author": "Kyllian",
+          "category": "IDEAS",
+          "interrogation": "HOW DO WE NICKNAME ITALY ?",
+          "choices": {
+            "The Boot": true,
+            "The Sneakers": false,
+            "The Thong": false
+          }
+        },
+        {
+          "author": "Kyllian",
+          "category": "SCIENCE",
+          "interrogation": "WHICH SEASON AM I IN IF IT'S 4 OCTOBER ?",
+          "choices": {
+            "Winter": false,
+            "Autumn": true,
+            "Summer": false
+          }
+        },
+        {
+          "author": "Kyllian",
+          "category": "PLANET",
+          "interrogation": "HOW MUCH TIME TAKE THE EARTH TO ROTATE ARROUND THE SUN ?",
+          "choices": {
+            "24 hours": false,
+            "365 days": true,
+            "1 week": false
+          }
+        },
+        {
+          "author": "Kyllian",
+          "category": "HISTORY",
+          "interrogation": "HOW LONG HAS QUEEN ELISABETH II REIGNED ?",
+          "choices": {
+            "70 years": true,
+            "50 years": false,
+            "60 years": false
+          }
+        },
+        {
+          "author": "Kyllian",
+          "category": "LITERATURE",
+          "interrogation": "WHEN WAS WRITTEN THE FIRST JEAN DE LA FONTAINE'S FABLE ?",
+          "choices": {
+            "1789": false,
+            "1668": true,
+            "1512": false
+          }
+        },
+        {
+          "author": "Kyllian",
+          "category": "COMPUTER",
+          "interrogation": "WHAT DOES MICROSOFT'S LOGO LOOK LIKE ?",
+          "choices": {
+            "A door": false,
+            "A window": true,
+            "A chair": false
+          }
+        }
+      ]
+    }
+  ]
+}
